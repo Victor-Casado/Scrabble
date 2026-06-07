@@ -1,0 +1,41 @@
+{
+  "generatedAt": "2026-06-06T23:28:25.229Z",
+  "mode": "evolve",
+  "matches": 2,
+  "playerCount": 6,
+  "auctionType": "Vickrey",
+  "opponentProfile": "mixed",
+  "result": {
+    "id": "gen-1-1",
+    "config": {
+      "bidMultiplier": 2.5853838249575345,
+      "firstPriceShade": 0.8283150498755276,
+      "maxBidBalanceFraction": 0.6059040312189609,
+      "reserveBalance": 43,
+      "cashInMinScore": 41,
+      "finalDump": true,
+      "minBid": 6,
+      "endgameMultiplier": 3.2457963950000703,
+      "finalAuctionMultiplier": 0,
+      "qPenalty": 0.8506979214958846,
+      "synergyMultiplier": 2.3447775010950864
+    },
+    "avgScore": 90,
+    "avgRank": 1.5,
+    "winRate": 0.5,
+    "fitness": 132.5
+  },
+  "config": {
+    "bidMultiplier": 2.5853838249575345,
+    "firstPriceShade": 0.8283150498755276,
+    "maxBidBalanceFraction": 0.6059040312189609,
+    "reserveBalance": 43,
+    "cashInMinScore": 41,
+    "finalDump": true,
+    "minBid": 6,
+    "endgameMultiplier": 3.2457963950000703,
+    "finalAuctionMultiplier": 0,
+    "qPenalty": 0.8506979214958846,
+    "synergyMultiplier": 2.3447775010950864
+  }
+}

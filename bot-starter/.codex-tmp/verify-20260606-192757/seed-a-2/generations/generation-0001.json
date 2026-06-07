@@ -1,0 +1,132 @@
+{
+  "generatedAt": "2026-06-06T23:28:14.603Z",
+  "generation": 1,
+  "generations": 1,
+  "mode": "evolve",
+  "matches": 2,
+  "seed": 20260606,
+  "playerCount": 6,
+  "auctionType": "Vickrey",
+  "opponentProfile": "mixed",
+  "workers": 2,
+  "stats": {
+    "fixedOpponentCount": 14,
+    "peerOpponentCount": 2,
+    "population": 4
+  },
+  "result": {
+    "id": "gen-1-0",
+    "config": {
+      "bidMultiplier": 2.1631045558489856,
+      "firstPriceShade": 0.6954751376528292,
+      "maxBidBalanceFraction": 0.15535730230621994,
+      "reserveBalance": 9,
+      "cashInMinScore": 56,
+      "finalDump": true,
+      "minBid": 6,
+      "endgameMultiplier": 4.915409435518086,
+      "finalAuctionMultiplier": 0,
+      "qPenalty": 0.18656879491172731,
+      "synergyMultiplier": 0.8522242357721552
+    },
+    "avgScore": 66,
+    "avgRank": 3,
+    "winRate": 0,
+    "fitness": -4
+  },
+  "config": {
+    "bidMultiplier": 2.1631045558489856,
+    "firstPriceShade": 0.6954751376528292,
+    "maxBidBalanceFraction": 0.15535730230621994,
+    "reserveBalance": 9,
+    "cashInMinScore": 56,
+    "finalDump": true,
+    "minBid": 6,
+    "endgameMultiplier": 4.915409435518086,
+    "finalAuctionMultiplier": 0,
+    "qPenalty": 0.18656879491172731,
+    "synergyMultiplier": 0.8522242357721552
+  },
+  "top": [
+    {
+      "id": "gen-1-0",
+      "config": {
+        "bidMultiplier": 2.1631045558489856,
+        "firstPriceShade": 0.6954751376528292,
+        "maxBidBalanceFraction": 0.15535730230621994,
+        "reserveBalance": 9,
+        "cashInMinScore": 56,
+        "finalDump": true,
+        "minBid": 6,
+        "endgameMultiplier": 4.915409435518086,
+        "finalAuctionMultiplier": 0,
+        "qPenalty": 0.18656879491172731,
+        "synergyMultiplier": 0.8522242357721552
+      },
+      "avgScore": 66,
+      "avgRank": 3,
+      "winRate": 0,
+      "fitness": -4
+    },
+    {
+      "id": "gen-1-1",
+      "config": {
+        "bidMultiplier": 2.498746666871011,
+        "firstPriceShade": 0.4628626693040132,
+        "maxBidBalanceFraction": 0.2158827729523182,
+        "reserveBalance": 44,
+        "cashInMinScore": 24,
+        "finalDump": true,
+        "minBid": 4,
+        "endgameMultiplier": 5.585577418003231,
+        "finalAuctionMultiplier": 0,
+        "qPenalty": 0.4199159454088658,
+        "synergyMultiplier": 2.1315934273647144
+      },
+      "avgScore": 66,
+      "avgRank": 3,
+      "winRate": 0,
+      "fitness": -4
+    },
+    {
+      "id": "gen-1-2",
+      "config": {
+        "bidMultiplier": 2.462401675060391,
+        "firstPriceShade": 0.4415829659439623,
+        "maxBidBalanceFraction": 0.4701782805146649,
+        "reserveBalance": 18,
+        "cashInMinScore": 69,
+        "finalDump": true,
+        "minBid": 4,
+        "endgameMultiplier": 5.54928716737777,
+        "finalAuctionMultiplier": 0,
+        "qPenalty": 0.4828825703822076,
+        "synergyMultiplier": 2.2440750343957916
+      },
+      "avgScore": 58.5,
+      "avgRank": 4,
+      "winRate": 0,
+      "fitness": -46.5
+    },
+    {
+      "id": "gen-1-3",
+      "config": {
+        "bidMultiplier": 2.051210959581658,
+        "firstPriceShade": 0.5501043447293341,
+        "maxBidBalanceFraction": 0.40364460963755844,
+        "reserveBalance": 8,
+        "cashInMinScore": 56,
+        "finalDump": true,
+        "minBid": 3,
+        "endgameMultiplier": 2.3481507105752826,
+        "finalAuctionMultiplier": 0,
+        "qPenalty": 0.7485719291958958,
+        "synergyMultiplier": 1.9062802338739857
+      },
+      "avgScore": 58.5,
+      "avgRank": 4,
+      "winRate": 0,
+      "fitness": -46.5
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+﻿node_modules/
+dist/
+target/
+__pycache__/
+.pytest_cache/
+*.pyc
+*.log
+.token-*
+.env
+.env.*
+.DS_Store
+atreides/src/precomputed/best_word/
+atreides/src/precomputed/tile_gain/
+bot-starter/src/precomputed/best_word/
+bot-starter/src/precomputed/tile_gain/
+

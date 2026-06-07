@@ -1,0 +1,25 @@
+{
+  "name": "scrabblebot-bot-starter",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "generate": "spacetime generate --lang typescript --out-dir src/module_bindings --module-path ../spacetimedb",
+    "precompute": "tsx src/precompute.ts",
+    "start": "tsx src/index.ts",
+    "tune": "tsx src/neat.ts",
+    "neat": "tsx src/neat.ts",
+    "build": "tsc",
+    "test": "tsx --test src/config_policy.test.ts src/index_policy.test.ts src/strategy_policy.test.ts src/phase_strategy.test.ts src/word_policy.test.ts src/neat_policy.test.ts src/precompute_tables.test.ts src/live_tables.test.ts src/professor_policy.test.ts src/server_cleanup_policy.test.ts"
+  },
+  "dependencies": {
+    "spacetimedb": "^2.2.0",
+    "ws": "^8.18.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "@types/ws": "^8.5.0",
+    "tsx": "^4.7.0",
+    "typescript": "^5.3.0"
+  }
+}

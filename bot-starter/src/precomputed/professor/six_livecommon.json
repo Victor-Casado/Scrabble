@@ -1,0 +1,7202 @@
+{
+  "A|p0|rs0|vw0|br0|b4": {
+    "best_ev": 0.792,
+    "bid": 15,
+    "improvement": 0.0,
+    "live_bid": 15,
+    "live_ev": 0.792,
+    "variance": 0.0067,
+    "visits": 20
+  },
+  "A|p0|rs0|vw0|br0|b5": {
+    "best_ev": 0.556,
+    "bid": 15,
+    "improvement": 0.0,
+    "live_bid": 15,
+    "live_ev": 0.556,
+    "variance": 0.0808,
+    "visits": 20
+  },
+  "A|p0|rs0|vw0|br1|b3": {
+    "best_ev": 0.817,
+    "bid": 22,
+    "improvement": 0.063,
+    "live_bid": 17,
+    "live_ev": 0.754,
+    "variance": 0.0236,
+    "visits": 20
+  },
+  "A|p0|rs0|vw0|br1|b4": {
+    "best_ev": 0.57,
+    "bid": 0,
+    "improvement": 0.113,
+    "live_bid": 15,
+    "live_ev": 0.457,
+    "variance": 0.0719,
+    "visits": 20
+  },
+  "A|p0|rs0|vw0|br2|b4": {
+    "best_ev": 0.834,
+    "bid": 16,
+    "improvement": 0.105,
+    "live_bid": 13,
+    "live_ev": 0.729,
+    "variance": 0.0354,
+    "visits": 20
+  },
+  "A|p0|rs0|vw1|br1|b3": {
+    "best_ev": 0.736,
+    "bid": 10,
+    "improvement": 0.075,
+    "live_bid": 8,
+    "live_ev": 0.661,
+    "variance": 0.0646,
+    "visits": 20
+  },
+  "A|p0|rs0|vw1|br1|b4": {
+    "best_ev": 0.695,
+    "bid": 0,
+    "improvement": 0.039,
+    "live_bid": 14,
+    "live_ev": 0.656,
+    "variance": 0.0919,
+    "visits": 20
+  },
+  "A|p0|rs0|vw1|br2|b4": {
+    "best_ev": 0.737,
+    "bid": 19,
+    "improvement": 0.063,
+    "live_bid": 14,
+    "live_ev": 0.674,
+    "variance": 0.0525,
+    "visits": 20
+  },
+  "A|p0|rs0|vw2|br1|b4": {
+    "best_ev": 0.722,
+    "bid": 0,
+    "improvement": 0.01,
+    "live_bid": 14,
+    "live_ev": 0.712,
+    "variance": 0.0615,
+    "visits": 20
+  },
+  "A|p0|rs1|vw1|br1|b4": {
+    "best_ev": 0.866,
+    "bid": 25,
+    "improvement": 0.088,
+    "live_bid": 13,
+    "live_ev": 0.778,
+    "variance": 0.0337,
+    "visits": 20
+  },
+  "A|p0|rs1|vw1|br2|b3": {
+    "best_ev": 0.559,
+    "bid": 12,
+    "improvement": 0.173,
+    "live_bid": 13,
+    "live_ev": 0.386,
+    "variance": 0.0843,
+    "visits": 20
+  },
+  "A|p0|rs1|vw1|br2|b4": {
+    "best_ev": 0.817,
+    "bid": 12,
+    "improvement": 0.112,
+    "live_bid": 13,
+    "live_ev": 0.705,
+    "variance": 0.0236,
+    "visits": 20
+  },
+  "A|p0|rs1|vw2|br1|b3": {
+    "best_ev": 0.669,
+    "bid": 1,
+    "improvement": 0.028,
+    "live_bid": 13,
+    "live_ev": 0.641,
+    "variance": 0.0509,
+    "visits": 20
+  },
+  "A|p0|rs1|vw2|br1|b4": {
+    "best_ev": 0.74,
+    "bid": 16,
+    "improvement": 0.0,
+    "live_bid": 16,
+    "live_ev": 0.74,
+    "variance": 0.0856,
+    "visits": 20
+  },
+  "A|p0|rs1|vw2|br2|b3": {
+    "best_ev": 0.605,
+    "bid": 0,
+    "improvement": 0.052,
+    "live_bid": 12,
+    "live_ev": 0.553,
+    "variance": 0.0709,
+    "visits": 20
+  },
+  "A|p1|rs0|vw0|br0|b3": {
+    "best_ev": 0.798,
+    "bid": 9,
+    "improvement": 0.119,
+    "live_bid": 10,
+    "live_ev": 0.679,
+    "variance": 0.033,
+    "visits": 20
+  },
+  "A|p1|rs0|vw0|br0|b4": {
+    "best_ev": 0.463,
+    "bid": 17,
+    "improvement": 0.145,
+    "live_bid": 11,
+    "live_ev": 0.318,
+    "variance": 0.0532,
+    "visits": 20
+  },
+  "A|p1|rs0|vw0|br0|b5": {
+    "best_ev": 0.655,
+    "bid": 7,
+    "improvement": 0.065,
+    "live_bid": 12,
+    "live_ev": 0.59,
+    "variance": 0.0169,
+    "visits": 20
+  },
+  "A|p1|rs0|vw0|br1|b1": {
+    "best_ev": 0.77,
+    "bid": 9,
+    "improvement": 0.04,
+    "live_bid": 10,
+    "live_ev": 0.73,
+    "variance": 0.0019,
+    "visits": 20
+  },
+  "A|p1|rs0|vw0|br1|b2": {
+    "best_ev": 0.507,
+    "bid": 42,
+    "improvement": 0.297,
+    "live_bid": 10,
+    "live_ev": 0.21,
+    "variance": 0.0527,
+    "visits": 20
+  },
+  "A|p1|rs0|vw0|br1|b3": {
+    "best_ev": 0.465,
+    "bid": 6,
+    "improvement": 0.043,
+    "live_bid": 11,
+    "live_ev": 0.422,
+    "variance": 0.0463,
+    "visits": 20
+  },
+  "A|p1|rs0|vw0|br1|b4": {
+    "best_ev": 0.796,
+    "bid": 27,
+    "improvement": 0.09,
+    "live_bid": 10,
+    "live_ev": 0.706,
+    "variance": 0.0243,
+    "visits": 20
+  },
+  "A|p1|rs0|vw1|br1|b1": {
+    "best_ev": 0.475,
+    "bid": 7,
+    "improvement": 0.068,
+    "live_bid": 8,
+    "live_ev": 0.407,
+    "variance": 0.0205,
+    "visits": 20
+  },
+  "A|p1|rs0|vw1|br1|b2": {
+    "best_ev": 0.421,
+    "bid": 20,
+    "improvement": 0.137,
+    "live_bid": 10,
+    "live_ev": 0.284,
+    "variance": 0.0335,
+    "visits": 20
+  },
+  "A|p1|rs0|vw1|br1|b3": {
+    "best_ev": 0.805,
+    "bid": 48,
+    "improvement": 0.045,
+    "live_bid": 21,
+    "live_ev": 0.76,
+    "variance": 0.0175,
+    "visits": 20
+  },
+  "A|p1|rs0|vw1|br1|b4": {
+    "best_ev": 1.0,
+    "bid": 15,
+    "improvement": 0.011,
+    "live_bid": 16,
+    "live_ev": 0.989,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "A|p1|rs1|vw0|br1|b1": {
+    "best_ev": 0.967,
+    "bid": 17,
+    "improvement": 0.069,
+    "live_bid": 5,
+    "live_ev": 0.898,
+    "variance": 0.0062,
+    "visits": 20
+  },
+  "A|p1|rs1|vw1|br1|b1": {
+    "best_ev": 0.36,
+    "bid": 3,
+    "improvement": 0.045,
+    "live_bid": 6,
+    "live_ev": 0.315,
+    "variance": 0.036,
+    "visits": 20
+  },
+  "A|p1|rs1|vw1|br1|b4": {
+    "best_ev": 0.644,
+    "bid": 1,
+    "improvement": 0.194,
+    "live_bid": 10,
+    "live_ev": 0.45,
+    "variance": 0.0572,
+    "visits": 20
+  },
+  "A|p1|rs1|vw1|br2|b1": {
+    "best_ev": 0.595,
+    "bid": 4,
+    "improvement": 0.06,
+    "live_bid": 9,
+    "live_ev": 0.535,
+    "variance": 0.0253,
+    "visits": 20
+  },
+  "A|p1|rs1|vw1|br2|b2": {
+    "best_ev": 0.934,
+    "bid": 9,
+    "improvement": 0.042,
+    "live_bid": 14,
+    "live_ev": 0.892,
+    "variance": 0.0102,
+    "visits": 20
+  },
+  "A|p1|rs1|vw1|br2|b3": {
+    "best_ev": 0.861,
+    "bid": 15,
+    "improvement": 0.293,
+    "live_bid": 10,
+    "live_ev": 0.568,
+    "variance": 0.0281,
+    "visits": 20
+  },
+  "A|p1|rs1|vw1|br2|b4": {
+    "best_ev": 0.653,
+    "bid": 10,
+    "improvement": 0.0,
+    "live_bid": 10,
+    "live_ev": 0.653,
+    "variance": 0.0381,
+    "visits": 20
+  },
+  "A|p1|rs1|vw2|br1|b4": {
+    "best_ev": 0.684,
+    "bid": 11,
+    "improvement": 0.041,
+    "live_bid": 10,
+    "live_ev": 0.643,
+    "variance": 0.0585,
+    "visits": 20
+  },
+  "A|p1|rs1|vw2|br2|b2": {
+    "best_ev": 0.802,
+    "bid": 11,
+    "improvement": 0.0,
+    "live_bid": 11,
+    "live_ev": 0.802,
+    "variance": 0.0044,
+    "visits": 20
+  },
+  "A|p1|rs1|vw2|br2|b3": {
+    "best_ev": 0.571,
+    "bid": 14,
+    "improvement": 0.221,
+    "live_bid": 9,
+    "live_ev": 0.35,
+    "variance": 0.0752,
+    "visits": 20
+  },
+  "A|p2|rs0|vw0|br0|b1": {
+    "best_ev": 0.78,
+    "bid": 16,
+    "improvement": 0.0,
+    "live_bid": 16,
+    "live_ev": 0.78,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "A|p2|rs0|vw0|br0|b2": {
+    "best_ev": 0.58,
+    "bid": 10,
+    "improvement": 0.0,
+    "live_bid": 10,
+    "live_ev": 0.58,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "A|p2|rs0|vw0|br0|b3": {
+    "best_ev": 0.58,
+    "bid": 16,
+    "improvement": 0.06,
+    "live_bid": 11,
+    "live_ev": 0.52,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "A|p2|rs0|vw0|br1|b2": {
+    "best_ev": 0.69,
+    "bid": 10,
+    "improvement": 0.0,
+    "live_bid": 10,
+    "live_ev": 0.69,
+    "variance": 0.0099,
+    "visits": 20
+  },
+  "A|p2|rs0|vw1|br1|b1": {
+    "best_ev": 0.78,
+    "bid": 9,
+    "improvement": 0.0,
+    "live_bid": 9,
+    "live_ev": 0.78,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "A|p2|rs0|vw1|br1|b2": {
+    "best_ev": 1.0,
+    "bid": 10,
+    "improvement": 0.0,
+    "live_bid": 10,
+    "live_ev": 1.0,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "A|p2|rs0|vw1|br1|b3": {
+    "best_ev": 0.49,
+    "bid": 25,
+    "improvement": 0.045,
+    "live_bid": 10,
+    "live_ev": 0.445,
+    "variance": 0.0189,
+    "visits": 20
+  },
+  "A|p2|rs0|vw1|br2|b1": {
+    "best_ev": 0.28,
+    "bid": 19,
+    "improvement": 0.0,
+    "live_bid": 19,
+    "live_ev": 0.28,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "A|p2|rs1|vw1|br1|b0": {
+    "best_ev": 0.12,
+    "bid": 9,
+    "improvement": 0.0,
+    "live_bid": 9,
+    "live_ev": 0.12,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "A|p2|rs1|vw1|br2|b1": {
+    "best_ev": 0.58,
+    "bid": 13,
+    "improvement": 0.0,
+    "live_bid": 13,
+    "live_ev": 0.58,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "A|p2|rs1|vw1|br2|b2": {
+    "best_ev": 0.52,
+    "bid": 11,
+    "improvement": 0.045,
+    "live_bid": 10,
+    "live_ev": 0.475,
+    "variance": 0.0144,
+    "visits": 20
+  },
+  "B|p0|rs0|vw0|br0|b4": {
+    "best_ev": 0.828,
+    "bid": 1,
+    "improvement": 0.104,
+    "live_bid": 11,
+    "live_ev": 0.724,
+    "variance": 0.0251,
+    "visits": 20
+  },
+  "B|p0|rs0|vw0|br1|b3": {
+    "best_ev": 0.358,
+    "bid": 15,
+    "improvement": 0.055,
+    "live_bid": 10,
+    "live_ev": 0.303,
+    "variance": 0.042,
+    "visits": 20
+  },
+  "B|p0|rs0|vw0|br1|b4": {
+    "best_ev": 0.869,
+    "bid": 34,
+    "improvement": 0.03,
+    "live_bid": 11,
+    "live_ev": 0.839,
+    "variance": 0.0465,
+    "visits": 20
+  },
+  "B|p0|rs0|vw1|br1|b4": {
+    "best_ev": 0.86,
+    "bid": 0,
+    "improvement": 0.242,
+    "live_bid": 10,
+    "live_ev": 0.618,
+    "variance": 0.0238,
+    "visits": 20
+  },
+  "B|p0|rs0|vw1|br2|b4": {
+    "best_ev": 0.625,
+    "bid": 5,
+    "improvement": 0.055,
+    "live_bid": 10,
+    "live_ev": 0.57,
+    "variance": 0.0295,
+    "visits": 20
+  },
+  "B|p0|rs0|vw2|br1|b4": {
+    "best_ev": 0.762,
+    "bid": 5,
+    "improvement": 0.091,
+    "live_bid": 10,
+    "live_ev": 0.671,
+    "variance": 0.0872,
+    "visits": 20
+  },
+  "B|p0|rs1|vw1|br2|b3": {
+    "best_ev": 0.475,
+    "bid": 11,
+    "improvement": 0.035,
+    "live_bid": 10,
+    "live_ev": 0.44,
+    "variance": 0.0205,
+    "visits": 20
+  },
+  "B|p0|rs1|vw1|br2|b4": {
+    "best_ev": 0.634,
+    "bid": 15,
+    "improvement": 0.112,
+    "live_bid": 10,
+    "live_ev": 0.522,
+    "variance": 0.0564,
+    "visits": 20
+  },
+  "B|p0|rs1|vw2|br1|b3": {
+    "best_ev": 0.625,
+    "bid": 38,
+    "improvement": 0.164,
+    "live_bid": 9,
+    "live_ev": 0.461,
+    "variance": 0.0751,
+    "visits": 20
+  },
+  "B|p0|rs1|vw2|br1|b4": {
+    "best_ev": 0.834,
+    "bid": 44,
+    "improvement": 0.151,
+    "live_bid": 10,
+    "live_ev": 0.683,
+    "variance": 0.0354,
+    "visits": 20
+  },
+  "B|p1|rs0|vw0|br0|b2": {
+    "best_ev": 0.744,
+    "bid": 17,
+    "improvement": 0.194,
+    "live_bid": 12,
+    "live_ev": 0.55,
+    "variance": 0.0244,
+    "visits": 20
+  },
+  "B|p1|rs0|vw0|br0|b3": {
+    "best_ev": 0.978,
+    "bid": 1,
+    "improvement": 0.078,
+    "live_bid": 12,
+    "live_ev": 0.9,
+    "variance": 0.0044,
+    "visits": 20
+  },
+  "B|p1|rs0|vw0|br0|b4": {
+    "best_ev": 0.503,
+    "bid": 6,
+    "improvement": 0.098,
+    "live_bid": 11,
+    "live_ev": 0.405,
+    "variance": 0.0675,
+    "visits": 20
+  },
+  "B|p1|rs0|vw0|br1|b2": {
+    "best_ev": 0.616,
+    "bid": 14,
+    "improvement": 0.514,
+    "live_bid": 10,
+    "live_ev": 0.102,
+    "variance": 0.0605,
+    "visits": 20
+  },
+  "B|p1|rs0|vw0|br1|b3": {
+    "best_ev": 0.569,
+    "bid": 9,
+    "improvement": 0.204,
+    "live_bid": 10,
+    "live_ev": 0.365,
+    "variance": 0.0505,
+    "visits": 20
+  },
+  "B|p1|rs0|vw0|br1|b4": {
+    "best_ev": 0.696,
+    "bid": 19,
+    "improvement": 0.069,
+    "live_bid": 20,
+    "live_ev": 0.627,
+    "variance": 0.0675,
+    "visits": 20
+  },
+  "B|p1|rs0|vw1|br1|b2": {
+    "best_ev": 0.78,
+    "bid": 9,
+    "improvement": 0.0,
+    "live_bid": 9,
+    "live_ev": 0.78,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "B|p1|rs0|vw1|br1|b3": {
+    "best_ev": 0.763,
+    "bid": 14,
+    "improvement": 0.0,
+    "live_bid": 14,
+    "live_ev": 0.763,
+    "variance": 0.0626,
+    "visits": 20
+  },
+  "B|p1|rs0|vw1|br2|b1": {
+    "best_ev": 0.327,
+    "bid": 11,
+    "improvement": 0.047,
+    "live_bid": 9,
+    "live_ev": 0.28,
+    "variance": 0.0206,
+    "visits": 20
+  },
+  "B|p1|rs1|vw0|br1|b4": {
+    "best_ev": 0.73,
+    "bid": 71,
+    "improvement": 0.229,
+    "live_bid": 10,
+    "live_ev": 0.501,
+    "variance": 0.0821,
+    "visits": 20
+  },
+  "B|p1|rs1|vw1|br2|b2": {
+    "best_ev": 0.989,
+    "bid": 20,
+    "improvement": 0.022,
+    "live_bid": 9,
+    "live_ev": 0.967,
+    "variance": 0.0023,
+    "visits": 20
+  },
+  "B|p1|rs1|vw1|br2|b3": {
+    "best_ev": 0.387,
+    "bid": 22,
+    "improvement": 0.02,
+    "live_bid": 17,
+    "live_ev": 0.367,
+    "variance": 0.0949,
+    "visits": 20
+  },
+  "B|p1|rs1|vw1|br2|b4": {
+    "best_ev": 0.846,
+    "bid": 16,
+    "improvement": 0.203,
+    "live_bid": 10,
+    "live_ev": 0.643,
+    "variance": 0.0408,
+    "visits": 20
+  },
+  "B|p1|rs1|vw2|br1|b4": {
+    "best_ev": 0.71,
+    "bid": 0,
+    "improvement": 0.144,
+    "live_bid": 17,
+    "live_ev": 0.566,
+    "variance": 0.0547,
+    "visits": 20
+  },
+  "C|p0|rs0|vw0|br1|b3": {
+    "best_ev": 0.794,
+    "bid": 36,
+    "improvement": 0.099,
+    "live_bid": 10,
+    "live_ev": 0.695,
+    "variance": 0.0155,
+    "visits": 20
+  },
+  "C|p0|rs0|vw0|br1|b4": {
+    "best_ev": 0.849,
+    "bid": 0,
+    "improvement": 0.067,
+    "live_bid": 11,
+    "live_ev": 0.782,
+    "variance": 0.023,
+    "visits": 20
+  },
+  "C|p0|rs0|vw1|br1|b4": {
+    "best_ev": 0.63,
+    "bid": 9,
+    "improvement": 0.111,
+    "live_bid": 10,
+    "live_ev": 0.519,
+    "variance": 0.0831,
+    "visits": 20
+  },
+  "C|p0|rs0|vw1|br2|b4": {
+    "best_ev": 0.848,
+    "bid": 1,
+    "improvement": 0.091,
+    "live_bid": 10,
+    "live_ev": 0.757,
+    "variance": 0.0187,
+    "visits": 20
+  },
+  "C|p0|rs0|vw2|br1|b4": {
+    "best_ev": 0.704,
+    "bid": 31,
+    "improvement": 0.079,
+    "live_bid": 10,
+    "live_ev": 0.625,
+    "variance": 0.0429,
+    "visits": 20
+  },
+  "C|p0|rs1|vw1|br2|b3": {
+    "best_ev": 0.618,
+    "bid": 1,
+    "improvement": 0.217,
+    "live_bid": 10,
+    "live_ev": 0.401,
+    "variance": 0.056,
+    "visits": 20
+  },
+  "C|p0|rs1|vw1|br2|b4": {
+    "best_ev": 0.845,
+    "bid": 24,
+    "improvement": 0.166,
+    "live_bid": 9,
+    "live_ev": 0.679,
+    "variance": 0.0365,
+    "visits": 20
+  },
+  "C|p0|rs1|vw2|br1|b4": {
+    "best_ev": 0.848,
+    "bid": 16,
+    "improvement": 0.13,
+    "live_bid": 13,
+    "live_ev": 0.718,
+    "variance": 0.0187,
+    "visits": 20
+  },
+  "C|p1|rs0|vw0|br0|b3": {
+    "best_ev": 0.746,
+    "bid": 15,
+    "improvement": 0.068,
+    "live_bid": 10,
+    "live_ev": 0.678,
+    "variance": 0.0468,
+    "visits": 20
+  },
+  "C|p1|rs0|vw0|br0|b4": {
+    "best_ev": 0.447,
+    "bid": 16,
+    "improvement": 0.118,
+    "live_bid": 11,
+    "live_ev": 0.329,
+    "variance": 0.0584,
+    "visits": 20
+  },
+  "C|p1|rs0|vw0|br0|b5": {
+    "best_ev": 0.691,
+    "bid": 56,
+    "improvement": 0.054,
+    "live_bid": 11,
+    "live_ev": 0.637,
+    "variance": 0.0145,
+    "visits": 20
+  },
+  "C|p1|rs0|vw0|br1|b3": {
+    "best_ev": 0.37,
+    "bid": 16,
+    "improvement": 0.091,
+    "live_bid": 11,
+    "live_ev": 0.279,
+    "variance": 0.0423,
+    "visits": 20
+  },
+  "C|p1|rs0|vw1|br1|b3": {
+    "best_ev": 0.591,
+    "bid": 10,
+    "improvement": 0.0,
+    "live_bid": 10,
+    "live_ev": 0.591,
+    "variance": 0.0642,
+    "visits": 20
+  },
+  "C|p1|rs0|vw1|br1|b4": {
+    "best_ev": 0.876,
+    "bid": 1,
+    "improvement": 0.075,
+    "live_bid": 10,
+    "live_ev": 0.801,
+    "variance": 0.0299,
+    "visits": 20
+  },
+  "C|p1|rs0|vw1|br2|b1": {
+    "best_ev": 0.37,
+    "bid": 0,
+    "improvement": 0.038,
+    "live_bid": 9,
+    "live_ev": 0.332,
+    "variance": 0.0189,
+    "visits": 20
+  },
+  "C|p1|rs1|vw1|br1|b1": {
+    "best_ev": 1.0,
+    "bid": 20,
+    "improvement": 0.118,
+    "live_bid": 8,
+    "live_ev": 0.882,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "C|p1|rs1|vw1|br1|b2": {
+    "best_ev": 0.843,
+    "bid": 14,
+    "improvement": 0.074,
+    "live_bid": 18,
+    "live_ev": 0.769,
+    "variance": 0.0279,
+    "visits": 20
+  },
+  "C|p1|rs1|vw1|br2|b3": {
+    "best_ev": 0.956,
+    "bid": 17,
+    "improvement": 0.13,
+    "live_bid": 10,
+    "live_ev": 0.826,
+    "variance": 0.0077,
+    "visits": 20
+  },
+  "C|p1|rs1|vw1|br2|b4": {
+    "best_ev": 0.641,
+    "bid": 11,
+    "improvement": 0.11,
+    "live_bid": 10,
+    "live_ev": 0.531,
+    "variance": 0.0131,
+    "visits": 20
+  },
+  "C|p1|rs1|vw2|br1|b3": {
+    "best_ev": 0.433,
+    "bid": 0,
+    "improvement": 0.098,
+    "live_bid": 17,
+    "live_ev": 0.335,
+    "variance": 0.0777,
+    "visits": 20
+  },
+  "C|p1|rs1|vw2|br1|b4": {
+    "best_ev": 0.623,
+    "bid": 1,
+    "improvement": 0.046,
+    "live_bid": 17,
+    "live_ev": 0.577,
+    "variance": 0.0656,
+    "visits": 20
+  },
+  "C|p1|rs1|vw2|br2|b2": {
+    "best_ev": 0.78,
+    "bid": 9,
+    "improvement": 0.0,
+    "live_bid": 9,
+    "live_ev": 0.78,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "C|p2|rs0|vw0|br0|b3": {
+    "best_ev": 0.415,
+    "bid": 49,
+    "improvement": 0.03,
+    "live_bid": 11,
+    "live_ev": 0.385,
+    "variance": 0.0223,
+    "visits": 20
+  },
+  "C|p2|rs0|vw0|br1|b1": {
+    "best_ev": 0.78,
+    "bid": 15,
+    "improvement": 0.0,
+    "live_bid": 15,
+    "live_ev": 0.78,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "C|p2|rs0|vw1|br1|b2": {
+    "best_ev": 0.55,
+    "bid": 29,
+    "improvement": 0.045,
+    "live_bid": 10,
+    "live_ev": 0.505,
+    "variance": 0.0231,
+    "visits": 20
+  },
+  "C|p2|rs1|vw1|br1|b0": {
+    "best_ev": 0.12,
+    "bid": 9,
+    "improvement": 0.0,
+    "live_bid": 9,
+    "live_ev": 0.12,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "D|p0|rs0|vw0|br0|b5": {
+    "best_ev": 0.839,
+    "bid": 6,
+    "improvement": 0.153,
+    "live_bid": 11,
+    "live_ev": 0.686,
+    "variance": 0.0263,
+    "visits": 20
+  },
+  "D|p0|rs0|vw0|br1|b4": {
+    "best_ev": 0.544,
+    "bid": 30,
+    "improvement": 0.063,
+    "live_bid": 10,
+    "live_ev": 0.481,
+    "variance": 0.1084,
+    "visits": 20
+  },
+  "D|p0|rs0|vw1|br1|b4": {
+    "best_ev": 0.792,
+    "bid": 15,
+    "improvement": 0.185,
+    "live_bid": 10,
+    "live_ev": 0.607,
+    "variance": 0.0373,
+    "visits": 20
+  },
+  "D|p0|rs0|vw1|br2|b4": {
+    "best_ev": 0.914,
+    "bid": 10,
+    "improvement": 0.0,
+    "live_bid": 10,
+    "live_ev": 0.914,
+    "variance": 0.0199,
+    "visits": 20
+  },
+  "D|p0|rs0|vw2|br1|b4": {
+    "best_ev": 0.77,
+    "bid": 10,
+    "improvement": 0.0,
+    "live_bid": 10,
+    "live_ev": 0.77,
+    "variance": 0.0781,
+    "visits": 20
+  },
+  "D|p0|rs1|vw1|br1|b4": {
+    "best_ev": 0.523,
+    "bid": 0,
+    "improvement": 0.2,
+    "live_bid": 10,
+    "live_ev": 0.323,
+    "variance": 0.1522,
+    "visits": 20
+  },
+  "D|p0|rs1|vw1|br2|b3": {
+    "best_ev": 0.825,
+    "bid": 0,
+    "improvement": 0.118,
+    "live_bid": 9,
+    "live_ev": 0.707,
+    "variance": 0.0427,
+    "visits": 20
+  },
+  "D|p0|rs1|vw1|br2|b4": {
+    "best_ev": 0.835,
+    "bid": 0,
+    "improvement": 0.042,
+    "live_bid": 10,
+    "live_ev": 0.793,
+    "variance": 0.0397,
+    "visits": 20
+  },
+  "D|p0|rs1|vw2|br1|b3": {
+    "best_ev": 0.706,
+    "bid": 4,
+    "improvement": 0.079,
+    "live_bid": 9,
+    "live_ev": 0.627,
+    "variance": 0.052,
+    "visits": 20
+  },
+  "D|p0|rs1|vw2|br1|b4": {
+    "best_ev": 0.823,
+    "bid": 9,
+    "improvement": 0.153,
+    "live_bid": 10,
+    "live_ev": 0.67,
+    "variance": 0.034,
+    "visits": 20
+  },
+  "D|p0|rs1|vw2|br2|b3": {
+    "best_ev": 0.827,
+    "bid": 10,
+    "improvement": 0.118,
+    "live_bid": 9,
+    "live_ev": 0.709,
+    "variance": 0.0663,
+    "visits": 20
+  },
+  "D|p1|rs0|vw0|br0|b3": {
+    "best_ev": 0.989,
+    "bid": 12,
+    "improvement": 0.044,
+    "live_bid": 11,
+    "live_ev": 0.945,
+    "variance": 0.0023,
+    "visits": 20
+  },
+  "D|p1|rs0|vw0|br0|b4": {
+    "best_ev": 0.558,
+    "bid": 0,
+    "improvement": 0.101,
+    "live_bid": 11,
+    "live_ev": 0.457,
+    "variance": 0.0765,
+    "visits": 20
+  },
+  "D|p1|rs0|vw0|br1|b1": {
+    "best_ev": 0.772,
+    "bid": 0,
+    "improvement": 0.032,
+    "live_bid": 9,
+    "live_ev": 0.74,
+    "variance": 0.0108,
+    "visits": 20
+  },
+  "D|p1|rs0|vw0|br1|b2": {
+    "best_ev": 0.781,
+    "bid": 0,
+    "improvement": 0.037,
+    "live_bid": 10,
+    "live_ev": 0.744,
+    "variance": 0.035,
+    "visits": 20
+  },
+  "D|p1|rs0|vw0|br1|b3": {
+    "best_ev": 0.196,
+    "bid": 17,
+    "improvement": 0.028,
+    "live_bid": 12,
+    "live_ev": 0.168,
+    "variance": 0.0165,
+    "visits": 20
+  },
+  "D|p1|rs0|vw0|br1|b4": {
+    "best_ev": 0.539,
+    "bid": 29,
+    "improvement": 0.074,
+    "live_bid": 11,
+    "live_ev": 0.465,
+    "variance": 0.058,
+    "visits": 20
+  },
+  "D|p1|rs0|vw1|br1|b1": {
+    "best_ev": 0.58,
+    "bid": 11,
+    "improvement": 0.24,
+    "live_bid": 9,
+    "live_ev": 0.34,
+    "variance": 0.015,
+    "visits": 20
+  },
+  "D|p1|rs0|vw1|br1|b2": {
+    "best_ev": 0.347,
+    "bid": 13,
+    "improvement": 0.015,
+    "live_bid": 9,
+    "live_ev": 0.332,
+    "variance": 0.0343,
+    "visits": 20
+  },
+  "D|p1|rs0|vw1|br1|b3": {
+    "best_ev": 0.738,
+    "bid": 0,
+    "improvement": 0.139,
+    "live_bid": 9,
+    "live_ev": 0.599,
+    "variance": 0.0736,
+    "visits": 20
+  },
+  "D|p1|rs0|vw1|br1|b4": {
+    "best_ev": 0.724,
+    "bid": 9,
+    "improvement": 0.189,
+    "live_bid": 10,
+    "live_ev": 0.535,
+    "variance": 0.0415,
+    "visits": 20
+  },
+  "D|p1|rs0|vw1|br2|b1": {
+    "best_ev": 0.335,
+    "bid": 4,
+    "improvement": 0.033,
+    "live_bid": 9,
+    "live_ev": 0.302,
+    "variance": 0.0185,
+    "visits": 20
+  },
+  "D|p1|rs1|vw0|br1|b4": {
+    "best_ev": 0.741,
+    "bid": 14,
+    "improvement": 0.098,
+    "live_bid": 10,
+    "live_ev": 0.643,
+    "variance": 0.0565,
+    "visits": 20
+  },
+  "D|p1|rs1|vw1|br1|b1": {
+    "best_ev": 0.368,
+    "bid": 9,
+    "improvement": 0.1,
+    "live_bid": 6,
+    "live_ev": 0.268,
+    "variance": 0.0334,
+    "visits": 20
+  },
+  "D|p1|rs1|vw1|br2|b2": {
+    "best_ev": 0.891,
+    "bid": 17,
+    "improvement": 0.064,
+    "live_bid": 9,
+    "live_ev": 0.827,
+    "variance": 0.0163,
+    "visits": 20
+  },
+  "D|p1|rs1|vw1|br2|b3": {
+    "best_ev": 0.497,
+    "bid": 0,
+    "improvement": 0.11,
+    "live_bid": 10,
+    "live_ev": 0.387,
+    "variance": 0.0533,
+    "visits": 20
+  },
+  "D|p1|rs1|vw1|br2|b4": {
+    "best_ev": 0.707,
+    "bid": 11,
+    "improvement": 0.034,
+    "live_bid": 10,
+    "live_ev": 0.673,
+    "variance": 0.1281,
+    "visits": 20
+  },
+  "D|p2|rs0|vw0|br0|b2": {
+    "best_ev": 1.0,
+    "bid": 38,
+    "improvement": 0.0,
+    "live_bid": 38,
+    "live_ev": 1.0,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "D|p2|rs0|vw0|br0|b3": {
+    "best_ev": 0.28,
+    "bid": 66,
+    "improvement": 0.0,
+    "live_bid": 66,
+    "live_ev": 0.28,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "D|p2|rs0|vw1|br1|b1": {
+    "best_ev": 0.28,
+    "bid": 9,
+    "improvement": 0.0,
+    "live_bid": 9,
+    "live_ev": 0.28,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "D|p2|rs0|vw1|br1|b3": {
+    "best_ev": 0.565,
+    "bid": 47,
+    "improvement": 0.09,
+    "live_bid": 11,
+    "live_ev": 0.475,
+    "variance": 0.0043,
+    "visits": 20
+  },
+  "D|p2|rs1|vw2|br1|b1": {
+    "best_ev": 0.45,
+    "bid": 7,
+    "improvement": 0.038,
+    "live_bid": 9,
+    "live_ev": 0.412,
+    "variance": 0.0321,
+    "visits": 20
+  },
+  "E|p0|rs0|vw0|br0|b4": {
+    "best_ev": 0.802,
+    "bid": 1,
+    "improvement": 0.175,
+    "live_bid": 17,
+    "live_ev": 0.627,
+    "variance": 0.035,
+    "visits": 20
+  },
+  "E|p0|rs0|vw0|br1|b3": {
+    "best_ev": 0.722,
+    "bid": 0,
+    "improvement": 0.004,
+    "live_bid": 13,
+    "live_ev": 0.718,
+    "variance": 0.0175,
+    "visits": 20
+  },
+  "E|p0|rs0|vw0|br1|b4": {
+    "best_ev": 0.722,
+    "bid": 15,
+    "improvement": 0.104,
+    "live_bid": 14,
+    "live_ev": 0.618,
+    "variance": 0.0661,
+    "visits": 20
+  },
+  "E|p0|rs0|vw0|br2|b4": {
+    "best_ev": 0.816,
+    "bid": 46,
+    "improvement": 0.031,
+    "live_bid": 18,
+    "live_ev": 0.785,
+    "variance": 0.0192,
+    "visits": 20
+  },
+  "E|p0|rs0|vw1|br1|b3": {
+    "best_ev": 0.803,
+    "bid": 0,
+    "improvement": 0.123,
+    "live_bid": 8,
+    "live_ev": 0.68,
+    "variance": 0.0393,
+    "visits": 20
+  },
+  "E|p0|rs0|vw1|br1|b4": {
+    "best_ev": 0.831,
+    "bid": 100,
+    "improvement": 0.103,
+    "live_bid": 18,
+    "live_ev": 0.728,
+    "variance": 0.053,
+    "visits": 20
+  },
+  "E|p0|rs0|vw1|br2|b4": {
+    "best_ev": 0.946,
+    "bid": 20,
+    "improvement": 0.154,
+    "live_bid": 14,
+    "live_ev": 0.792,
+    "variance": 0.0132,
+    "visits": 20
+  },
+  "E|p0|rs0|vw2|br1|b4": {
+    "best_ev": 0.728,
+    "bid": 1,
+    "improvement": 0.104,
+    "live_bid": 13,
+    "live_ev": 0.624,
+    "variance": 0.1067,
+    "visits": 20
+  },
+  "E|p0|rs1|vw1|br1|b4": {
+    "best_ev": 0.848,
+    "bid": 18,
+    "improvement": 0.114,
+    "live_bid": 13,
+    "live_ev": 0.734,
+    "variance": 0.0187,
+    "visits": 20
+  },
+  "E|p0|rs1|vw1|br2|b4": {
+    "best_ev": 0.577,
+    "bid": 13,
+    "improvement": 0.087,
+    "live_bid": 14,
+    "live_ev": 0.49,
+    "variance": 0.0461,
+    "visits": 20
+  },
+  "E|p0|rs1|vw2|br1|b3": {
+    "best_ev": 0.413,
+    "bid": 36,
+    "improvement": 0.277,
+    "live_bid": 14,
+    "live_ev": 0.136,
+    "variance": 0.1065,
+    "visits": 20
+  },
+  "E|p0|rs1|vw2|br1|b4": {
+    "best_ev": 0.86,
+    "bid": 0,
+    "improvement": 0.107,
+    "live_bid": 13,
+    "live_ev": 0.753,
+    "variance": 0.0238,
+    "visits": 20
+  },
+  "E|p0|rs1|vw2|br2|b3": {
+    "best_ev": 0.832,
+    "bid": 13,
+    "improvement": 0.0,
+    "live_bid": 13,
+    "live_ev": 0.832,
+    "variance": 0.0573,
+    "visits": 20
+  },
+  "E|p1|rs0|vw0|br0|b2": {
+    "best_ev": 1.0,
+    "bid": 14,
+    "improvement": 0.011,
+    "live_bid": 13,
+    "live_ev": 0.989,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "E|p1|rs0|vw0|br0|b3": {
+    "best_ev": 0.89,
+    "bid": 31,
+    "improvement": 0.064,
+    "live_bid": 10,
+    "live_ev": 0.826,
+    "variance": 0.0121,
+    "visits": 20
+  },
+  "E|p1|rs0|vw0|br0|b4": {
+    "best_ev": 0.439,
+    "bid": 1,
+    "improvement": 0.123,
+    "live_bid": 11,
+    "live_ev": 0.316,
+    "variance": 0.0623,
+    "visits": 20
+  },
+  "E|p1|rs0|vw0|br1|b1": {
+    "best_ev": 0.761,
+    "bid": 15,
+    "improvement": 0.011,
+    "live_bid": 10,
+    "live_ev": 0.75,
+    "variance": 0.0081,
+    "visits": 20
+  },
+  "E|p1|rs0|vw0|br1|b2": {
+    "best_ev": 0.432,
+    "bid": 1,
+    "improvement": 0.161,
+    "live_bid": 18,
+    "live_ev": 0.271,
+    "variance": 0.0696,
+    "visits": 20
+  },
+  "E|p1|rs0|vw0|br1|b3": {
+    "best_ev": 0.582,
+    "bid": 10,
+    "improvement": 0.052,
+    "live_bid": 11,
+    "live_ev": 0.53,
+    "variance": 0.0381,
+    "visits": 20
+  },
+  "E|p1|rs0|vw0|br1|b4": {
+    "best_ev": 0.692,
+    "bid": 5,
+    "improvement": 0.045,
+    "live_bid": 10,
+    "live_ev": 0.647,
+    "variance": 0.0341,
+    "visits": 20
+  },
+  "E|p1|rs0|vw1|br0|b3": {
+    "best_ev": 0.55,
+    "bid": 68,
+    "improvement": 0.136,
+    "live_bid": 11,
+    "live_ev": 0.414,
+    "variance": 0.0081,
+    "visits": 20
+  },
+  "E|p1|rs0|vw1|br1|b1": {
+    "best_ev": 0.535,
+    "bid": 10,
+    "improvement": 0.135,
+    "live_bid": 9,
+    "live_ev": 0.4,
+    "variance": 0.0115,
+    "visits": 20
+  },
+  "E|p1|rs0|vw1|br1|b2": {
+    "best_ev": 0.337,
+    "bid": 13,
+    "improvement": 0.066,
+    "live_bid": 9,
+    "live_ev": 0.271,
+    "variance": 0.0275,
+    "visits": 20
+  },
+  "E|p1|rs0|vw1|br1|b3": {
+    "best_ev": 0.805,
+    "bid": 0,
+    "improvement": 0.065,
+    "live_bid": 21,
+    "live_ev": 0.74,
+    "variance": 0.0175,
+    "visits": 20
+  },
+  "E|p1|rs0|vw1|br1|b4": {
+    "best_ev": 0.989,
+    "bid": 10,
+    "improvement": 0.022,
+    "live_bid": 11,
+    "live_ev": 0.967,
+    "variance": 0.0023,
+    "visits": 20
+  },
+  "E|p1|rs0|vw1|br1|b5": {
+    "best_ev": 1.0,
+    "bid": 6,
+    "improvement": 0.022,
+    "live_bid": 11,
+    "live_ev": 0.978,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "E|p1|rs0|vw1|br2|b1": {
+    "best_ev": 0.31,
+    "bid": 14,
+    "improvement": 0.015,
+    "live_bid": 9,
+    "live_ev": 0.295,
+    "variance": 0.0081,
+    "visits": 20
+  },
+  "E|p1|rs0|vw1|br2|b2": {
+    "best_ev": 0.902,
+    "bid": 0,
+    "improvement": 0.099,
+    "live_bid": 9,
+    "live_ev": 0.803,
+    "variance": 0.0162,
+    "visits": 20
+  },
+  "E|p1|rs0|vw1|br2|b4": {
+    "best_ev": 0.574,
+    "bid": 1,
+    "improvement": 0.007,
+    "live_bid": 11,
+    "live_ev": 0.567,
+    "variance": 0.0591,
+    "visits": 20
+  },
+  "E|p1|rs0|vw2|br1|b2": {
+    "best_ev": 1.0,
+    "bid": 9,
+    "improvement": 0.0,
+    "live_bid": 9,
+    "live_ev": 1.0,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "E|p1|rs1|vw0|br0|b2": {
+    "best_ev": 0.772,
+    "bid": 17,
+    "improvement": 0.0,
+    "live_bid": 17,
+    "live_ev": 0.772,
+    "variance": 0.0398,
+    "visits": 20
+  },
+  "E|p1|rs1|vw0|br1|b2": {
+    "best_ev": 0.717,
+    "bid": 20,
+    "improvement": 0.084,
+    "live_bid": 16,
+    "live_ev": 0.633,
+    "variance": 0.0254,
+    "visits": 20
+  },
+  "E|p1|rs1|vw1|br1|b1": {
+    "best_ev": 0.36,
+    "bid": 14,
+    "improvement": 0.01,
+    "live_bid": 9,
+    "live_ev": 0.35,
+    "variance": 0.0276,
+    "visits": 20
+  },
+  "E|p1|rs1|vw1|br1|b2": {
+    "best_ev": 0.726,
+    "bid": 4,
+    "improvement": 0.209,
+    "live_bid": 9,
+    "live_ev": 0.517,
+    "variance": 0.0506,
+    "visits": 20
+  },
+  "E|p1|rs1|vw1|br1|b3": {
+    "best_ev": 0.556,
+    "bid": 13,
+    "improvement": 0.131,
+    "live_bid": 10,
+    "live_ev": 0.425,
+    "variance": 0.0808,
+    "visits": 20
+  },
+  "E|p1|rs1|vw1|br2|b1": {
+    "best_ev": 0.575,
+    "bid": 22,
+    "improvement": 0.075,
+    "live_bid": 9,
+    "live_ev": 0.5,
+    "variance": 0.0365,
+    "visits": 20
+  },
+  "E|p1|rs1|vw1|br2|b2": {
+    "best_ev": 0.989,
+    "bid": 7,
+    "improvement": 0.011,
+    "live_bid": 12,
+    "live_ev": 0.978,
+    "variance": 0.0023,
+    "visits": 20
+  },
+  "E|p1|rs1|vw1|br2|b3": {
+    "best_ev": 0.945,
+    "bid": 50,
+    "improvement": 0.278,
+    "live_bid": 10,
+    "live_ev": 0.667,
+    "variance": 0.0091,
+    "visits": 20
+  },
+  "E|p1|rs1|vw1|br2|b4": {
+    "best_ev": 0.631,
+    "bid": 75,
+    "improvement": 0.059,
+    "live_bid": 10,
+    "live_ev": 0.572,
+    "variance": 0.0122,
+    "visits": 20
+  },
+  "E|p1|rs1|vw2|br1|b1": {
+    "best_ev": 0.502,
+    "bid": 23,
+    "improvement": 0.172,
+    "live_bid": 9,
+    "live_ev": 0.33,
+    "variance": 0.0626,
+    "visits": 20
+  },
+  "E|p1|rs1|vw2|br1|b3": {
+    "best_ev": 0.577,
+    "bid": 14,
+    "improvement": 0.086,
+    "live_bid": 10,
+    "live_ev": 0.491,
+    "variance": 0.0446,
+    "visits": 20
+  },
+  "E|p1|rs1|vw2|br2|b2": {
+    "best_ev": 0.802,
+    "bid": 9,
+    "improvement": 0.0,
+    "live_bid": 9,
+    "live_ev": 0.802,
+    "variance": 0.0044,
+    "visits": 20
+  },
+  "E|p1|rs1|vw2|br2|b3": {
+    "best_ev": 0.648,
+    "bid": 15,
+    "improvement": 0.197,
+    "live_bid": 10,
+    "live_ev": 0.451,
+    "variance": 0.0728,
+    "visits": 20
+  },
+  "E|p2|rs0|vw0|br0|b0": {
+    "best_ev": 1.0,
+    "bid": 10,
+    "improvement": 0.0,
+    "live_bid": 10,
+    "live_ev": 1.0,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "E|p2|rs0|vw0|br0|b1": {
+    "best_ev": 0.28,
+    "bid": 19,
+    "improvement": 0.0,
+    "live_bid": 19,
+    "live_ev": 0.28,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "E|p2|rs0|vw0|br0|b2": {
+    "best_ev": 1.0,
+    "bid": 10,
+    "improvement": 0.0,
+    "live_bid": 10,
+    "live_ev": 1.0,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "E|p2|rs0|vw0|br0|b3": {
+    "best_ev": 0.28,
+    "bid": 54,
+    "improvement": 0.0,
+    "live_bid": 54,
+    "live_ev": 0.28,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "E|p2|rs0|vw0|br1|b1": {
+    "best_ev": 0.77,
+    "bid": 21,
+    "improvement": 0.0,
+    "live_bid": 21,
+    "live_ev": 0.77,
+    "variance": 0.0019,
+    "visits": 20
+  },
+  "E|p2|rs0|vw0|br1|b2": {
+    "best_ev": 0.28,
+    "bid": 10,
+    "improvement": 0.0,
+    "live_bid": 10,
+    "live_ev": 0.28,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "E|p2|rs0|vw0|br1|b3": {
+    "best_ev": 0.861,
+    "bid": 17,
+    "improvement": 0.476,
+    "live_bid": 11,
+    "live_ev": 0.385,
+    "variance": 0.0281,
+    "visits": 20
+  },
+  "E|p2|rs0|vw1|br1|b0": {
+    "best_ev": 0.78,
+    "bid": 5,
+    "improvement": 0.0,
+    "live_bid": 5,
+    "live_ev": 0.78,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "E|p2|rs0|vw1|br1|b1": {
+    "best_ev": 1.0,
+    "bid": 15,
+    "improvement": 0.0,
+    "live_bid": 15,
+    "live_ev": 1.0,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "E|p2|rs0|vw1|br1|b2": {
+    "best_ev": 0.28,
+    "bid": 19,
+    "improvement": 0.28,
+    "live_bid": 10,
+    "live_ev": 0.0,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "E|p2|rs1|vw1|br1|b0": {
+    "best_ev": 0.166,
+    "bid": 9,
+    "improvement": 0.0,
+    "live_bid": 9,
+    "live_ev": 0.166,
+    "variance": 0.019,
+    "visits": 20
+  },
+  "F|p0|rs0|vw0|br0|b4": {
+    "best_ev": 0.409,
+    "bid": 18,
+    "improvement": 0.046,
+    "live_bid": 11,
+    "live_ev": 0.363,
+    "variance": 0.0785,
+    "visits": 20
+  },
+  "F|p0|rs0|vw0|br1|b3": {
+    "best_ev": 0.85,
+    "bid": 24,
+    "improvement": 0.105,
+    "live_bid": 9,
+    "live_ev": 0.745,
+    "variance": 0.0273,
+    "visits": 20
+  },
+  "F|p0|rs0|vw0|br1|b4": {
+    "best_ev": 0.807,
+    "bid": 15,
+    "improvement": 0.105,
+    "live_bid": 10,
+    "live_ev": 0.702,
+    "variance": 0.0412,
+    "visits": 20
+  },
+  "F|p0|rs0|vw1|br1|b4": {
+    "best_ev": 0.803,
+    "bid": 11,
+    "improvement": 0.096,
+    "live_bid": 10,
+    "live_ev": 0.707,
+    "variance": 0.0393,
+    "visits": 20
+  },
+  "F|p0|rs0|vw1|br2|b4": {
+    "best_ev": 0.576,
+    "bid": 15,
+    "improvement": 0.16,
+    "live_bid": 10,
+    "live_ev": 0.416,
+    "variance": 0.0883,
+    "visits": 20
+  },
+  "F|p0|rs1|vw1|br2|b3": {
+    "best_ev": 0.553,
+    "bid": 14,
+    "improvement": 0.171,
+    "live_bid": 9,
+    "live_ev": 0.382,
+    "variance": 0.0512,
+    "visits": 20
+  },
+  "F|p0|rs1|vw1|br2|b4": {
+    "best_ev": 0.788,
+    "bid": 14,
+    "improvement": 0.311,
+    "live_bid": 9,
+    "live_ev": 0.477,
+    "variance": 0.0503,
+    "visits": 20
+  },
+  "F|p1|rs0|vw0|br0|b3": {
+    "best_ev": 0.868,
+    "bid": 58,
+    "improvement": 0.044,
+    "live_bid": 10,
+    "live_ev": 0.824,
+    "variance": 0.0116,
+    "visits": 20
+  },
+  "F|p1|rs0|vw0|br0|b4": {
+    "best_ev": 0.407,
+    "bid": 11,
+    "improvement": 0.0,
+    "live_bid": 11,
+    "live_ev": 0.407,
+    "variance": 0.0531,
+    "visits": 20
+  },
+  "F|p1|rs0|vw0|br1|b2": {
+    "best_ev": 0.782,
+    "bid": 13,
+    "improvement": 0.057,
+    "live_bid": 12,
+    "live_ev": 0.725,
+    "variance": 0.0088,
+    "visits": 20
+  },
+  "F|p1|rs0|vw0|br1|b3": {
+    "best_ev": 0.555,
+    "bid": 13,
+    "improvement": 0.0,
+    "live_bid": 13,
+    "live_ev": 0.555,
+    "variance": 0.0319,
+    "visits": 20
+  },
+  "F|p1|rs0|vw0|br1|b4": {
+    "best_ev": 0.826,
+    "bid": 10,
+    "improvement": 0.0,
+    "live_bid": 10,
+    "live_ev": 0.826,
+    "variance": 0.047,
+    "visits": 20
+  },
+  "F|p1|rs0|vw1|br0|b3": {
+    "best_ev": 0.55,
+    "bid": 31,
+    "improvement": 0.151,
+    "live_bid": 18,
+    "live_ev": 0.399,
+    "variance": 0.0081,
+    "visits": 20
+  },
+  "F|p1|rs0|vw1|br1|b3": {
+    "best_ev": 0.491,
+    "bid": 0,
+    "improvement": 0.049,
+    "live_bid": 10,
+    "live_ev": 0.442,
+    "variance": 0.0814,
+    "visits": 20
+  },
+  "F|p1|rs0|vw1|br1|b4": {
+    "best_ev": 0.602,
+    "bid": 15,
+    "improvement": 0.102,
+    "live_bid": 20,
+    "live_ev": 0.5,
+    "variance": 0.0582,
+    "visits": 20
+  },
+  "F|p1|rs0|vw1|br2|b2": {
+    "best_ev": 0.921,
+    "bid": 16,
+    "improvement": 0.095,
+    "live_bid": 17,
+    "live_ev": 0.826,
+    "variance": 0.0333,
+    "visits": 20
+  },
+  "F|p1|rs0|vw2|br1|b2": {
+    "best_ev": 1.0,
+    "bid": 11,
+    "improvement": 0.0,
+    "live_bid": 11,
+    "live_ev": 1.0,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "F|p1|rs1|vw1|br2|b1": {
+    "best_ev": 0.751,
+    "bid": 14,
+    "improvement": 0.175,
+    "live_bid": 9,
+    "live_ev": 0.576,
+    "variance": 0.0096,
+    "visits": 20
+  },
+  "F|p1|rs1|vw1|br2|b2": {
+    "best_ev": 0.849,
+    "bid": 9,
+    "improvement": 0.013,
+    "live_bid": 14,
+    "live_ev": 0.836,
+    "variance": 0.023,
+    "visits": 20
+  },
+  "F|p1|rs1|vw1|br2|b3": {
+    "best_ev": 0.898,
+    "bid": 15,
+    "improvement": 0.168,
+    "live_bid": 10,
+    "live_ev": 0.73,
+    "variance": 0.03,
+    "visits": 20
+  },
+  "F|p1|rs1|vw2|br1|b1": {
+    "best_ev": 0.522,
+    "bid": 1,
+    "improvement": 0.0,
+    "live_bid": 1,
+    "live_ev": 0.522,
+    "variance": 0.0527,
+    "visits": 20
+  },
+  "F|p1|rs1|vw2|br1|b3": {
+    "best_ev": 0.489,
+    "bid": 20,
+    "improvement": 0.121,
+    "live_bid": 25,
+    "live_ev": 0.368,
+    "variance": 0.0564,
+    "visits": 20
+  },
+  "F|p1|rs1|vw2|br1|b4": {
+    "best_ev": 0.718,
+    "bid": 14,
+    "improvement": 0.336,
+    "live_bid": 31,
+    "live_ev": 0.382,
+    "variance": 0.0755,
+    "visits": 20
+  },
+  "F|p1|rs1|vw2|br2|b3": {
+    "best_ev": 0.671,
+    "bid": 1,
+    "improvement": 0.102,
+    "live_bid": 16,
+    "live_ev": 0.569,
+    "variance": 0.0586,
+    "visits": 20
+  },
+  "F|p2|rs0|vw0|br0|b2": {
+    "best_ev": 0.78,
+    "bid": 10,
+    "improvement": 0.0,
+    "live_bid": 10,
+    "live_ev": 0.78,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "F|p2|rs0|vw0|br0|b3": {
+    "best_ev": 0.28,
+    "bid": 10,
+    "improvement": 0.0,
+    "live_bid": 10,
+    "live_ev": 0.28,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "F|p2|rs0|vw0|br1|b1": {
+    "best_ev": 0.78,
+    "bid": 10,
+    "improvement": 0.0,
+    "live_bid": 10,
+    "live_ev": 0.78,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "F|p2|rs0|vw0|br1|b2": {
+    "best_ev": 0.28,
+    "bid": 10,
+    "improvement": 0.0,
+    "live_bid": 10,
+    "live_ev": 0.28,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "F|p2|rs0|vw1|br1|b1": {
+    "best_ev": 0.28,
+    "bid": 16,
+    "improvement": 0.0,
+    "live_bid": 16,
+    "live_ev": 0.28,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "F|p2|rs0|vw1|br1|b2": {
+    "best_ev": 1.0,
+    "bid": 15,
+    "improvement": 0.011,
+    "live_bid": 10,
+    "live_ev": 0.989,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "G|p0|rs0|vw0|br0|b4": {
+    "best_ev": 0.867,
+    "bid": 17,
+    "improvement": 0.034,
+    "live_bid": 11,
+    "live_ev": 0.833,
+    "variance": 0.038,
+    "visits": 20
+  },
+  "G|p0|rs0|vw0|br1|b4": {
+    "best_ev": 0.634,
+    "bid": 91,
+    "improvement": 0.073,
+    "live_bid": 10,
+    "live_ev": 0.561,
+    "variance": 0.0838,
+    "visits": 20
+  },
+  "G|p0|rs0|vw1|br1|b4": {
+    "best_ev": 0.702,
+    "bid": 15,
+    "improvement": 0.085,
+    "live_bid": 10,
+    "live_ev": 0.617,
+    "variance": 0.0794,
+    "visits": 20
+  },
+  "G|p0|rs0|vw1|br2|b4": {
+    "best_ev": 0.707,
+    "bid": 17,
+    "improvement": 0.021,
+    "live_bid": 10,
+    "live_ev": 0.686,
+    "variance": 0.0716,
+    "visits": 20
+  },
+  "G|p0|rs0|vw2|br1|b4": {
+    "best_ev": 0.861,
+    "bid": 49,
+    "improvement": 0.011,
+    "live_bid": 10,
+    "live_ev": 0.85,
+    "variance": 0.0281,
+    "visits": 20
+  },
+  "G|p0|rs1|vw2|br1|b3": {
+    "best_ev": 0.661,
+    "bid": 10,
+    "improvement": 0.0,
+    "live_bid": 10,
+    "live_ev": 0.661,
+    "variance": 0.0749,
+    "visits": 20
+  },
+  "G|p0|rs1|vw2|br1|b4": {
+    "best_ev": 0.675,
+    "bid": 10,
+    "improvement": 0.0,
+    "live_bid": 10,
+    "live_ev": 0.675,
+    "variance": 0.0631,
+    "visits": 20
+  },
+  "G|p1|rs0|vw0|br0|b3": {
+    "best_ev": 0.64,
+    "bid": 55,
+    "improvement": 0.02,
+    "live_bid": 10,
+    "live_ev": 0.62,
+    "variance": 0.0234,
+    "visits": 20
+  },
+  "G|p1|rs0|vw0|br0|b4": {
+    "best_ev": 0.491,
+    "bid": 16,
+    "improvement": 0.12,
+    "live_bid": 11,
+    "live_ev": 0.371,
+    "variance": 0.0389,
+    "visits": 20
+  },
+  "G|p1|rs0|vw0|br0|b5": {
+    "best_ev": 0.715,
+    "bid": 1,
+    "improvement": 0.113,
+    "live_bid": 11,
+    "live_ev": 0.602,
+    "variance": 0.0469,
+    "visits": 20
+  },
+  "G|p1|rs0|vw0|br1|b2": {
+    "best_ev": 1.0,
+    "bid": 10,
+    "improvement": 0.0,
+    "live_bid": 10,
+    "live_ev": 1.0,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "G|p1|rs0|vw0|br1|b3": {
+    "best_ev": 0.487,
+    "bid": 22,
+    "improvement": 0.097,
+    "live_bid": 10,
+    "live_ev": 0.39,
+    "variance": 0.0713,
+    "visits": 20
+  },
+  "G|p1|rs0|vw0|br1|b4": {
+    "best_ev": 0.519,
+    "bid": 17,
+    "improvement": 0.021,
+    "live_bid": 12,
+    "live_ev": 0.498,
+    "variance": 0.128,
+    "visits": 20
+  },
+  "G|p1|rs0|vw0|br1|b5": {
+    "best_ev": 0.904,
+    "bid": 57,
+    "improvement": 0.118,
+    "live_bid": 11,
+    "live_ev": 0.786,
+    "variance": 0.0245,
+    "visits": 20
+  },
+  "G|p1|rs0|vw1|br1|b1": {
+    "best_ev": 0.325,
+    "bid": 16,
+    "improvement": 0.045,
+    "live_bid": 4,
+    "live_ev": 0.28,
+    "variance": 0.0115,
+    "visits": 20
+  },
+  "G|p1|rs0|vw1|br1|b3": {
+    "best_ev": 0.823,
+    "bid": 18,
+    "improvement": 0.103,
+    "live_bid": 9,
+    "live_ev": 0.72,
+    "variance": 0.034,
+    "visits": 20
+  },
+  "G|p1|rs0|vw1|br1|b4": {
+    "best_ev": 0.573,
+    "bid": 0,
+    "improvement": 0.113,
+    "live_bid": 10,
+    "live_ev": 0.46,
+    "variance": 0.0574,
+    "visits": 20
+  },
+  "G|p1|rs1|vw1|br1|b3": {
+    "best_ev": 0.542,
+    "bid": 11,
+    "improvement": 0.124,
+    "live_bid": 10,
+    "live_ev": 0.418,
+    "variance": 0.0602,
+    "visits": 20
+  },
+  "G|p1|rs1|vw1|br1|b4": {
+    "best_ev": 0.507,
+    "bid": 1,
+    "improvement": 0.032,
+    "live_bid": 10,
+    "live_ev": 0.475,
+    "variance": 0.0568,
+    "visits": 20
+  },
+  "G|p1|rs1|vw1|br2|b4": {
+    "best_ev": 0.619,
+    "bid": 26,
+    "improvement": 0.013,
+    "live_bid": 10,
+    "live_ev": 0.606,
+    "variance": 0.0307,
+    "visits": 20
+  },
+  "G|p1|rs1|vw2|br2|b3": {
+    "best_ev": 0.598,
+    "bid": 1,
+    "improvement": 0.143,
+    "live_bid": 16,
+    "live_ev": 0.455,
+    "variance": 0.0546,
+    "visits": 20
+  },
+  "G|p2|rs0|vw0|br0|b2": {
+    "best_ev": 0.78,
+    "bid": 27,
+    "improvement": 0.0,
+    "live_bid": 27,
+    "live_ev": 0.78,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "G|p2|rs0|vw0|br0|b3": {
+    "best_ev": 0.52,
+    "bid": 6,
+    "improvement": 0.045,
+    "live_bid": 11,
+    "live_ev": 0.475,
+    "variance": 0.0144,
+    "visits": 20
+  },
+  "G|p2|rs0|vw0|br1|b1": {
+    "best_ev": 0.802,
+    "bid": 1,
+    "improvement": 0.021,
+    "live_bid": 9,
+    "live_ev": 0.781,
+    "variance": 0.0044,
+    "visits": 20
+  },
+  "G|p2|rs0|vw0|br1|b2": {
+    "best_ev": 0.2,
+    "bid": 42,
+    "improvement": 0.072,
+    "live_bid": 10,
+    "live_ev": 0.128,
+    "variance": 0.0064,
+    "visits": 20
+  },
+  "G|p2|rs0|vw1|br1|b1": {
+    "best_ev": 1.0,
+    "bid": 9,
+    "improvement": 0.0,
+    "live_bid": 9,
+    "live_ev": 1.0,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "G|p2|rs0|vw1|br1|b3": {
+    "best_ev": 0.096,
+    "bid": 18,
+    "improvement": 0.012,
+    "live_bid": 11,
+    "live_ev": 0.084,
+    "variance": 0.0023,
+    "visits": 20
+  },
+  "G|p2|rs1|vw1|br1|b1": {
+    "best_ev": 0.295,
+    "bid": 7,
+    "improvement": 0.015,
+    "live_bid": 9,
+    "live_ev": 0.28,
+    "variance": 0.0043,
+    "visits": 20
+  },
+  "G|p2|rs1|vw1|br2|b2": {
+    "best_ev": 0.28,
+    "bid": 10,
+    "improvement": 0.0,
+    "live_bid": 10,
+    "live_ev": 0.28,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "H|p0|rs0|vw0|br0|b4": {
+    "best_ev": 0.349,
+    "bid": 10,
+    "improvement": 0.0,
+    "live_bid": 10,
+    "live_ev": 0.349,
+    "variance": 0.0283,
+    "visits": 20
+  },
+  "H|p0|rs0|vw0|br1|b3": {
+    "best_ev": 0.87,
+    "bid": 14,
+    "improvement": 0.11,
+    "live_bid": 9,
+    "live_ev": 0.76,
+    "variance": 0.0201,
+    "visits": 20
+  },
+  "H|p0|rs0|vw0|br2|b4": {
+    "best_ev": 0.859,
+    "bid": 16,
+    "improvement": 0.074,
+    "live_bid": 10,
+    "live_ev": 0.785,
+    "variance": 0.0195,
+    "visits": 20
+  },
+  "H|p0|rs0|vw1|br1|b3": {
+    "best_ev": 0.868,
+    "bid": 1,
+    "improvement": 0.042,
+    "live_bid": 10,
+    "live_ev": 0.826,
+    "variance": 0.0116,
+    "visits": 20
+  },
+  "H|p0|rs0|vw1|br1|b4": {
+    "best_ev": 0.838,
+    "bid": 84,
+    "improvement": 0.109,
+    "live_bid": 9,
+    "live_ev": 0.729,
+    "variance": 0.022,
+    "visits": 20
+  },
+  "H|p0|rs0|vw1|br2|b4": {
+    "best_ev": 0.631,
+    "bid": 15,
+    "improvement": 0.234,
+    "live_bid": 10,
+    "live_ev": 0.397,
+    "variance": 0.0713,
+    "visits": 20
+  },
+  "H|p0|rs0|vw2|br1|b4": {
+    "best_ev": 0.72,
+    "bid": 84,
+    "improvement": 0.105,
+    "live_bid": 11,
+    "live_ev": 0.615,
+    "variance": 0.083,
+    "visits": 20
+  },
+  "H|p0|rs1|vw1|br1|b3": {
+    "best_ev": 0.903,
+    "bid": 0,
+    "improvement": 0.021,
+    "live_bid": 12,
+    "live_ev": 0.882,
+    "variance": 0.0203,
+    "visits": 20
+  },
+  "H|p0|rs1|vw1|br1|b4": {
+    "best_ev": 0.674,
+    "bid": 79,
+    "improvement": 0.22,
+    "live_bid": 10,
+    "live_ev": 0.454,
+    "variance": 0.0584,
+    "visits": 20
+  },
+  "H|p0|rs1|vw1|br2|b3": {
+    "best_ev": 0.5,
+    "bid": 69,
+    "improvement": 0.058,
+    "live_bid": 12,
+    "live_ev": 0.442,
+    "variance": 0.0376,
+    "visits": 20
+  },
+  "H|p0|rs1|vw2|br1|b4": {
+    "best_ev": 0.789,
+    "bid": 10,
+    "improvement": 0.178,
+    "live_bid": 11,
+    "live_ev": 0.611,
+    "variance": 0.0547,
+    "visits": 20
+  },
+  "H|p0|rs1|vw2|br2|b3": {
+    "best_ev": 0.735,
+    "bid": 16,
+    "improvement": 0.223,
+    "live_bid": 11,
+    "live_ev": 0.512,
+    "variance": 0.0451,
+    "visits": 20
+  },
+  "H|p1|rs0|vw0|br0|b3": {
+    "best_ev": 0.879,
+    "bid": 54,
+    "improvement": 0.032,
+    "live_bid": 10,
+    "live_ev": 0.847,
+    "variance": 0.012,
+    "visits": 20
+  },
+  "H|p1|rs0|vw0|br0|b4": {
+    "best_ev": 0.609,
+    "bid": 19,
+    "improvement": 0.253,
+    "live_bid": 11,
+    "live_ev": 0.356,
+    "variance": 0.0428,
+    "visits": 20
+  },
+  "H|p1|rs0|vw0|br1|b2": {
+    "best_ev": 0.74,
+    "bid": 12,
+    "improvement": 0.01,
+    "live_bid": 13,
+    "live_ev": 0.73,
+    "variance": 0.0064,
+    "visits": 20
+  },
+  "H|p1|rs0|vw0|br1|b3": {
+    "best_ev": 0.627,
+    "bid": 68,
+    "improvement": 0.017,
+    "live_bid": 22,
+    "live_ev": 0.61,
+    "variance": 0.0539,
+    "visits": 20
+  },
+  "H|p1|rs0|vw0|br1|b4": {
+    "best_ev": 0.967,
+    "bid": 45,
+    "improvement": 0.15,
+    "live_bid": 12,
+    "live_ev": 0.817,
+    "variance": 0.0062,
+    "visits": 20
+  },
+  "H|p1|rs0|vw1|br1|b1": {
+    "best_ev": 0.78,
+    "bid": 8,
+    "improvement": 0.0,
+    "live_bid": 8,
+    "live_ev": 0.78,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "H|p1|rs0|vw1|br1|b2": {
+    "best_ev": 0.333,
+    "bid": 13,
+    "improvement": 0.069,
+    "live_bid": 9,
+    "live_ev": 0.264,
+    "variance": 0.0369,
+    "visits": 20
+  },
+  "H|p1|rs0|vw1|br1|b3": {
+    "best_ev": 0.967,
+    "bid": 31,
+    "improvement": 0.043,
+    "live_bid": 30,
+    "live_ev": 0.924,
+    "variance": 0.0062,
+    "visits": 20
+  },
+  "H|p1|rs0|vw1|br1|b4": {
+    "best_ev": 0.859,
+    "bid": 10,
+    "improvement": 0.0,
+    "live_bid": 10,
+    "live_ev": 0.859,
+    "variance": 0.0195,
+    "visits": 20
+  },
+  "H|p1|rs1|vw0|br1|b2": {
+    "best_ev": 0.89,
+    "bid": 15,
+    "improvement": 0.083,
+    "live_bid": 13,
+    "live_ev": 0.807,
+    "variance": 0.0121,
+    "visits": 20
+  },
+  "H|p1|rs1|vw1|br1|b3": {
+    "best_ev": 0.682,
+    "bid": 21,
+    "improvement": 0.105,
+    "live_bid": 10,
+    "live_ev": 0.577,
+    "variance": 0.0342,
+    "visits": 20
+  },
+  "H|p1|rs1|vw1|br1|b4": {
+    "best_ev": 0.738,
+    "bid": 1,
+    "improvement": 0.061,
+    "live_bid": 10,
+    "live_ev": 0.677,
+    "variance": 0.028,
+    "visits": 20
+  },
+  "H|p1|rs1|vw1|br2|b1": {
+    "best_ev": 0.794,
+    "bid": 22,
+    "improvement": 0.223,
+    "live_bid": 9,
+    "live_ev": 0.571,
+    "variance": 0.0155,
+    "visits": 20
+  },
+  "H|p1|rs1|vw2|br1|b1": {
+    "best_ev": 0.495,
+    "bid": 0,
+    "improvement": 0.021,
+    "live_bid": 1,
+    "live_ev": 0.474,
+    "variance": 0.0583,
+    "visits": 20
+  },
+  "H|p2|rs0|vw0|br0|b0": {
+    "best_ev": 0.28,
+    "bid": 1,
+    "improvement": 0.0,
+    "live_bid": 1,
+    "live_ev": 0.28,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "H|p2|rs0|vw0|br0|b1": {
+    "best_ev": 0.28,
+    "bid": 15,
+    "improvement": 0.0,
+    "live_bid": 15,
+    "live_ev": 0.28,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "H|p2|rs0|vw0|br0|b2": {
+    "best_ev": 1.0,
+    "bid": 38,
+    "improvement": 0.0,
+    "live_bid": 38,
+    "live_ev": 1.0,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "H|p2|rs0|vw0|br1|b2": {
+    "best_ev": 1.0,
+    "bid": 33,
+    "improvement": 0.0,
+    "live_bid": 33,
+    "live_ev": 1.0,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "H|p2|rs0|vw1|br1|b0": {
+    "best_ev": 0.78,
+    "bid": 5,
+    "improvement": 0.0,
+    "live_bid": 5,
+    "live_ev": 0.78,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "H|p2|rs0|vw1|br1|b1": {
+    "best_ev": 0.28,
+    "bid": 16,
+    "improvement": 0.0,
+    "live_bid": 16,
+    "live_ev": 0.28,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "I|p0|rs0|vw0|br0|b4": {
+    "best_ev": 0.796,
+    "bid": 16,
+    "improvement": 0.091,
+    "live_bid": 15,
+    "live_ev": 0.705,
+    "variance": 0.0243,
+    "visits": 20
+  },
+  "I|p0|rs0|vw0|br0|b5": {
+    "best_ev": 0.682,
+    "bid": 14,
+    "improvement": 0.183,
+    "live_bid": 13,
+    "live_ev": 0.499,
+    "variance": 0.0633,
+    "visits": 20
+  },
+  "I|p0|rs0|vw0|br1|b3": {
+    "best_ev": 0.431,
+    "bid": 0,
+    "improvement": 0.0,
+    "live_bid": 11,
+    "live_ev": 0.431,
+    "variance": 0.0535,
+    "visits": 20
+  },
+  "I|p0|rs0|vw0|br1|b4": {
+    "best_ev": 0.661,
+    "bid": 7,
+    "improvement": 0.049,
+    "live_bid": 12,
+    "live_ev": 0.612,
+    "variance": 0.0749,
+    "visits": 20
+  },
+  "I|p0|rs0|vw0|br2|b4": {
+    "best_ev": 0.912,
+    "bid": 29,
+    "improvement": 0.197,
+    "live_bid": 11,
+    "live_ev": 0.715,
+    "variance": 0.0116,
+    "visits": 20
+  },
+  "I|p0|rs0|vw1|br1|b3": {
+    "best_ev": 0.86,
+    "bid": 1,
+    "improvement": 0.01,
+    "live_bid": 11,
+    "live_ev": 0.85,
+    "variance": 0.0238,
+    "visits": 20
+  },
+  "I|p0|rs0|vw1|br1|b4": {
+    "best_ev": 0.816,
+    "bid": 14,
+    "improvement": 0.013,
+    "live_bid": 11,
+    "live_ev": 0.803,
+    "variance": 0.0192,
+    "visits": 20
+  },
+  "I|p0|rs0|vw1|br2|b4": {
+    "best_ev": 0.628,
+    "bid": 11,
+    "improvement": 0.03,
+    "live_bid": 12,
+    "live_ev": 0.598,
+    "variance": 0.0421,
+    "visits": 20
+  },
+  "I|p0|rs0|vw2|br1|b4": {
+    "best_ev": 0.759,
+    "bid": 90,
+    "improvement": 0.149,
+    "live_bid": 11,
+    "live_ev": 0.61,
+    "variance": 0.0753,
+    "visits": 20
+  },
+  "I|p0|rs1|vw1|br1|b4": {
+    "best_ev": 0.946,
+    "bid": 1,
+    "improvement": 0.043,
+    "live_bid": 13,
+    "live_ev": 0.903,
+    "variance": 0.0132,
+    "visits": 20
+  },
+  "I|p0|rs1|vw1|br2|b3": {
+    "best_ev": 0.663,
+    "bid": 6,
+    "improvement": 0.184,
+    "live_bid": 11,
+    "live_ev": 0.479,
+    "variance": 0.1372,
+    "visits": 20
+  },
+  "I|p0|rs1|vw1|br2|b4": {
+    "best_ev": 0.844,
+    "bid": 26,
+    "improvement": 0.107,
+    "live_bid": 11,
+    "live_ev": 0.737,
+    "variance": 0.0322,
+    "visits": 20
+  },
+  "I|p0|rs1|vw2|br1|b4": {
+    "best_ev": 0.807,
+    "bid": 74,
+    "improvement": 0.146,
+    "live_bid": 14,
+    "live_ev": 0.661,
+    "variance": 0.0718,
+    "visits": 20
+  },
+  "I|p0|rs1|vw2|br2|b3": {
+    "best_ev": 0.795,
+    "bid": 6,
+    "improvement": 0.036,
+    "live_bid": 11,
+    "live_ev": 0.759,
+    "variance": 0.078,
+    "visits": 20
+  },
+  "I|p1|rs0|vw0|br0|b2": {
+    "best_ev": 0.775,
+    "bid": 12,
+    "improvement": 0.042,
+    "live_bid": 11,
+    "live_ev": 0.733,
+    "variance": 0.0241,
+    "visits": 20
+  },
+  "I|p1|rs0|vw0|br0|b3": {
+    "best_ev": 0.925,
+    "bid": 14,
+    "improvement": 0.001,
+    "live_bid": 15,
+    "live_ev": 0.924,
+    "variance": 0.0193,
+    "visits": 20
+  },
+  "I|p1|rs0|vw0|br0|b4": {
+    "best_ev": 0.372,
+    "bid": 16,
+    "improvement": 0.04,
+    "live_bid": 11,
+    "live_ev": 0.332,
+    "variance": 0.0512,
+    "visits": 20
+  },
+  "I|p1|rs0|vw0|br0|b5": {
+    "best_ev": 0.605,
+    "bid": 103,
+    "improvement": 0.05,
+    "live_bid": 33,
+    "live_ev": 0.555,
+    "variance": 0.0119,
+    "visits": 20
+  },
+  "I|p1|rs0|vw0|br1|b1": {
+    "best_ev": 0.752,
+    "bid": 1,
+    "improvement": 0.032,
+    "live_bid": 10,
+    "live_ev": 0.72,
+    "variance": 0.0141,
+    "visits": 20
+  },
+  "I|p1|rs0|vw0|br1|b2": {
+    "best_ev": 1.0,
+    "bid": 17,
+    "improvement": 0.0,
+    "live_bid": 17,
+    "live_ev": 1.0,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "I|p1|rs0|vw0|br1|b3": {
+    "best_ev": 0.686,
+    "bid": 15,
+    "improvement": 0.066,
+    "live_bid": 10,
+    "live_ev": 0.62,
+    "variance": 0.0371,
+    "visits": 20
+  },
+  "I|p1|rs0|vw0|br1|b4": {
+    "best_ev": 0.635,
+    "bid": 1,
+    "improvement": 0.054,
+    "live_bid": 11,
+    "live_ev": 0.581,
+    "variance": 0.0305,
+    "visits": 20
+  },
+  "I|p1|rs0|vw1|br0|b3": {
+    "best_ev": 0.52,
+    "bid": 16,
+    "improvement": 0.015,
+    "live_bid": 11,
+    "live_ev": 0.505,
+    "variance": 0.0144,
+    "visits": 20
+  },
+  "I|p1|rs0|vw1|br1|b1": {
+    "best_ev": 0.505,
+    "bid": 0,
+    "improvement": 0.06,
+    "live_bid": 9,
+    "live_ev": 0.445,
+    "variance": 0.0169,
+    "visits": 20
+  },
+  "I|p1|rs0|vw1|br1|b2": {
+    "best_ev": 0.368,
+    "bid": 12,
+    "improvement": 0.0,
+    "live_bid": 12,
+    "live_ev": 0.368,
+    "variance": 0.0334,
+    "visits": 20
+  },
+  "I|p1|rs0|vw1|br1|b3": {
+    "best_ev": 0.786,
+    "bid": 29,
+    "improvement": 0.043,
+    "live_bid": 18,
+    "live_ev": 0.743,
+    "variance": 0.0265,
+    "visits": 20
+  },
+  "I|p1|rs0|vw1|br1|b4": {
+    "best_ev": 1.0,
+    "bid": 11,
+    "improvement": 0.0,
+    "live_bid": 11,
+    "live_ev": 1.0,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "I|p1|rs0|vw1|br2|b1": {
+    "best_ev": 0.44,
+    "bid": 21,
+    "improvement": 0.09,
+    "live_bid": 9,
+    "live_ev": 0.35,
+    "variance": 0.0274,
+    "visits": 20
+  },
+  "I|p1|rs0|vw1|br2|b2": {
+    "best_ev": 0.825,
+    "bid": 8,
+    "improvement": 0.121,
+    "live_bid": 9,
+    "live_ev": 0.704,
+    "variance": 0.0427,
+    "visits": 20
+  },
+  "I|p1|rs0|vw2|br1|b2": {
+    "best_ev": 1.0,
+    "bid": 11,
+    "improvement": 0.0,
+    "live_bid": 11,
+    "live_ev": 1.0,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "I|p1|rs1|vw0|br1|b4": {
+    "best_ev": 0.773,
+    "bid": 1,
+    "improvement": 0.255,
+    "live_bid": 10,
+    "live_ev": 0.518,
+    "variance": 0.0443,
+    "visits": 20
+  },
+  "I|p1|rs1|vw1|br1|b1": {
+    "best_ev": 0.978,
+    "bid": 7,
+    "improvement": 0.044,
+    "live_bid": 8,
+    "live_ev": 0.934,
+    "variance": 0.0044,
+    "visits": 20
+  },
+  "I|p1|rs1|vw1|br1|b2": {
+    "best_ev": 0.823,
+    "bid": 0,
+    "improvement": 0.028,
+    "live_bid": 10,
+    "live_ev": 0.795,
+    "variance": 0.034,
+    "visits": 20
+  },
+  "I|p1|rs1|vw1|br1|b3": {
+    "best_ev": 0.588,
+    "bid": 24,
+    "improvement": 0.055,
+    "live_bid": 10,
+    "live_ev": 0.533,
+    "variance": 0.0559,
+    "visits": 20
+  },
+  "I|p1|rs1|vw1|br2|b1": {
+    "best_ev": 0.533,
+    "bid": 14,
+    "improvement": 0.091,
+    "live_bid": 9,
+    "live_ev": 0.442,
+    "variance": 0.0457,
+    "visits": 20
+  },
+  "I|p1|rs1|vw1|br2|b3": {
+    "best_ev": 0.891,
+    "bid": 27,
+    "improvement": 0.204,
+    "live_bid": 10,
+    "live_ev": 0.687,
+    "variance": 0.0163,
+    "visits": 20
+  },
+  "I|p1|rs1|vw1|br2|b4": {
+    "best_ev": 0.635,
+    "bid": 1,
+    "improvement": 0.085,
+    "live_bid": 10,
+    "live_ev": 0.55,
+    "variance": 0.0155,
+    "visits": 20
+  },
+  "I|p1|rs1|vw2|br1|b1": {
+    "best_ev": 0.42,
+    "bid": 10,
+    "improvement": 0.003,
+    "live_bid": 9,
+    "live_ev": 0.417,
+    "variance": 0.0324,
+    "visits": 20
+  },
+  "I|p1|rs1|vw2|br1|b3": {
+    "best_ev": 0.321,
+    "bid": 36,
+    "improvement": 0.152,
+    "live_bid": 10,
+    "live_ev": 0.169,
+    "variance": 0.1044,
+    "visits": 20
+  },
+  "I|p1|rs1|vw2|br1|b4": {
+    "best_ev": 0.639,
+    "bid": 1,
+    "improvement": 0.124,
+    "live_bid": 10,
+    "live_ev": 0.515,
+    "variance": 0.0643,
+    "visits": 20
+  },
+  "I|p1|rs1|vw2|br2|b2": {
+    "best_ev": 0.813,
+    "bid": 5,
+    "improvement": 0.022,
+    "live_bid": 9,
+    "live_ev": 0.791,
+    "variance": 0.0062,
+    "visits": 20
+  },
+  "I|p2|rs0|vw0|br0|b1": {
+    "best_ev": 0.28,
+    "bid": 19,
+    "improvement": 0.0,
+    "live_bid": 19,
+    "live_ev": 0.28,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "I|p2|rs0|vw0|br0|b2": {
+    "best_ev": 1.0,
+    "bid": 10,
+    "improvement": 0.0,
+    "live_bid": 10,
+    "live_ev": 1.0,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "I|p2|rs0|vw0|br0|b3": {
+    "best_ev": 0.28,
+    "bid": 49,
+    "improvement": 0.0,
+    "live_bid": 49,
+    "live_ev": 0.28,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "I|p2|rs0|vw0|br1|b1": {
+    "best_ev": 0.77,
+    "bid": 8,
+    "improvement": 0.02,
+    "live_bid": 9,
+    "live_ev": 0.75,
+    "variance": 0.0019,
+    "visits": 20
+  },
+  "I|p2|rs0|vw0|br1|b2": {
+    "best_ev": 0.28,
+    "bid": 26,
+    "improvement": 0.0,
+    "live_bid": 26,
+    "live_ev": 0.28,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "I|p2|rs0|vw1|br1|b0": {
+    "best_ev": 0.78,
+    "bid": 2,
+    "improvement": 0.0,
+    "live_bid": 2,
+    "live_ev": 0.78,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "I|p2|rs0|vw1|br1|b1": {
+    "best_ev": 0.505,
+    "bid": 8,
+    "improvement": 0.045,
+    "live_bid": 9,
+    "live_ev": 0.46,
+    "variance": 0.0169,
+    "visits": 20
+  },
+  "I|p2|rs0|vw1|br1|b3": {
+    "best_ev": 0.37,
+    "bid": 9,
+    "improvement": 0.09,
+    "live_bid": 11,
+    "live_ev": 0.28,
+    "variance": 0.0189,
+    "visits": 20
+  },
+  "I|p2|rs1|vw0|br1|b1": {
+    "best_ev": 0.989,
+    "bid": 17,
+    "improvement": 0.0,
+    "live_bid": 17,
+    "live_ev": 0.989,
+    "variance": 0.0023,
+    "visits": 20
+  },
+  "I|p2|rs1|vw1|br2|b1": {
+    "best_ev": 0.58,
+    "bid": 22,
+    "improvement": 0.045,
+    "live_bid": 12,
+    "live_ev": 0.535,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "I|p2|rs1|vw1|br2|b2": {
+    "best_ev": 0.49,
+    "bid": 13,
+    "improvement": 0.075,
+    "live_bid": 10,
+    "live_ev": 0.415,
+    "variance": 0.0189,
+    "visits": 20
+  },
+  "I|p2|rs1|vw1|br2|b3": {
+    "best_ev": 0.385,
+    "bid": 16,
+    "improvement": 0.076,
+    "live_bid": 11,
+    "live_ev": 0.309,
+    "variance": 0.0205,
+    "visits": 20
+  },
+  "J|p0|rs0|vw0|br0|b4": {
+    "best_ev": 0.792,
+    "bid": 1,
+    "improvement": 0.068,
+    "live_bid": 10,
+    "live_ev": 0.724,
+    "variance": 0.0373,
+    "visits": 20
+  },
+  "J|p0|rs0|vw1|br1|b4": {
+    "best_ev": 0.717,
+    "bid": 11,
+    "improvement": 0.172,
+    "live_bid": 10,
+    "live_ev": 0.545,
+    "variance": 0.071,
+    "visits": 20
+  },
+  "J|p0|rs0|vw1|br2|b4": {
+    "best_ev": 0.778,
+    "bid": 29,
+    "improvement": 0.296,
+    "live_bid": 10,
+    "live_ev": 0.482,
+    "variance": 0.0524,
+    "visits": 20
+  },
+  "J|p0|rs0|vw2|br1|b4": {
+    "best_ev": 0.839,
+    "bid": 15,
+    "improvement": 0.228,
+    "live_bid": 10,
+    "live_ev": 0.611,
+    "variance": 0.0263,
+    "visits": 20
+  },
+  "J|p0|rs1|vw2|br1|b4": {
+    "best_ev": 0.812,
+    "bid": 44,
+    "improvement": 0.075,
+    "live_bid": 10,
+    "live_ev": 0.737,
+    "variance": 0.0324,
+    "visits": 20
+  },
+  "J|p1|rs0|vw0|br0|b2": {
+    "best_ev": 0.989,
+    "bid": 24,
+    "improvement": 0.022,
+    "live_bid": 10,
+    "live_ev": 0.967,
+    "variance": 0.0023,
+    "visits": 20
+  },
+  "J|p1|rs0|vw0|br0|b3": {
+    "best_ev": 0.857,
+    "bid": 20,
+    "improvement": 0.077,
+    "live_bid": 10,
+    "live_ev": 0.78,
+    "variance": 0.011,
+    "visits": 20
+  },
+  "J|p1|rs0|vw1|br1|b1": {
+    "best_ev": 0.43,
+    "bid": 11,
+    "improvement": 0.015,
+    "live_bid": 9,
+    "live_ev": 0.415,
+    "variance": 0.0225,
+    "visits": 20
+  },
+  "J|p1|rs0|vw1|br1|b3": {
+    "best_ev": 0.706,
+    "bid": 28,
+    "improvement": 0.096,
+    "live_bid": 10,
+    "live_ev": 0.61,
+    "variance": 0.0505,
+    "visits": 20
+  },
+  "J|p1|rs0|vw1|br2|b1": {
+    "best_ev": 0.355,
+    "bid": 10,
+    "improvement": 0.03,
+    "live_bid": 9,
+    "live_ev": 0.325,
+    "variance": 0.0169,
+    "visits": 20
+  },
+  "J|p1|rs1|vw1|br1|b1": {
+    "best_ev": 0.275,
+    "bid": 9,
+    "improvement": 0.062,
+    "live_bid": 6,
+    "live_ev": 0.213,
+    "variance": 0.0353,
+    "visits": 20
+  },
+  "J|p1|rs1|vw1|br2|b3": {
+    "best_ev": 0.499,
+    "bid": 16,
+    "improvement": 0.144,
+    "live_bid": 15,
+    "live_ev": 0.355,
+    "variance": 0.0677,
+    "visits": 20
+  },
+  "J|p2|rs0|vw0|br0|b1": {
+    "best_ev": 0.78,
+    "bid": 10,
+    "improvement": 0.0,
+    "live_bid": 10,
+    "live_ev": 0.78,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "K|p0|rs0|vw0|br1|b4": {
+    "best_ev": 0.656,
+    "bid": 16,
+    "improvement": 0.213,
+    "live_bid": 9,
+    "live_ev": 0.443,
+    "variance": 0.0821,
+    "visits": 20
+  },
+  "K|p0|rs0|vw1|br1|b3": {
+    "best_ev": 0.88,
+    "bid": 29,
+    "improvement": 0.088,
+    "live_bid": 8,
+    "live_ev": 0.792,
+    "variance": 0.0162,
+    "visits": 20
+  },
+  "K|p0|rs0|vw1|br1|b4": {
+    "best_ev": 0.684,
+    "bid": 15,
+    "improvement": 0.137,
+    "live_bid": 10,
+    "live_ev": 0.547,
+    "variance": 0.0585,
+    "visits": 20
+  },
+  "K|p0|rs0|vw1|br2|b4": {
+    "best_ev": 0.581,
+    "bid": 29,
+    "improvement": 0.231,
+    "live_bid": 11,
+    "live_ev": 0.35,
+    "variance": 0.0498,
+    "visits": 20
+  },
+  "K|p0|rs1|vw2|br1|b3": {
+    "best_ev": 0.708,
+    "bid": 9,
+    "improvement": 0.041,
+    "live_bid": 10,
+    "live_ev": 0.667,
+    "variance": 0.0306,
+    "visits": 20
+  },
+  "K|p0|rs1|vw2|br1|b4": {
+    "best_ev": 0.765,
+    "bid": 15,
+    "improvement": 0.071,
+    "live_bid": 12,
+    "live_ev": 0.694,
+    "variance": 0.0715,
+    "visits": 20
+  },
+  "K|p1|rs0|vw0|br0|b3": {
+    "best_ev": 0.923,
+    "bid": 18,
+    "improvement": 0.054,
+    "live_bid": 10,
+    "live_ev": 0.869,
+    "variance": 0.011,
+    "visits": 20
+  },
+  "K|p1|rs0|vw0|br1|b3": {
+    "best_ev": 0.326,
+    "bid": 64,
+    "improvement": 0.184,
+    "live_bid": 10,
+    "live_ev": 0.142,
+    "variance": 0.0666,
+    "visits": 20
+  },
+  "K|p1|rs0|vw1|br1|b3": {
+    "best_ev": 0.55,
+    "bid": 1,
+    "improvement": 0.075,
+    "live_bid": 22,
+    "live_ev": 0.475,
+    "variance": 0.0081,
+    "visits": 20
+  },
+  "K|p1|rs1|vw1|br2|b2": {
+    "best_ev": 0.901,
+    "bid": 1,
+    "improvement": 0.098,
+    "live_bid": 14,
+    "live_ev": 0.803,
+    "variance": 0.012,
+    "visits": 20
+  },
+  "K|p1|rs1|vw1|br2|b3": {
+    "best_ev": 0.967,
+    "bid": 27,
+    "improvement": 0.478,
+    "live_bid": 10,
+    "live_ev": 0.489,
+    "variance": 0.0062,
+    "visits": 20
+  },
+  "K|p2|rs0|vw0|br0|b2": {
+    "best_ev": 0.58,
+    "bid": 37,
+    "improvement": 0.0,
+    "live_bid": 37,
+    "live_ev": 0.58,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "K|p2|rs0|vw0|br0|b3": {
+    "best_ev": 0.332,
+    "bid": 47,
+    "improvement": 0.084,
+    "live_bid": 10,
+    "live_ev": 0.248,
+    "variance": 0.0166,
+    "visits": 20
+  },
+  "L|p0|rs0|vw0|br0|b4": {
+    "best_ev": 0.756,
+    "bid": 32,
+    "improvement": 0.081,
+    "live_bid": 11,
+    "live_ev": 0.675,
+    "variance": 0.0163,
+    "visits": 20
+  },
+  "L|p0|rs0|vw0|br0|b5": {
+    "best_ev": 0.936,
+    "bid": 57,
+    "improvement": 0.065,
+    "live_bid": 10,
+    "live_ev": 0.871,
+    "variance": 0.0184,
+    "visits": 20
+  },
+  "L|p0|rs0|vw0|br1|b3": {
+    "best_ev": 0.797,
+    "bid": 37,
+    "improvement": 0.005,
+    "live_bid": 9,
+    "live_ev": 0.792,
+    "variance": 0.0287,
+    "visits": 20
+  },
+  "L|p0|rs0|vw0|br1|b4": {
+    "best_ev": 0.714,
+    "bid": 5,
+    "improvement": 0.016,
+    "live_bid": 10,
+    "live_ev": 0.698,
+    "variance": 0.0423,
+    "visits": 20
+  },
+  "L|p0|rs0|vw0|br2|b4": {
+    "best_ev": 0.88,
+    "bid": 46,
+    "improvement": 0.128,
+    "live_bid": 10,
+    "live_ev": 0.752,
+    "variance": 0.0162,
+    "visits": 20
+  },
+  "L|p0|rs0|vw1|br1|b3": {
+    "best_ev": 0.824,
+    "bid": 10,
+    "improvement": 0.031,
+    "live_bid": 8,
+    "live_ev": 0.793,
+    "variance": 0.0383,
+    "visits": 20
+  },
+  "L|p0|rs0|vw1|br1|b4": {
+    "best_ev": 0.581,
+    "bid": 1,
+    "improvement": 0.088,
+    "live_bid": 10,
+    "live_ev": 0.493,
+    "variance": 0.0498,
+    "visits": 20
+  },
+  "L|p0|rs0|vw1|br2|b4": {
+    "best_ev": 0.651,
+    "bid": 10,
+    "improvement": 0.0,
+    "live_bid": 10,
+    "live_ev": 0.651,
+    "variance": 0.0744,
+    "visits": 20
+  },
+  "L|p0|rs0|vw2|br1|b4": {
+    "best_ev": 0.765,
+    "bid": 5,
+    "improvement": 0.177,
+    "live_bid": 10,
+    "live_ev": 0.588,
+    "variance": 0.0715,
+    "visits": 20
+  },
+  "L|p0|rs1|vw1|br2|b4": {
+    "best_ev": 0.639,
+    "bid": 9,
+    "improvement": 0.143,
+    "live_bid": 10,
+    "live_ev": 0.496,
+    "variance": 0.0643,
+    "visits": 20
+  },
+  "L|p0|rs1|vw2|br1|b4": {
+    "best_ev": 0.799,
+    "bid": 10,
+    "improvement": 0.0,
+    "live_bid": 10,
+    "live_ev": 0.799,
+    "variance": 0.0524,
+    "visits": 20
+  },
+  "L|p1|rs0|vw0|br0|b3": {
+    "best_ev": 0.423,
+    "bid": 1,
+    "improvement": 0.036,
+    "live_bid": 11,
+    "live_ev": 0.387,
+    "variance": 0.0343,
+    "visits": 20
+  },
+  "L|p1|rs0|vw0|br0|b4": {
+    "best_ev": 0.53,
+    "bid": 52,
+    "improvement": 0.023,
+    "live_bid": 11,
+    "live_ev": 0.507,
+    "variance": 0.0325,
+    "visits": 20
+  },
+  "L|p1|rs0|vw0|br1|b3": {
+    "best_ev": 0.457,
+    "bid": 23,
+    "improvement": 0.125,
+    "live_bid": 10,
+    "live_ev": 0.332,
+    "variance": 0.0355,
+    "visits": 20
+  },
+  "L|p1|rs0|vw0|br1|b4": {
+    "best_ev": 0.518,
+    "bid": 25,
+    "improvement": 0.109,
+    "live_bid": 11,
+    "live_ev": 0.409,
+    "variance": 0.0595,
+    "visits": 20
+  },
+  "L|p1|rs0|vw1|br1|b2": {
+    "best_ev": 0.332,
+    "bid": 20,
+    "improvement": 0.084,
+    "live_bid": 9,
+    "live_ev": 0.248,
+    "variance": 0.0166,
+    "visits": 20
+  },
+  "L|p1|rs0|vw1|br1|b3": {
+    "best_ev": 0.568,
+    "bid": 11,
+    "improvement": 0.093,
+    "live_bid": 10,
+    "live_ev": 0.475,
+    "variance": 0.0913,
+    "visits": 20
+  },
+  "L|p1|rs0|vw1|br1|b4": {
+    "best_ev": 0.848,
+    "bid": 0,
+    "improvement": 0.068,
+    "live_bid": 10,
+    "live_ev": 0.78,
+    "variance": 0.0187,
+    "visits": 20
+  },
+  "L|p1|rs0|vw1|br2|b2": {
+    "best_ev": 0.968,
+    "bid": 8,
+    "improvement": 0.117,
+    "live_bid": 9,
+    "live_ev": 0.851,
+    "variance": 0.0102,
+    "visits": 20
+  },
+  "L|p1|rs1|vw1|br1|b1": {
+    "best_ev": 0.978,
+    "bid": 11,
+    "improvement": 0.044,
+    "live_bid": 8,
+    "live_ev": 0.934,
+    "variance": 0.0044,
+    "visits": 20
+  },
+  "L|p1|rs1|vw1|br1|b3": {
+    "best_ev": 0.584,
+    "bid": 9,
+    "improvement": 0.172,
+    "live_bid": 10,
+    "live_ev": 0.412,
+    "variance": 0.0793,
+    "visits": 20
+  },
+  "L|p1|rs1|vw1|br1|b4": {
+    "best_ev": 0.571,
+    "bid": 9,
+    "improvement": 0.118,
+    "live_bid": 10,
+    "live_ev": 0.453,
+    "variance": 0.0327,
+    "visits": 20
+  },
+  "L|p1|rs1|vw1|br2|b1": {
+    "best_ev": 0.565,
+    "bid": 17,
+    "improvement": 0.116,
+    "live_bid": 5,
+    "live_ev": 0.449,
+    "variance": 0.0343,
+    "visits": 20
+  },
+  "L|p1|rs1|vw1|br2|b4": {
+    "best_ev": 0.59,
+    "bid": 12,
+    "improvement": 0.012,
+    "live_bid": 11,
+    "live_ev": 0.578,
+    "variance": 0.0019,
+    "visits": 20
+  },
+  "L|p1|rs1|vw2|br2|b2": {
+    "best_ev": 0.802,
+    "bid": 11,
+    "improvement": 0.0,
+    "live_bid": 11,
+    "live_ev": 0.802,
+    "variance": 0.0044,
+    "visits": 20
+  },
+  "L|p2|rs0|vw0|br0|b1": {
+    "best_ev": 0.78,
+    "bid": 9,
+    "improvement": 0.0,
+    "live_bid": 9,
+    "live_ev": 0.78,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "L|p2|rs0|vw0|br0|b2": {
+    "best_ev": 0.58,
+    "bid": 43,
+    "improvement": 0.0,
+    "live_bid": 43,
+    "live_ev": 0.58,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "L|p2|rs0|vw0|br1|b2": {
+    "best_ev": 1.0,
+    "bid": 10,
+    "improvement": 0.0,
+    "live_bid": 10,
+    "live_ev": 1.0,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "L|p2|rs0|vw1|br0|b2": {
+    "best_ev": 0.28,
+    "bid": 42,
+    "improvement": 0.0,
+    "live_bid": 42,
+    "live_ev": 0.28,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "L|p2|rs0|vw1|br1|b2": {
+    "best_ev": 1.0,
+    "bid": 10,
+    "improvement": 0.0,
+    "live_bid": 10,
+    "live_ev": 1.0,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "L|p2|rs1|vw1|br1|b0": {
+    "best_ev": 0.12,
+    "bid": 9,
+    "improvement": 0.0,
+    "live_bid": 9,
+    "live_ev": 0.12,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "M|p0|rs0|vw0|br0|b5": {
+    "best_ev": 0.786,
+    "bid": 59,
+    "improvement": 0.056,
+    "live_bid": 11,
+    "live_ev": 0.73,
+    "variance": 0.0265,
+    "visits": 20
+  },
+  "M|p0|rs0|vw0|br1|b4": {
+    "best_ev": 0.837,
+    "bid": 35,
+    "improvement": 0.161,
+    "live_bid": 10,
+    "live_ev": 0.676,
+    "variance": 0.0177,
+    "visits": 20
+  },
+  "M|p0|rs0|vw1|br1|b4": {
+    "best_ev": 0.713,
+    "bid": 1,
+    "improvement": 0.033,
+    "live_bid": 10,
+    "live_ev": 0.68,
+    "variance": 0.0834,
+    "visits": 20
+  },
+  "M|p0|rs0|vw1|br2|b4": {
+    "best_ev": 0.588,
+    "bid": 10,
+    "improvement": 0.0,
+    "live_bid": 10,
+    "live_ev": 0.588,
+    "variance": 0.0513,
+    "visits": 20
+  },
+  "M|p0|rs0|vw2|br1|b4": {
+    "best_ev": 0.652,
+    "bid": 46,
+    "improvement": 0.228,
+    "live_bid": 11,
+    "live_ev": 0.424,
+    "variance": 0.0821,
+    "visits": 20
+  },
+  "M|p0|rs1|vw1|br1|b3": {
+    "best_ev": 0.967,
+    "bid": 1,
+    "improvement": 0.063,
+    "live_bid": 9,
+    "live_ev": 0.904,
+    "variance": 0.0062,
+    "visits": 20
+  },
+  "M|p0|rs1|vw1|br2|b3": {
+    "best_ev": 0.46,
+    "bid": 24,
+    "improvement": 0.025,
+    "live_bid": 10,
+    "live_ev": 0.435,
+    "variance": 0.0216,
+    "visits": 20
+  },
+  "M|p0|rs1|vw2|br1|b4": {
+    "best_ev": 0.923,
+    "bid": 25,
+    "improvement": 0.154,
+    "live_bid": 9,
+    "live_ev": 0.769,
+    "variance": 0.011,
+    "visits": 20
+  },
+  "M|p1|rs0|vw0|br0|b3": {
+    "best_ev": 0.78,
+    "bid": 10,
+    "improvement": 0.0,
+    "live_bid": 10,
+    "live_ev": 0.78,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "M|p1|rs0|vw0|br0|b4": {
+    "best_ev": 0.956,
+    "bid": 0,
+    "improvement": 0.022,
+    "live_bid": 11,
+    "live_ev": 0.934,
+    "variance": 0.0077,
+    "visits": 20
+  },
+  "M|p1|rs0|vw0|br1|b2": {
+    "best_ev": 0.337,
+    "bid": 15,
+    "improvement": 0.203,
+    "live_bid": 10,
+    "live_ev": 0.134,
+    "variance": 0.043,
+    "visits": 20
+  },
+  "M|p1|rs0|vw0|br1|b3": {
+    "best_ev": 0.369,
+    "bid": 11,
+    "improvement": 0.031,
+    "live_bid": 10,
+    "live_ev": 0.338,
+    "variance": 0.0261,
+    "visits": 20
+  },
+  "M|p1|rs0|vw0|br1|b4": {
+    "best_ev": 0.84,
+    "bid": 1,
+    "improvement": 0.049,
+    "live_bid": 11,
+    "live_ev": 0.791,
+    "variance": 0.0306,
+    "visits": 20
+  },
+  "M|p1|rs0|vw1|br1|b1": {
+    "best_ev": 0.505,
+    "bid": 7,
+    "improvement": 0.09,
+    "live_bid": 9,
+    "live_ev": 0.415,
+    "variance": 0.0169,
+    "visits": 20
+  },
+  "M|p1|rs0|vw1|br1|b3": {
+    "best_ev": 0.416,
+    "bid": 18,
+    "improvement": 0.12,
+    "live_bid": 12,
+    "live_ev": 0.296,
+    "variance": 0.0533,
+    "visits": 20
+  },
+  "M|p1|rs0|vw1|br1|b4": {
+    "best_ev": 0.859,
+    "bid": 0,
+    "improvement": 0.104,
+    "live_bid": 10,
+    "live_ev": 0.755,
+    "variance": 0.0195,
+    "visits": 20
+  },
+  "M|p1|rs0|vw1|br2|b1": {
+    "best_ev": 0.34,
+    "bid": 10,
+    "improvement": 0.03,
+    "live_bid": 9,
+    "live_ev": 0.31,
+    "variance": 0.0144,
+    "visits": 20
+  },
+  "M|p1|rs1|vw1|br1|b4": {
+    "best_ev": 0.696,
+    "bid": 14,
+    "improvement": 0.054,
+    "live_bid": 13,
+    "live_ev": 0.642,
+    "variance": 0.0369,
+    "visits": 20
+  },
+  "M|p1|rs1|vw2|br1|b4": {
+    "best_ev": 0.728,
+    "bid": 20,
+    "improvement": 0.448,
+    "live_bid": 25,
+    "live_ev": 0.28,
+    "variance": 0.0747,
+    "visits": 20
+  },
+  "M|p2|rs0|vw0|br0|b2": {
+    "best_ev": 1.0,
+    "bid": 10,
+    "improvement": 0.0,
+    "live_bid": 10,
+    "live_ev": 1.0,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "M|p2|rs0|vw0|br1|b2": {
+    "best_ev": 1.0,
+    "bid": 10,
+    "improvement": 0.0,
+    "live_bid": 10,
+    "live_ev": 1.0,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "M|p2|rs0|vw0|br1|b3": {
+    "best_ev": 0.758,
+    "bid": 27,
+    "improvement": 0.244,
+    "live_bid": 10,
+    "live_ev": 0.514,
+    "variance": 0.0253,
+    "visits": 20
+  },
+  "M|p2|rs0|vw1|br1|b3": {
+    "best_ev": 0.0,
+    "bid": 53,
+    "improvement": 0.0,
+    "live_bid": 53,
+    "live_ev": 0.0,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "N|p0|rs0|vw0|br0|b4": {
+    "best_ev": 0.787,
+    "bid": 5,
+    "improvement": 0.086,
+    "live_bid": 10,
+    "live_ev": 0.701,
+    "variance": 0.0309,
+    "visits": 20
+  },
+  "N|p0|rs0|vw0|br0|b5": {
+    "best_ev": 0.945,
+    "bid": 23,
+    "improvement": 0.032,
+    "live_bid": 11,
+    "live_ev": 0.913,
+    "variance": 0.0091,
+    "visits": 20
+  },
+  "N|p0|rs0|vw0|br1|b4": {
+    "best_ev": 0.661,
+    "bid": 6,
+    "improvement": 0.171,
+    "live_bid": 11,
+    "live_ev": 0.49,
+    "variance": 0.0749,
+    "visits": 20
+  },
+  "N|p0|rs0|vw1|br1|b4": {
+    "best_ev": 0.724,
+    "bid": 1,
+    "improvement": 0.136,
+    "live_bid": 10,
+    "live_ev": 0.588,
+    "variance": 0.0871,
+    "visits": 20
+  },
+  "N|p0|rs0|vw1|br2|b4": {
+    "best_ev": 0.815,
+    "bid": 16,
+    "improvement": 0.041,
+    "live_bid": 11,
+    "live_ev": 0.774,
+    "variance": 0.0455,
+    "visits": 20
+  },
+  "N|p0|rs0|vw2|br1|b4": {
+    "best_ev": 0.865,
+    "bid": 0,
+    "improvement": 0.123,
+    "live_bid": 10,
+    "live_ev": 0.742,
+    "variance": 0.0295,
+    "visits": 20
+  },
+  "N|p0|rs1|vw1|br1|b3": {
+    "best_ev": 0.967,
+    "bid": 14,
+    "improvement": 0.087,
+    "live_bid": 9,
+    "live_ev": 0.88,
+    "variance": 0.0062,
+    "visits": 20
+  },
+  "N|p0|rs1|vw1|br1|b4": {
+    "best_ev": 0.772,
+    "bid": 25,
+    "improvement": 0.032,
+    "live_bid": 11,
+    "live_ev": 0.74,
+    "variance": 0.0414,
+    "visits": 20
+  },
+  "N|p0|rs1|vw1|br2|b3": {
+    "best_ev": 0.596,
+    "bid": 4,
+    "improvement": 0.039,
+    "live_bid": 9,
+    "live_ev": 0.557,
+    "variance": 0.1211,
+    "visits": 20
+  },
+  "N|p0|rs1|vw1|br2|b4": {
+    "best_ev": 0.825,
+    "bid": 26,
+    "improvement": 0.223,
+    "live_bid": 10,
+    "live_ev": 0.602,
+    "variance": 0.0427,
+    "visits": 20
+  },
+  "N|p0|rs1|vw2|br1|b3": {
+    "best_ev": 0.619,
+    "bid": 14,
+    "improvement": 0.176,
+    "live_bid": 9,
+    "live_ev": 0.443,
+    "variance": 0.0623,
+    "visits": 20
+  },
+  "N|p0|rs1|vw2|br1|b4": {
+    "best_ev": 0.778,
+    "bid": 8,
+    "improvement": 0.159,
+    "live_bid": 9,
+    "live_ev": 0.619,
+    "variance": 0.098,
+    "visits": 20
+  },
+  "N|p1|rs0|vw0|br0|b2": {
+    "best_ev": 0.619,
+    "bid": 5,
+    "improvement": 0.012,
+    "live_bid": 10,
+    "live_ev": 0.607,
+    "variance": 0.0457,
+    "visits": 20
+  },
+  "N|p1|rs0|vw0|br0|b3": {
+    "best_ev": 0.945,
+    "bid": 11,
+    "improvement": 0.066,
+    "live_bid": 10,
+    "live_ev": 0.879,
+    "variance": 0.0091,
+    "visits": 20
+  },
+  "N|p1|rs0|vw0|br0|b4": {
+    "best_ev": 0.383,
+    "bid": 11,
+    "improvement": 0.0,
+    "live_bid": 11,
+    "live_ev": 0.383,
+    "variance": 0.0625,
+    "visits": 20
+  },
+  "N|p1|rs0|vw0|br0|b5": {
+    "best_ev": 0.604,
+    "bid": 6,
+    "improvement": 0.113,
+    "live_bid": 11,
+    "live_ev": 0.491,
+    "variance": 0.0496,
+    "visits": 20
+  },
+  "N|p1|rs0|vw0|br1|b1": {
+    "best_ev": 0.784,
+    "bid": 0,
+    "improvement": 0.02,
+    "live_bid": 9,
+    "live_ev": 0.764,
+    "variance": 0.0177,
+    "visits": 20
+  },
+  "N|p1|rs0|vw0|br1|b2": {
+    "best_ev": 0.792,
+    "bid": 1,
+    "improvement": 0.022,
+    "live_bid": 10,
+    "live_ev": 0.77,
+    "variance": 0.0067,
+    "visits": 20
+  },
+  "N|p1|rs0|vw0|br1|b3": {
+    "best_ev": 0.525,
+    "bid": 6,
+    "improvement": 0.08,
+    "live_bid": 11,
+    "live_ev": 0.445,
+    "variance": 0.0385,
+    "visits": 20
+  },
+  "N|p1|rs0|vw0|br1|b4": {
+    "best_ev": 0.796,
+    "bid": 17,
+    "improvement": 0.102,
+    "live_bid": 12,
+    "live_ev": 0.694,
+    "variance": 0.0243,
+    "visits": 20
+  },
+  "N|p1|rs0|vw1|br1|b1": {
+    "best_ev": 0.4,
+    "bid": 1,
+    "improvement": 0.045,
+    "live_bid": 9,
+    "live_ev": 0.355,
+    "variance": 0.0216,
+    "visits": 20
+  },
+  "N|p1|rs0|vw1|br1|b2": {
+    "best_ev": 0.496,
+    "bid": 5,
+    "improvement": 0.111,
+    "live_bid": 10,
+    "live_ev": 0.385,
+    "variance": 0.0483,
+    "visits": 20
+  },
+  "N|p1|rs0|vw1|br1|b3": {
+    "best_ev": 0.902,
+    "bid": 16,
+    "improvement": 0.133,
+    "live_bid": 17,
+    "live_ev": 0.769,
+    "variance": 0.0162,
+    "visits": 20
+  },
+  "N|p1|rs0|vw1|br1|b4": {
+    "best_ev": 1.0,
+    "bid": 11,
+    "improvement": 0.022,
+    "live_bid": 12,
+    "live_ev": 0.978,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "N|p1|rs1|vw0|br1|b4": {
+    "best_ev": 0.691,
+    "bid": 9,
+    "improvement": 0.015,
+    "live_bid": 10,
+    "live_ev": 0.676,
+    "variance": 0.1071,
+    "visits": 20
+  },
+  "N|p1|rs1|vw1|br1|b1": {
+    "best_ev": 0.283,
+    "bid": 7,
+    "improvement": 0.031,
+    "live_bid": 6,
+    "live_ev": 0.252,
+    "variance": 0.034,
+    "visits": 20
+  },
+  "N|p1|rs1|vw1|br2|b1": {
+    "best_ev": 0.625,
+    "bid": 9,
+    "improvement": 0.0,
+    "live_bid": 9,
+    "live_ev": 0.625,
+    "variance": 0.0295,
+    "visits": 20
+  },
+  "N|p1|rs1|vw1|br2|b2": {
+    "best_ev": 0.946,
+    "bid": 32,
+    "improvement": 0.077,
+    "live_bid": 9,
+    "live_ev": 0.869,
+    "variance": 0.0132,
+    "visits": 20
+  },
+  "N|p1|rs1|vw1|br2|b3": {
+    "best_ev": 0.88,
+    "bid": 15,
+    "improvement": 0.184,
+    "live_bid": 10,
+    "live_ev": 0.696,
+    "variance": 0.0162,
+    "visits": 20
+  },
+  "N|p1|rs1|vw1|br2|b4": {
+    "best_ev": 0.611,
+    "bid": 10,
+    "improvement": 0.0,
+    "live_bid": 10,
+    "live_ev": 0.611,
+    "variance": 0.0249,
+    "visits": 20
+  },
+  "N|p1|rs1|vw2|br1|b3": {
+    "best_ev": 0.542,
+    "bid": 14,
+    "improvement": 0.137,
+    "live_bid": 10,
+    "live_ev": 0.405,
+    "variance": 0.0436,
+    "visits": 20
+  },
+  "N|p1|rs1|vw2|br1|b4": {
+    "best_ev": 0.565,
+    "bid": 6,
+    "improvement": 0.066,
+    "live_bid": 11,
+    "live_ev": 0.499,
+    "variance": 0.0493,
+    "visits": 20
+  },
+  "N|p1|rs1|vw2|br2|b2": {
+    "best_ev": 0.846,
+    "bid": 26,
+    "improvement": 0.055,
+    "live_bid": 11,
+    "live_ev": 0.791,
+    "variance": 0.0102,
+    "visits": 20
+  },
+  "N|p2|rs0|vw0|br0|b1": {
+    "best_ev": 0.78,
+    "bid": 9,
+    "improvement": 0.0,
+    "live_bid": 9,
+    "live_ev": 0.78,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "N|p2|rs0|vw0|br0|b2": {
+    "best_ev": 0.535,
+    "bid": 0,
+    "improvement": 0.015,
+    "live_bid": 10,
+    "live_ev": 0.52,
+    "variance": 0.0115,
+    "visits": 20
+  },
+  "N|p2|rs0|vw0|br0|b3": {
+    "best_ev": 0.78,
+    "bid": 10,
+    "improvement": 0.0,
+    "live_bid": 10,
+    "live_ev": 0.78,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "N|p2|rs0|vw1|br1|b1": {
+    "best_ev": 0.61,
+    "bid": 16,
+    "improvement": 0.0,
+    "live_bid": 16,
+    "live_ev": 0.61,
+    "variance": 0.0051,
+    "visits": 20
+  },
+  "N|p2|rs0|vw1|br1|b2": {
+    "best_ev": 1.0,
+    "bid": 9,
+    "improvement": 0.011,
+    "live_bid": 10,
+    "live_ev": 0.989,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "N|p2|rs0|vw1|br1|b3": {
+    "best_ev": 0.084,
+    "bid": 12,
+    "improvement": 0.018,
+    "live_bid": 11,
+    "live_ev": 0.066,
+    "variance": 0.003,
+    "visits": 20
+  },
+  "N|p2|rs0|vw1|br2|b1": {
+    "best_ev": 0.28,
+    "bid": 9,
+    "improvement": 0.0,
+    "live_bid": 9,
+    "live_ev": 0.28,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "N|p2|rs1|vw1|br1|b1": {
+    "best_ev": 0.28,
+    "bid": 14,
+    "improvement": 0.0,
+    "live_bid": 14,
+    "live_ev": 0.28,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "O|p0|rs0|vw0|br0|b4": {
+    "best_ev": 0.794,
+    "bid": 15,
+    "improvement": 0.095,
+    "live_bid": 16,
+    "live_ev": 0.699,
+    "variance": 0.0461,
+    "visits": 20
+  },
+  "O|p0|rs0|vw0|br0|b5": {
+    "best_ev": 0.823,
+    "bid": 0,
+    "improvement": 0.018,
+    "live_bid": 14,
+    "live_ev": 0.805,
+    "variance": 0.034,
+    "visits": 20
+  },
+  "O|p0|rs0|vw0|br1|b4": {
+    "best_ev": 0.563,
+    "bid": 0,
+    "improvement": 0.01,
+    "live_bid": 13,
+    "live_ev": 0.553,
+    "variance": 0.0536,
+    "visits": 20
+  },
+  "O|p0|rs0|vw0|br2|b4": {
+    "best_ev": 0.817,
+    "bid": 1,
+    "improvement": 0.061,
+    "live_bid": 12,
+    "live_ev": 0.756,
+    "variance": 0.0236,
+    "visits": 20
+  },
+  "O|p0|rs0|vw1|br1|b3": {
+    "best_ev": 0.828,
+    "bid": 9,
+    "improvement": 0.17,
+    "live_bid": 8,
+    "live_ev": 0.658,
+    "variance": 0.0251,
+    "visits": 20
+  },
+  "O|p0|rs0|vw1|br1|b4": {
+    "best_ev": 0.841,
+    "bid": 17,
+    "improvement": 0.028,
+    "live_bid": 12,
+    "live_ev": 0.813,
+    "variance": 0.0499,
+    "visits": 20
+  },
+  "O|p0|rs0|vw1|br2|b4": {
+    "best_ev": 0.561,
+    "bid": 1,
+    "improvement": 0.046,
+    "live_bid": 15,
+    "live_ev": 0.515,
+    "variance": 0.1004,
+    "visits": 20
+  },
+  "O|p0|rs0|vw2|br1|b4": {
+    "best_ev": 0.79,
+    "bid": 11,
+    "improvement": 0.194,
+    "live_bid": 12,
+    "live_ev": 0.596,
+    "variance": 0.0621,
+    "visits": 20
+  },
+  "O|p0|rs1|vw1|br2|b3": {
+    "best_ev": 0.625,
+    "bid": 13,
+    "improvement": 0.131,
+    "live_bid": 12,
+    "live_ev": 0.494,
+    "variance": 0.1346,
+    "visits": 20
+  },
+  "O|p0|rs1|vw1|br2|b4": {
+    "best_ev": 0.669,
+    "bid": 11,
+    "improvement": 0.071,
+    "live_bid": 12,
+    "live_ev": 0.598,
+    "variance": 0.0493,
+    "visits": 20
+  },
+  "O|p0|rs1|vw2|br1|b4": {
+    "best_ev": 0.803,
+    "bid": 0,
+    "improvement": 0.069,
+    "live_bid": 11,
+    "live_ev": 0.734,
+    "variance": 0.0668,
+    "visits": 20
+  },
+  "O|p0|rs1|vw2|br2|b3": {
+    "best_ev": 0.784,
+    "bid": 11,
+    "improvement": 0.0,
+    "live_bid": 11,
+    "live_ev": 0.784,
+    "variance": 0.0633,
+    "visits": 20
+  },
+  "O|p1|rs0|vw0|br0|b2": {
+    "best_ev": 0.743,
+    "bid": 1,
+    "improvement": 0.011,
+    "live_bid": 11,
+    "live_ev": 0.732,
+    "variance": 0.0199,
+    "visits": 20
+  },
+  "O|p1|rs0|vw0|br0|b3": {
+    "best_ev": 0.743,
+    "bid": 18,
+    "improvement": 0.024,
+    "live_bid": 10,
+    "live_ev": 0.719,
+    "variance": 0.0199,
+    "visits": 20
+  },
+  "O|p1|rs0|vw0|br0|b4": {
+    "best_ev": 0.396,
+    "bid": 10,
+    "improvement": 0.003,
+    "live_bid": 11,
+    "live_ev": 0.393,
+    "variance": 0.0499,
+    "visits": 20
+  },
+  "O|p1|rs0|vw0|br1|b1": {
+    "best_ev": 0.731,
+    "bid": 9,
+    "improvement": 0.031,
+    "live_bid": 10,
+    "live_ev": 0.7,
+    "variance": 0.012,
+    "visits": 20
+  },
+  "O|p1|rs0|vw0|br1|b2": {
+    "best_ev": 0.6,
+    "bid": 42,
+    "improvement": 0.015,
+    "live_bid": 18,
+    "live_ev": 0.585,
+    "variance": 0.0186,
+    "visits": 20
+  },
+  "O|p1|rs0|vw0|br1|b3": {
+    "best_ev": 0.51,
+    "bid": 11,
+    "improvement": 0.071,
+    "live_bid": 10,
+    "live_ev": 0.439,
+    "variance": 0.0411,
+    "visits": 20
+  },
+  "O|p1|rs0|vw0|br1|b4": {
+    "best_ev": 0.827,
+    "bid": 16,
+    "improvement": 0.0,
+    "live_bid": 16,
+    "live_ev": 0.827,
+    "variance": 0.0207,
+    "visits": 20
+  },
+  "O|p1|rs0|vw1|br1|b1": {
+    "best_ev": 0.497,
+    "bid": 9,
+    "improvement": 0.082,
+    "live_bid": 8,
+    "live_ev": 0.415,
+    "variance": 0.0217,
+    "visits": 20
+  },
+  "O|p1|rs0|vw1|br1|b2": {
+    "best_ev": 0.126,
+    "bid": 35,
+    "improvement": 0.126,
+    "live_bid": 10,
+    "live_ev": 0.0,
+    "variance": 0.0194,
+    "visits": 20
+  },
+  "O|p1|rs0|vw1|br1|b3": {
+    "best_ev": 1.0,
+    "bid": 9,
+    "improvement": 0.011,
+    "live_bid": 10,
+    "live_ev": 0.989,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "O|p1|rs0|vw1|br1|b4": {
+    "best_ev": 0.854,
+    "bid": 1,
+    "improvement": 0.036,
+    "live_bid": 10,
+    "live_ev": 0.818,
+    "variance": 0.0288,
+    "visits": 20
+  },
+  "O|p1|rs0|vw1|br2|b1": {
+    "best_ev": 0.28,
+    "bid": 9,
+    "improvement": 0.0,
+    "live_bid": 9,
+    "live_ev": 0.28,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "O|p1|rs0|vw1|br2|b2": {
+    "best_ev": 0.871,
+    "bid": 10,
+    "improvement": 0.003,
+    "live_bid": 9,
+    "live_ev": 0.868,
+    "variance": 0.0243,
+    "visits": 20
+  },
+  "O|p1|rs0|vw1|br2|b4": {
+    "best_ev": 0.569,
+    "bid": 0,
+    "improvement": 0.02,
+    "live_bid": 28,
+    "live_ev": 0.549,
+    "variance": 0.0505,
+    "visits": 20
+  },
+  "O|p1|rs1|vw1|br1|b1": {
+    "best_ev": 0.344,
+    "bid": 1,
+    "improvement": 0.099,
+    "live_bid": 6,
+    "live_ev": 0.245,
+    "variance": 0.0409,
+    "visits": 20
+  },
+  "O|p1|rs1|vw1|br1|b2": {
+    "best_ev": 0.761,
+    "bid": 11,
+    "improvement": 0.054,
+    "live_bid": 16,
+    "live_ev": 0.707,
+    "variance": 0.0387,
+    "visits": 20
+  },
+  "O|p1|rs1|vw1|br1|b3": {
+    "best_ev": 0.716,
+    "bid": 11,
+    "improvement": 0.044,
+    "live_bid": 10,
+    "live_ev": 0.672,
+    "variance": 0.0208,
+    "visits": 20
+  },
+  "O|p1|rs1|vw1|br2|b2": {
+    "best_ev": 0.978,
+    "bid": 17,
+    "improvement": 0.14,
+    "live_bid": 9,
+    "live_ev": 0.838,
+    "variance": 0.0044,
+    "visits": 20
+  },
+  "O|p1|rs1|vw1|br2|b3": {
+    "best_ev": 0.934,
+    "bid": 17,
+    "improvement": 0.191,
+    "live_bid": 9,
+    "live_ev": 0.743,
+    "variance": 0.0102,
+    "visits": 20
+  },
+  "O|p1|rs1|vw1|br2|b4": {
+    "best_ev": 0.59,
+    "bid": 75,
+    "improvement": 0.04,
+    "live_bid": 10,
+    "live_ev": 0.55,
+    "variance": 0.0019,
+    "visits": 20
+  },
+  "O|p1|rs1|vw2|br1|b1": {
+    "best_ev": 0.535,
+    "bid": 6,
+    "improvement": 0.111,
+    "live_bid": 1,
+    "live_ev": 0.424,
+    "variance": 0.0415,
+    "visits": 20
+  },
+  "O|p1|rs1|vw2|br2|b2": {
+    "best_ev": 0.791,
+    "bid": 8,
+    "improvement": 0.011,
+    "live_bid": 9,
+    "live_ev": 0.78,
+    "variance": 0.0023,
+    "visits": 20
+  },
+  "O|p2|rs0|vw0|br0|b0": {
+    "best_ev": 1.0,
+    "bid": 10,
+    "improvement": 0.0,
+    "live_bid": 10,
+    "live_ev": 1.0,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "O|p2|rs0|vw0|br0|b1": {
+    "best_ev": 0.28,
+    "bid": 15,
+    "improvement": 0.0,
+    "live_bid": 15,
+    "live_ev": 0.28,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "O|p2|rs0|vw0|br0|b2": {
+    "best_ev": 0.58,
+    "bid": 41,
+    "improvement": 0.0,
+    "live_bid": 41,
+    "live_ev": 0.58,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "O|p2|rs0|vw0|br0|b3": {
+    "best_ev": 0.585,
+    "bid": 17,
+    "improvement": 0.1,
+    "live_bid": 10,
+    "live_ev": 0.485,
+    "variance": 0.0235,
+    "visits": 20
+  },
+  "O|p2|rs0|vw0|br1|b1": {
+    "best_ev": 0.792,
+    "bid": 8,
+    "improvement": 0.001,
+    "live_bid": 9,
+    "live_ev": 0.791,
+    "variance": 0.0067,
+    "visits": 20
+  },
+  "O|p2|rs0|vw0|br1|b2": {
+    "best_ev": 0.446,
+    "bid": 14,
+    "improvement": 0.324,
+    "live_bid": 10,
+    "live_ev": 0.122,
+    "variance": 0.0913,
+    "visits": 20
+  },
+  "O|p2|rs0|vw1|br1|b1": {
+    "best_ev": 0.0,
+    "bid": 25,
+    "improvement": 0.0,
+    "live_bid": 25,
+    "live_ev": 0.0,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "O|p2|rs0|vw1|br1|b2": {
+    "best_ev": 0.28,
+    "bid": 37,
+    "improvement": 0.0,
+    "live_bid": 37,
+    "live_ev": 0.28,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "O|p2|rs0|vw1|br1|b3": {
+    "best_ev": 0.09,
+    "bid": 10,
+    "improvement": 0.012,
+    "live_bid": 11,
+    "live_ev": 0.078,
+    "variance": 0.0027,
+    "visits": 20
+  },
+  "O|p2|rs1|vw1|br2|b2": {
+    "best_ev": 0.28,
+    "bid": 27,
+    "improvement": 0.0,
+    "live_bid": 27,
+    "live_ev": 0.28,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "P|p0|rs0|vw0|br0|b5": {
+    "best_ev": 0.85,
+    "bid": 11,
+    "improvement": 0.0,
+    "live_bid": 11,
+    "live_ev": 0.85,
+    "variance": 0.0273,
+    "visits": 20
+  },
+  "P|p0|rs0|vw0|br1|b3": {
+    "best_ev": 0.859,
+    "bid": 13,
+    "improvement": 0.08,
+    "live_bid": 10,
+    "live_ev": 0.779,
+    "variance": 0.0195,
+    "visits": 20
+  },
+  "P|p0|rs0|vw0|br1|b4": {
+    "best_ev": 0.844,
+    "bid": 43,
+    "improvement": 0.129,
+    "live_bid": 10,
+    "live_ev": 0.715,
+    "variance": 0.0322,
+    "visits": 20
+  },
+  "P|p0|rs0|vw1|br1|b3": {
+    "best_ev": 0.783,
+    "bid": 3,
+    "improvement": 0.06,
+    "live_bid": 8,
+    "live_ev": 0.723,
+    "variance": 0.0439,
+    "visits": 20
+  },
+  "P|p0|rs0|vw1|br1|b4": {
+    "best_ev": 0.892,
+    "bid": 74,
+    "improvement": 0.025,
+    "live_bid": 10,
+    "live_ev": 0.867,
+    "variance": 0.0205,
+    "visits": 20
+  },
+  "P|p0|rs0|vw1|br2|b4": {
+    "best_ev": 0.733,
+    "bid": 48,
+    "improvement": 0.219,
+    "live_bid": 10,
+    "live_ev": 0.514,
+    "variance": 0.0361,
+    "visits": 20
+  },
+  "P|p0|rs1|vw1|br2|b4": {
+    "best_ev": 0.705,
+    "bid": 4,
+    "improvement": 0.143,
+    "live_bid": 9,
+    "live_ev": 0.562,
+    "variance": 0.0915,
+    "visits": 20
+  },
+  "P|p0|rs1|vw2|br1|b4": {
+    "best_ev": 0.782,
+    "bid": 40,
+    "improvement": 0.266,
+    "live_bid": 10,
+    "live_ev": 0.516,
+    "variance": 0.0394,
+    "visits": 20
+  },
+  "P|p1|rs0|vw0|br0|b2": {
+    "best_ev": 0.52,
+    "bid": 15,
+    "improvement": 0.195,
+    "live_bid": 10,
+    "live_ev": 0.325,
+    "variance": 0.0144,
+    "visits": 20
+  },
+  "P|p1|rs0|vw0|br0|b3": {
+    "best_ev": 0.791,
+    "bid": 11,
+    "improvement": 0.011,
+    "live_bid": 10,
+    "live_ev": 0.78,
+    "variance": 0.0023,
+    "visits": 20
+  },
+  "P|p1|rs0|vw0|br0|b4": {
+    "best_ev": 0.416,
+    "bid": 13,
+    "improvement": 0.0,
+    "live_bid": 13,
+    "live_ev": 0.416,
+    "variance": 0.0383,
+    "visits": 20
+  },
+  "P|p1|rs0|vw0|br1|b2": {
+    "best_ev": 1.0,
+    "bid": 10,
+    "improvement": 0.0,
+    "live_bid": 10,
+    "live_ev": 1.0,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "P|p1|rs0|vw0|br1|b3": {
+    "best_ev": 0.736,
+    "bid": 61,
+    "improvement": 0.235,
+    "live_bid": 25,
+    "live_ev": 0.501,
+    "variance": 0.048,
+    "visits": 20
+  },
+  "P|p1|rs0|vw0|br1|b4": {
+    "best_ev": 0.915,
+    "bid": 20,
+    "improvement": 0.023,
+    "live_bid": 19,
+    "live_ev": 0.892,
+    "variance": 0.0241,
+    "visits": 20
+  },
+  "P|p1|rs0|vw1|br1|b2": {
+    "best_ev": 0.437,
+    "bid": 38,
+    "improvement": 0.19,
+    "live_bid": 10,
+    "live_ev": 0.247,
+    "variance": 0.0411,
+    "visits": 20
+  },
+  "P|p1|rs0|vw1|br1|b3": {
+    "best_ev": 0.548,
+    "bid": 11,
+    "improvement": 0.176,
+    "live_bid": 10,
+    "live_ev": 0.372,
+    "variance": 0.1169,
+    "visits": 20
+  },
+  "P|p1|rs0|vw1|br1|b4": {
+    "best_ev": 0.891,
+    "bid": 25,
+    "improvement": 0.068,
+    "live_bid": 10,
+    "live_ev": 0.823,
+    "variance": 0.0163,
+    "visits": 20
+  },
+  "P|p1|rs1|vw0|br1|b4": {
+    "best_ev": 0.755,
+    "bid": 0,
+    "improvement": 0.238,
+    "live_bid": 10,
+    "live_ev": 0.517,
+    "variance": 0.0715,
+    "visits": 20
+  },
+  "P|p1|rs1|vw1|br1|b1": {
+    "best_ev": 0.336,
+    "bid": 7,
+    "improvement": 0.091,
+    "live_bid": 6,
+    "live_ev": 0.245,
+    "variance": 0.0431,
+    "visits": 20
+  },
+  "P|p1|rs1|vw1|br1|b2": {
+    "best_ev": 0.691,
+    "bid": 6,
+    "improvement": 0.191,
+    "live_bid": 14,
+    "live_ev": 0.5,
+    "variance": 0.0631,
+    "visits": 20
+  },
+  "P|p1|rs1|vw1|br1|b3": {
+    "best_ev": 0.677,
+    "bid": 16,
+    "improvement": 0.297,
+    "live_bid": 11,
+    "live_ev": 0.38,
+    "variance": 0.0873,
+    "visits": 20
+  },
+  "P|p1|rs1|vw1|br2|b1": {
+    "best_ev": 0.655,
+    "bid": 1,
+    "improvement": 0.133,
+    "live_bid": 9,
+    "live_ev": 0.522,
+    "variance": 0.0319,
+    "visits": 20
+  },
+  "P|p1|rs1|vw1|br2|b3": {
+    "best_ev": 0.47,
+    "bid": 0,
+    "improvement": 0.039,
+    "live_bid": 10,
+    "live_ev": 0.431,
+    "variance": 0.0714,
+    "visits": 20
+  },
+  "P|p2|rs0|vw0|br0|b2": {
+    "best_ev": 1.0,
+    "bid": 10,
+    "improvement": 0.0,
+    "live_bid": 10,
+    "live_ev": 1.0,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "P|p2|rs0|vw0|br1|b2": {
+    "best_ev": 1.0,
+    "bid": 10,
+    "improvement": 0.0,
+    "live_bid": 10,
+    "live_ev": 1.0,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "P|p2|rs0|vw1|br1|b0": {
+    "best_ev": 0.78,
+    "bid": 2,
+    "improvement": 0.0,
+    "live_bid": 2,
+    "live_ev": 0.78,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "Q|p0|rs0|vw0|br1|b4": {
+    "best_ev": 0.945,
+    "bid": 27,
+    "improvement": 0.14,
+    "live_bid": 0,
+    "live_ev": 0.805,
+    "variance": 0.0091,
+    "visits": 20
+  },
+  "Q|p0|rs0|vw1|br1|b4": {
+    "best_ev": 0.774,
+    "bid": 1,
+    "improvement": 0.131,
+    "live_bid": 0,
+    "live_ev": 0.643,
+    "variance": 0.0487,
+    "visits": 20
+  },
+  "Q|p0|rs0|vw1|br2|b4": {
+    "best_ev": 0.907,
+    "bid": 30,
+    "improvement": 0.317,
+    "live_bid": 0,
+    "live_ev": 0.59,
+    "variance": 0.052,
+    "visits": 20
+  },
+  "Q|p0|rs1|vw1|br2|b3": {
+    "best_ev": 0.842,
+    "bid": 65,
+    "improvement": 0.36,
+    "live_bid": 0,
+    "live_ev": 0.482,
+    "variance": 0.0572,
+    "visits": 20
+  },
+  "Q|p0|rs1|vw1|br2|b4": {
+    "best_ev": 0.967,
+    "bid": 15,
+    "improvement": 0.37,
+    "live_bid": 0,
+    "live_ev": 0.597,
+    "variance": 0.0062,
+    "visits": 20
+  },
+  "Q|p0|rs1|vw2|br1|b3": {
+    "best_ev": 0.728,
+    "bid": 11,
+    "improvement": 0.096,
+    "live_bid": 16,
+    "live_ev": 0.632,
+    "variance": 0.0597,
+    "visits": 20
+  },
+  "Q|p0|rs1|vw2|br2|b3": {
+    "best_ev": 0.9,
+    "bid": 33,
+    "improvement": 0.245,
+    "live_bid": 0,
+    "live_ev": 0.655,
+    "variance": 0.0384,
+    "visits": 20
+  },
+  "Q|p1|rs0|vw0|br0|b2": {
+    "best_ev": 0.815,
+    "bid": 1,
+    "improvement": 0.094,
+    "live_bid": 0,
+    "live_ev": 0.721,
+    "variance": 0.0149,
+    "visits": 20
+  },
+  "Q|p1|rs0|vw0|br0|b3": {
+    "best_ev": 0.497,
+    "bid": 70,
+    "improvement": 0.295,
+    "live_bid": 2,
+    "live_ev": 0.202,
+    "variance": 0.0517,
+    "visits": 20
+  },
+  "Q|p1|rs0|vw0|br1|b3": {
+    "best_ev": 0.813,
+    "bid": 22,
+    "improvement": 0.232,
+    "live_bid": 2,
+    "live_ev": 0.581,
+    "variance": 0.0062,
+    "visits": 20
+  },
+  "Q|p1|rs0|vw0|br1|b4": {
+    "best_ev": 0.935,
+    "bid": 79,
+    "improvement": 0.15,
+    "live_bid": 0,
+    "live_ev": 0.785,
+    "variance": 0.0143,
+    "visits": 20
+  },
+  "Q|p1|rs0|vw1|br1|b2": {
+    "best_ev": 0.802,
+    "bid": 14,
+    "improvement": 0.022,
+    "live_bid": 13,
+    "live_ev": 0.78,
+    "variance": 0.0044,
+    "visits": 20
+  },
+  "Q|p1|rs0|vw1|br1|b3": {
+    "best_ev": 0.978,
+    "bid": 53,
+    "improvement": 0.043,
+    "live_bid": 9,
+    "live_ev": 0.935,
+    "variance": 0.0044,
+    "visits": 20
+  },
+  "Q|p1|rs0|vw1|br1|b4": {
+    "best_ev": 0.989,
+    "bid": 14,
+    "improvement": 0.208,
+    "live_bid": 0,
+    "live_ev": 0.781,
+    "variance": 0.0023,
+    "visits": 20
+  },
+  "Q|p1|rs1|vw1|br2|b2": {
+    "best_ev": 1.0,
+    "bid": 14,
+    "improvement": 0.0,
+    "live_bid": 14,
+    "live_ev": 1.0,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "Q|p1|rs1|vw1|br2|b3": {
+    "best_ev": 0.475,
+    "bid": 13,
+    "improvement": 0.134,
+    "live_bid": 0,
+    "live_ev": 0.341,
+    "variance": 0.0205,
+    "visits": 20
+  },
+  "Q|p2|rs0|vw0|br0|b2": {
+    "best_ev": 0.12,
+    "bid": 26,
+    "improvement": 0.0,
+    "live_bid": 26,
+    "live_ev": 0.12,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "Q|p2|rs0|vw1|br1|b2": {
+    "best_ev": 0.272,
+    "bid": 13,
+    "improvement": 0.016,
+    "live_bid": 0,
+    "live_ev": 0.256,
+    "variance": 0.0012,
+    "visits": 20
+  },
+  "R|p0|rs0|vw0|br0|b4": {
+    "best_ev": 0.803,
+    "bid": 34,
+    "improvement": 0.105,
+    "live_bid": 10,
+    "live_ev": 0.698,
+    "variance": 0.0393,
+    "visits": 20
+  },
+  "R|p0|rs0|vw0|br0|b5": {
+    "best_ev": 0.492,
+    "bid": 10,
+    "improvement": 0.129,
+    "live_bid": 11,
+    "live_ev": 0.363,
+    "variance": 0.0423,
+    "visits": 20
+  },
+  "R|p0|rs0|vw0|br1|b4": {
+    "best_ev": 0.827,
+    "bid": 1,
+    "improvement": 0.056,
+    "live_bid": 10,
+    "live_ev": 0.771,
+    "variance": 0.0207,
+    "visits": 20
+  },
+  "R|p0|rs0|vw0|br1|b5": {
+    "best_ev": 0.729,
+    "bid": 12,
+    "improvement": 0.138,
+    "live_bid": 11,
+    "live_ev": 0.591,
+    "variance": 0.0336,
+    "visits": 20
+  },
+  "R|p0|rs0|vw1|br1|b3": {
+    "best_ev": 0.81,
+    "bid": 7,
+    "improvement": 0.055,
+    "live_bid": 8,
+    "live_ev": 0.755,
+    "variance": 0.0543,
+    "visits": 20
+  },
+  "R|p0|rs0|vw1|br1|b4": {
+    "best_ev": 0.819,
+    "bid": 90,
+    "improvement": 0.141,
+    "live_bid": 10,
+    "live_ev": 0.678,
+    "variance": 0.0323,
+    "visits": 20
+  },
+  "R|p0|rs0|vw1|br2|b4": {
+    "best_ev": 0.622,
+    "bid": 15,
+    "improvement": 0.129,
+    "live_bid": 10,
+    "live_ev": 0.493,
+    "variance": 0.0443,
+    "visits": 20
+  },
+  "R|p0|rs0|vw2|br1|b4": {
+    "best_ev": 0.699,
+    "bid": 9,
+    "improvement": 0.037,
+    "live_bid": 10,
+    "live_ev": 0.662,
+    "variance": 0.0797,
+    "visits": 20
+  },
+  "R|p0|rs1|vw1|br1|b3": {
+    "best_ev": 0.967,
+    "bid": 8,
+    "improvement": 0.054,
+    "live_bid": 9,
+    "live_ev": 0.913,
+    "variance": 0.0062,
+    "visits": 20
+  },
+  "R|p0|rs1|vw1|br1|b4": {
+    "best_ev": 0.815,
+    "bid": 4,
+    "improvement": 0.07,
+    "live_bid": 9,
+    "live_ev": 0.745,
+    "variance": 0.0455,
+    "visits": 20
+  },
+  "R|p0|rs1|vw1|br2|b3": {
+    "best_ev": 0.639,
+    "bid": 9,
+    "improvement": 0.0,
+    "live_bid": 9,
+    "live_ev": 0.639,
+    "variance": 0.1113,
+    "visits": 20
+  },
+  "R|p0|rs1|vw1|br2|b4": {
+    "best_ev": 0.744,
+    "bid": 8,
+    "improvement": 0.028,
+    "live_bid": 9,
+    "live_ev": 0.716,
+    "variance": 0.0244,
+    "visits": 20
+  },
+  "R|p0|rs1|vw2|br1|b3": {
+    "best_ev": 0.393,
+    "bid": 11,
+    "improvement": 0.239,
+    "live_bid": 10,
+    "live_ev": 0.154,
+    "variance": 0.0935,
+    "visits": 20
+  },
+  "R|p0|rs1|vw2|br1|b4": {
+    "best_ev": 0.867,
+    "bid": 11,
+    "improvement": 0.168,
+    "live_bid": 10,
+    "live_ev": 0.699,
+    "variance": 0.038,
+    "visits": 20
+  },
+  "R|p0|rs1|vw2|br2|b3": {
+    "best_ev": 0.59,
+    "bid": 1,
+    "improvement": 0.036,
+    "live_bid": 9,
+    "live_ev": 0.554,
+    "variance": 0.111,
+    "visits": 20
+  },
+  "R|p1|rs0|vw0|br0|b2": {
+    "best_ev": 0.807,
+    "bid": 24,
+    "improvement": 0.057,
+    "live_bid": 10,
+    "live_ev": 0.75,
+    "variance": 0.0262,
+    "visits": 20
+  },
+  "R|p1|rs0|vw0|br0|b3": {
+    "best_ev": 0.791,
+    "bid": 10,
+    "improvement": 0.0,
+    "live_bid": 10,
+    "live_ev": 0.791,
+    "variance": 0.0023,
+    "visits": 20
+  },
+  "R|p1|rs0|vw0|br0|b4": {
+    "best_ev": 0.978,
+    "bid": 25,
+    "improvement": 0.054,
+    "live_bid": 11,
+    "live_ev": 0.924,
+    "variance": 0.0044,
+    "visits": 20
+  },
+  "R|p1|rs0|vw0|br1|b1": {
+    "best_ev": 0.781,
+    "bid": 10,
+    "improvement": 0.041,
+    "live_bid": 9,
+    "live_ev": 0.74,
+    "variance": 0.0044,
+    "visits": 20
+  },
+  "R|p1|rs0|vw0|br1|b2": {
+    "best_ev": 0.465,
+    "bid": 9,
+    "improvement": 0.05,
+    "live_bid": 10,
+    "live_ev": 0.415,
+    "variance": 0.0463,
+    "visits": 20
+  },
+  "R|p1|rs0|vw0|br1|b3": {
+    "best_ev": 0.5,
+    "bid": 29,
+    "improvement": 0.093,
+    "live_bid": 10,
+    "live_ev": 0.407,
+    "variance": 0.0526,
+    "visits": 20
+  },
+  "R|p1|rs0|vw0|br1|b4": {
+    "best_ev": 0.64,
+    "bid": 11,
+    "improvement": 0.04,
+    "live_bid": 10,
+    "live_ev": 0.6,
+    "variance": 0.0234,
+    "visits": 20
+  },
+  "R|p1|rs0|vw1|br0|b3": {
+    "best_ev": 0.52,
+    "bid": 12,
+    "improvement": 0.083,
+    "live_bid": 11,
+    "live_ev": 0.437,
+    "variance": 0.0144,
+    "visits": 20
+  },
+  "R|p1|rs0|vw1|br1|b1": {
+    "best_ev": 0.295,
+    "bid": 3,
+    "improvement": 0.015,
+    "live_bid": 4,
+    "live_ev": 0.28,
+    "variance": 0.0043,
+    "visits": 20
+  },
+  "R|p1|rs0|vw1|br1|b2": {
+    "best_ev": 0.329,
+    "bid": 5,
+    "improvement": 0.076,
+    "live_bid": 10,
+    "live_ev": 0.253,
+    "variance": 0.0381,
+    "visits": 20
+  },
+  "R|p1|rs0|vw1|br1|b3": {
+    "best_ev": 1.0,
+    "bid": 10,
+    "improvement": 0.0,
+    "live_bid": 10,
+    "live_ev": 1.0,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "R|p1|rs0|vw1|br1|b4": {
+    "best_ev": 1.0,
+    "bid": 16,
+    "improvement": 0.022,
+    "live_bid": 13,
+    "live_ev": 0.978,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "R|p1|rs0|vw1|br2|b2": {
+    "best_ev": 0.833,
+    "bid": 44,
+    "improvement": 0.014,
+    "live_bid": 9,
+    "live_ev": 0.819,
+    "variance": 0.0311,
+    "visits": 20
+  },
+  "R|p1|rs1|vw1|br1|b2": {
+    "best_ev": 0.608,
+    "bid": 0,
+    "improvement": 0.137,
+    "live_bid": 9,
+    "live_ev": 0.471,
+    "variance": 0.0412,
+    "visits": 20
+  },
+  "R|p1|rs1|vw1|br1|b3": {
+    "best_ev": 0.691,
+    "bid": 26,
+    "improvement": 0.106,
+    "live_bid": 21,
+    "live_ev": 0.585,
+    "variance": 0.0295,
+    "visits": 20
+  },
+  "R|p1|rs1|vw1|br1|b4": {
+    "best_ev": 0.547,
+    "bid": 27,
+    "improvement": 0.021,
+    "live_bid": 10,
+    "live_ev": 0.526,
+    "variance": 0.0375,
+    "visits": 20
+  },
+  "R|p1|rs1|vw1|br2|b1": {
+    "best_ev": 0.675,
+    "bid": 1,
+    "improvement": 0.09,
+    "live_bid": 9,
+    "live_ev": 0.585,
+    "variance": 0.0325,
+    "visits": 20
+  },
+  "R|p1|rs1|vw1|br2|b2": {
+    "best_ev": 0.968,
+    "bid": 4,
+    "improvement": 0.034,
+    "live_bid": 9,
+    "live_ev": 0.934,
+    "variance": 0.0102,
+    "visits": 20
+  },
+  "R|p1|rs1|vw1|br2|b3": {
+    "best_ev": 0.782,
+    "bid": 1,
+    "improvement": 0.065,
+    "live_bid": 10,
+    "live_ev": 0.717,
+    "variance": 0.0394,
+    "visits": 20
+  },
+  "R|p1|rs1|vw1|br2|b4": {
+    "best_ev": 0.734,
+    "bid": 22,
+    "improvement": 0.0,
+    "live_bid": 22,
+    "live_ev": 0.734,
+    "variance": 0.0712,
+    "visits": 20
+  },
+  "R|p1|rs1|vw2|br1|b1": {
+    "best_ev": 0.535,
+    "bid": 11,
+    "improvement": 0.218,
+    "live_bid": 10,
+    "live_ev": 0.317,
+    "variance": 0.0565,
+    "visits": 20
+  },
+  "R|p1|rs1|vw2|br1|b3": {
+    "best_ev": 0.523,
+    "bid": 10,
+    "improvement": 0.0,
+    "live_bid": 10,
+    "live_ev": 0.523,
+    "variance": 0.0607,
+    "visits": 20
+  },
+  "R|p1|rs1|vw2|br1|b4": {
+    "best_ev": 0.612,
+    "bid": 6,
+    "improvement": 0.024,
+    "live_bid": 11,
+    "live_ev": 0.588,
+    "variance": 0.0446,
+    "visits": 20
+  },
+  "R|p2|rs0|vw0|br0|b0": {
+    "best_ev": 0.28,
+    "bid": 5,
+    "improvement": 0.0,
+    "live_bid": 5,
+    "live_ev": 0.28,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "R|p2|rs0|vw0|br0|b2": {
+    "best_ev": 1.0,
+    "bid": 45,
+    "improvement": 0.0,
+    "live_bid": 45,
+    "live_ev": 1.0,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "R|p2|rs0|vw0|br0|b3": {
+    "best_ev": 0.28,
+    "bid": 11,
+    "improvement": 0.0,
+    "live_bid": 11,
+    "live_ev": 0.28,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "R|p2|rs0|vw0|br1|b2": {
+    "best_ev": 0.136,
+    "bid": 11,
+    "improvement": 0.026,
+    "live_bid": 10,
+    "live_ev": 0.11,
+    "variance": 0.0023,
+    "visits": 20
+  },
+  "R|p2|rs0|vw1|br1|b1": {
+    "best_ev": 0.78,
+    "bid": 9,
+    "improvement": 0.0,
+    "live_bid": 9,
+    "live_ev": 0.78,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "R|p2|rs0|vw1|br1|b2": {
+    "best_ev": 0.58,
+    "bid": 31,
+    "improvement": 0.0,
+    "live_bid": 31,
+    "live_ev": 0.58,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "R|p2|rs0|vw1|br1|b3": {
+    "best_ev": 0.55,
+    "bid": 15,
+    "improvement": 0.12,
+    "live_bid": 10,
+    "live_ev": 0.43,
+    "variance": 0.0081,
+    "visits": 20
+  },
+  "R|p2|rs1|vw1|br2|b3": {
+    "best_ev": 0.347,
+    "bid": 0,
+    "improvement": 0.069,
+    "live_bid": 11,
+    "live_ev": 0.278,
+    "variance": 0.0193,
+    "visits": 20
+  },
+  "S|p0|rs0|vw0|br0|b5": {
+    "best_ev": 0.652,
+    "bid": 22,
+    "improvement": 0.207,
+    "live_bid": 11,
+    "live_ev": 0.445,
+    "variance": 0.0791,
+    "visits": 20
+  },
+  "S|p0|rs0|vw0|br1|b3": {
+    "best_ev": 0.813,
+    "bid": 13,
+    "improvement": 0.06,
+    "live_bid": 10,
+    "live_ev": 0.753,
+    "variance": 0.0368,
+    "visits": 20
+  },
+  "S|p0|rs0|vw0|br1|b4": {
+    "best_ev": 0.8,
+    "bid": 15,
+    "improvement": 0.219,
+    "live_bid": 10,
+    "live_ev": 0.581,
+    "variance": 0.0568,
+    "visits": 20
+  },
+  "S|p0|rs0|vw1|br1|b4": {
+    "best_ev": 0.804,
+    "bid": 0,
+    "improvement": 0.036,
+    "live_bid": 10,
+    "live_ev": 0.768,
+    "variance": 0.0437,
+    "visits": 20
+  },
+  "S|p0|rs0|vw1|br2|b4": {
+    "best_ev": 0.706,
+    "bid": 9,
+    "improvement": 0.124,
+    "live_bid": 10,
+    "live_ev": 0.582,
+    "variance": 0.067,
+    "visits": 20
+  },
+  "S|p0|rs1|vw1|br1|b3": {
+    "best_ev": 0.946,
+    "bid": 8,
+    "improvement": 0.01,
+    "live_bid": 13,
+    "live_ev": 0.936,
+    "variance": 0.0132,
+    "visits": 20
+  },
+  "S|p0|rs1|vw1|br1|b4": {
+    "best_ev": 0.814,
+    "bid": 0,
+    "improvement": 0.079,
+    "live_bid": 10,
+    "live_ev": 0.735,
+    "variance": 0.0411,
+    "visits": 20
+  },
+  "S|p0|rs1|vw1|br2|b3": {
+    "best_ev": 0.539,
+    "bid": 9,
+    "improvement": 0.0,
+    "live_bid": 9,
+    "live_ev": 0.539,
+    "variance": 0.0941,
+    "visits": 20
+  },
+  "S|p0|rs1|vw1|br2|b4": {
+    "best_ev": 0.726,
+    "bid": 15,
+    "improvement": 0.062,
+    "live_bid": 9,
+    "live_ev": 0.664,
+    "variance": 0.0506,
+    "visits": 20
+  },
+  "S|p0|rs1|vw2|br1|b4": {
+    "best_ev": 0.747,
+    "bid": 9,
+    "improvement": 0.06,
+    "live_bid": 10,
+    "live_ev": 0.687,
+    "variance": 0.0529,
+    "visits": 20
+  },
+  "S|p0|rs1|vw2|br2|b3": {
+    "best_ev": 0.583,
+    "bid": 8,
+    "improvement": 0.066,
+    "live_bid": 9,
+    "live_ev": 0.517,
+    "variance": 0.0945,
+    "visits": 20
+  },
+  "S|p1|rs0|vw0|br0|b2": {
+    "best_ev": 1.0,
+    "bid": 15,
+    "improvement": 0.022,
+    "live_bid": 10,
+    "live_ev": 0.978,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "S|p1|rs0|vw0|br0|b3": {
+    "best_ev": 0.924,
+    "bid": 11,
+    "improvement": 0.012,
+    "live_bid": 10,
+    "live_ev": 0.912,
+    "variance": 0.0151,
+    "visits": 20
+  },
+  "S|p1|rs0|vw0|br0|b4": {
+    "best_ev": 1.0,
+    "bid": 0,
+    "improvement": 0.011,
+    "live_bid": 11,
+    "live_ev": 0.989,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "S|p1|rs0|vw0|br1|b2": {
+    "best_ev": 0.573,
+    "bid": 42,
+    "improvement": 0.419,
+    "live_bid": 10,
+    "live_ev": 0.154,
+    "variance": 0.0259,
+    "visits": 20
+  },
+  "S|p1|rs0|vw0|br1|b3": {
+    "best_ev": 0.35,
+    "bid": 34,
+    "improvement": 0.008,
+    "live_bid": 13,
+    "live_ev": 0.342,
+    "variance": 0.0679,
+    "visits": 20
+  },
+  "S|p1|rs0|vw0|br1|b4": {
+    "best_ev": 0.766,
+    "bid": 14,
+    "improvement": 0.143,
+    "live_bid": 16,
+    "live_ev": 0.623,
+    "variance": 0.0453,
+    "visits": 20
+  },
+  "S|p1|rs0|vw0|br1|b5": {
+    "best_ev": 0.85,
+    "bid": 0,
+    "improvement": 0.02,
+    "live_bid": 11,
+    "live_ev": 0.83,
+    "variance": 0.0273,
+    "visits": 20
+  },
+  "S|p1|rs0|vw1|br1|b1": {
+    "best_ev": 1.0,
+    "bid": 11,
+    "improvement": 0.0,
+    "live_bid": 11,
+    "live_ev": 1.0,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "S|p1|rs0|vw1|br1|b2": {
+    "best_ev": 0.46,
+    "bid": 12,
+    "improvement": 0.138,
+    "live_bid": 17,
+    "live_ev": 0.322,
+    "variance": 0.0836,
+    "visits": 20
+  },
+  "S|p1|rs0|vw1|br1|b3": {
+    "best_ev": 0.58,
+    "bid": 17,
+    "improvement": 0.06,
+    "live_bid": 10,
+    "live_ev": 0.52,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "S|p1|rs0|vw1|br1|b4": {
+    "best_ev": 0.785,
+    "bid": 1,
+    "improvement": 0.125,
+    "live_bid": 16,
+    "live_ev": 0.66,
+    "variance": 0.0221,
+    "visits": 20
+  },
+  "S|p1|rs0|vw1|br2|b1": {
+    "best_ev": 0.385,
+    "bid": 7,
+    "improvement": 0.03,
+    "live_bid": 9,
+    "live_ev": 0.355,
+    "variance": 0.0205,
+    "visits": 20
+  },
+  "S|p1|rs0|vw2|br1|b2": {
+    "best_ev": 1.0,
+    "bid": 11,
+    "improvement": 0.0,
+    "live_bid": 11,
+    "live_ev": 1.0,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "S|p1|rs1|vw1|br2|b1": {
+    "best_ev": 0.6,
+    "bid": 1,
+    "improvement": 0.09,
+    "live_bid": 9,
+    "live_ev": 0.51,
+    "variance": 0.0336,
+    "visits": 20
+  },
+  "S|p1|rs1|vw1|br2|b2": {
+    "best_ev": 0.825,
+    "bid": 10,
+    "improvement": 0.01,
+    "live_bid": 9,
+    "live_ev": 0.815,
+    "variance": 0.0121,
+    "visits": 20
+  },
+  "S|p1|rs1|vw1|br2|b3": {
+    "best_ev": 0.444,
+    "bid": 15,
+    "improvement": 0.006,
+    "live_bid": 10,
+    "live_ev": 0.438,
+    "variance": 0.0797,
+    "visits": 20
+  },
+  "S|p1|rs1|vw2|br1|b3": {
+    "best_ev": 0.672,
+    "bid": 0,
+    "improvement": 0.364,
+    "live_bid": 12,
+    "live_ev": 0.308,
+    "variance": 0.0632,
+    "visits": 20
+  },
+  "S|p2|rs0|vw0|br0|b1": {
+    "best_ev": 0.58,
+    "bid": 11,
+    "improvement": 0.0,
+    "live_bid": 11,
+    "live_ev": 0.58,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "S|p2|rs0|vw0|br0|b2": {
+    "best_ev": 1.0,
+    "bid": 45,
+    "improvement": 0.0,
+    "live_bid": 45,
+    "live_ev": 1.0,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "S|p2|rs0|vw0|br0|b3": {
+    "best_ev": 0.28,
+    "bid": 11,
+    "improvement": 0.0,
+    "live_bid": 11,
+    "live_ev": 0.28,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "S|p2|rs0|vw0|br1|b1": {
+    "best_ev": 0.802,
+    "bid": 24,
+    "improvement": 0.052,
+    "live_bid": 10,
+    "live_ev": 0.75,
+    "variance": 0.0044,
+    "visits": 20
+  },
+  "S|p2|rs0|vw1|br1|b2": {
+    "best_ev": 0.28,
+    "bid": 19,
+    "improvement": 0.0,
+    "live_bid": 19,
+    "live_ev": 0.28,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "S|p2|rs1|vw2|br1|b1": {
+    "best_ev": 0.5,
+    "bid": 4,
+    "improvement": 0.03,
+    "live_bid": 9,
+    "live_ev": 0.47,
+    "variance": 0.0226,
+    "visits": 20
+  },
+  "T|p0|rs0|vw0|br0|b4": {
+    "best_ev": 0.833,
+    "bid": 9,
+    "improvement": 0.016,
+    "live_bid": 10,
+    "live_ev": 0.817,
+    "variance": 0.0311,
+    "visits": 20
+  },
+  "T|p0|rs0|vw0|br0|b5": {
+    "best_ev": 0.632,
+    "bid": 16,
+    "improvement": 0.111,
+    "live_bid": 11,
+    "live_ev": 0.521,
+    "variance": 0.0469,
+    "visits": 20
+  },
+  "T|p0|rs0|vw0|br1|b4": {
+    "best_ev": 0.756,
+    "bid": 0,
+    "improvement": 0.106,
+    "live_bid": 10,
+    "live_ev": 0.65,
+    "variance": 0.0469,
+    "visits": 20
+  },
+  "T|p0|rs0|vw1|br1|b4": {
+    "best_ev": 0.759,
+    "bid": 1,
+    "improvement": 0.106,
+    "live_bid": 10,
+    "live_ev": 0.653,
+    "variance": 0.0753,
+    "visits": 20
+  },
+  "T|p0|rs0|vw1|br2|b4": {
+    "best_ev": 0.845,
+    "bid": 9,
+    "improvement": 0.232,
+    "live_bid": 10,
+    "live_ev": 0.613,
+    "variance": 0.0365,
+    "visits": 20
+  },
+  "T|p0|rs0|vw2|br1|b4": {
+    "best_ev": 0.72,
+    "bid": 29,
+    "improvement": 0.058,
+    "live_bid": 10,
+    "live_ev": 0.662,
+    "variance": 0.083,
+    "visits": 20
+  },
+  "T|p0|rs1|vw1|br1|b4": {
+    "best_ev": 0.859,
+    "bid": 4,
+    "improvement": 0.127,
+    "live_bid": 9,
+    "live_ev": 0.732,
+    "variance": 0.0195,
+    "visits": 20
+  },
+  "T|p0|rs1|vw1|br2|b3": {
+    "best_ev": 0.567,
+    "bid": 8,
+    "improvement": 0.134,
+    "live_bid": 9,
+    "live_ev": 0.433,
+    "variance": 0.1215,
+    "visits": 20
+  },
+  "T|p0|rs1|vw1|br2|b4": {
+    "best_ev": 0.594,
+    "bid": 76,
+    "improvement": 0.072,
+    "live_bid": 10,
+    "live_ev": 0.522,
+    "variance": 0.0661,
+    "visits": 20
+  },
+  "T|p0|rs1|vw2|br1|b4": {
+    "best_ev": 0.741,
+    "bid": 1,
+    "improvement": 0.27,
+    "live_bid": 10,
+    "live_ev": 0.471,
+    "variance": 0.0565,
+    "visits": 20
+  },
+  "T|p0|rs1|vw2|br2|b3": {
+    "best_ev": 0.609,
+    "bid": 0,
+    "improvement": 0.161,
+    "live_bid": 9,
+    "live_ev": 0.448,
+    "variance": 0.0594,
+    "visits": 20
+  },
+  "T|p1|rs0|vw0|br0|b2": {
+    "best_ev": 0.72,
+    "bid": 10,
+    "improvement": 0.0,
+    "live_bid": 10,
+    "live_ev": 0.72,
+    "variance": 0.0084,
+    "visits": 20
+  },
+  "T|p1|rs0|vw0|br0|b3": {
+    "best_ev": 0.957,
+    "bid": 1,
+    "improvement": 0.034,
+    "live_bid": 10,
+    "live_ev": 0.923,
+    "variance": 0.0118,
+    "visits": 20
+  },
+  "T|p1|rs0|vw0|br0|b4": {
+    "best_ev": 0.979,
+    "bid": 0,
+    "improvement": 0.044,
+    "live_bid": 11,
+    "live_ev": 0.935,
+    "variance": 0.0084,
+    "visits": 20
+  },
+  "T|p1|rs0|vw0|br1|b1": {
+    "best_ev": 0.751,
+    "bid": 9,
+    "improvement": 0.0,
+    "live_bid": 9,
+    "live_ev": 0.751,
+    "variance": 0.0096,
+    "visits": 20
+  },
+  "T|p1|rs0|vw0|br1|b2": {
+    "best_ev": 0.278,
+    "bid": 14,
+    "improvement": 0.133,
+    "live_bid": 10,
+    "live_ev": 0.145,
+    "variance": 0.0141,
+    "visits": 20
+  },
+  "T|p1|rs0|vw0|br1|b3": {
+    "best_ev": 0.369,
+    "bid": 11,
+    "improvement": 0.092,
+    "live_bid": 10,
+    "live_ev": 0.277,
+    "variance": 0.0495,
+    "visits": 20
+  },
+  "T|p1|rs0|vw0|br1|b4": {
+    "best_ev": 0.62,
+    "bid": 12,
+    "improvement": 0.11,
+    "live_bid": 11,
+    "live_ev": 0.51,
+    "variance": 0.0364,
+    "visits": 20
+  },
+  "T|p1|rs0|vw1|br0|b3": {
+    "best_ev": 0.497,
+    "bid": 10,
+    "improvement": 0.158,
+    "live_bid": 11,
+    "live_ev": 0.339,
+    "variance": 0.0217,
+    "visits": 20
+  },
+  "T|p1|rs0|vw1|br1|b1": {
+    "best_ev": 0.5,
+    "bid": 14,
+    "improvement": 0.085,
+    "live_bid": 9,
+    "live_ev": 0.415,
+    "variance": 0.0226,
+    "visits": 20
+  },
+  "T|p1|rs0|vw1|br1|b2": {
+    "best_ev": 0.345,
+    "bid": 20,
+    "improvement": 0.045,
+    "live_bid": 9,
+    "live_ev": 0.3,
+    "variance": 0.0253,
+    "visits": 20
+  },
+  "T|p1|rs0|vw1|br1|b3": {
+    "best_ev": 0.837,
+    "bid": 29,
+    "improvement": 0.099,
+    "live_bid": 9,
+    "live_ev": 0.738,
+    "variance": 0.0177,
+    "visits": 20
+  },
+  "T|p1|rs0|vw1|br1|b4": {
+    "best_ev": 1.0,
+    "bid": 0,
+    "improvement": 0.022,
+    "live_bid": 11,
+    "live_ev": 0.978,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "T|p1|rs0|vw1|br1|b5": {
+    "best_ev": 0.989,
+    "bid": 6,
+    "improvement": 0.022,
+    "live_bid": 11,
+    "live_ev": 0.967,
+    "variance": 0.0023,
+    "visits": 20
+  },
+  "T|p1|rs0|vw1|br2|b1": {
+    "best_ev": 0.31,
+    "bid": 14,
+    "improvement": 0.016,
+    "live_bid": 9,
+    "live_ev": 0.294,
+    "variance": 0.0081,
+    "visits": 20
+  },
+  "T|p1|rs1|vw1|br1|b2": {
+    "best_ev": 0.365,
+    "bid": 1,
+    "improvement": 0.076,
+    "live_bid": 9,
+    "live_ev": 0.289,
+    "variance": 0.1141,
+    "visits": 20
+  },
+  "T|p1|rs1|vw1|br1|b3": {
+    "best_ev": 0.489,
+    "bid": 11,
+    "improvement": 0.0,
+    "live_bid": 11,
+    "live_ev": 0.489,
+    "variance": 0.0854,
+    "visits": 20
+  },
+  "T|p1|rs1|vw1|br1|b4": {
+    "best_ev": 0.603,
+    "bid": 9,
+    "improvement": 0.084,
+    "live_bid": 10,
+    "live_ev": 0.519,
+    "variance": 0.0629,
+    "visits": 20
+  },
+  "T|p1|rs1|vw1|br2|b2": {
+    "best_ev": 0.956,
+    "bid": 9,
+    "improvement": 0.0,
+    "live_bid": 9,
+    "live_ev": 0.956,
+    "variance": 0.0077,
+    "visits": 20
+  },
+  "T|p1|rs1|vw1|br2|b3": {
+    "best_ev": 0.639,
+    "bid": 10,
+    "improvement": 0.0,
+    "live_bid": 10,
+    "live_ev": 0.639,
+    "variance": 0.0768,
+    "visits": 20
+  },
+  "T|p1|rs1|vw1|br2|b4": {
+    "best_ev": 0.76,
+    "bid": 10,
+    "improvement": 0.0,
+    "live_bid": 10,
+    "live_ev": 0.76,
+    "variance": 0.0828,
+    "visits": 20
+  },
+  "T|p1|rs1|vw2|br1|b2": {
+    "best_ev": 0.506,
+    "bid": 8,
+    "improvement": 0.154,
+    "live_bid": 13,
+    "live_ev": 0.352,
+    "variance": 0.0518,
+    "visits": 20
+  },
+  "T|p2|rs0|vw0|br0|b0": {
+    "best_ev": 0.28,
+    "bid": 4,
+    "improvement": 0.0,
+    "live_bid": 4,
+    "live_ev": 0.28,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "T|p2|rs0|vw0|br0|b1": {
+    "best_ev": 0.78,
+    "bid": 21,
+    "improvement": 0.0,
+    "live_bid": 21,
+    "live_ev": 0.78,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "T|p2|rs0|vw0|br0|b2": {
+    "best_ev": 1.0,
+    "bid": 10,
+    "improvement": 0.0,
+    "live_bid": 10,
+    "live_ev": 1.0,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "T|p2|rs0|vw0|br0|b3": {
+    "best_ev": 0.78,
+    "bid": 10,
+    "improvement": 0.0,
+    "live_bid": 10,
+    "live_ev": 0.78,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "T|p2|rs0|vw1|br1|b0": {
+    "best_ev": 0.78,
+    "bid": 5,
+    "improvement": 0.0,
+    "live_bid": 5,
+    "live_ev": 0.78,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "T|p2|rs0|vw1|br1|b1": {
+    "best_ev": 0.912,
+    "bid": 8,
+    "improvement": 0.033,
+    "live_bid": 9,
+    "live_ev": 0.879,
+    "variance": 0.0116,
+    "visits": 20
+  },
+  "T|p2|rs0|vw1|br1|b2": {
+    "best_ev": 0.14,
+    "bid": 19,
+    "improvement": 0.14,
+    "live_bid": 11,
+    "live_ev": 0.0,
+    "variance": 0.0196,
+    "visits": 20
+  },
+  "T|p2|rs1|vw1|br2|b1": {
+    "best_ev": 0.535,
+    "bid": 9,
+    "improvement": 0.0,
+    "live_bid": 9,
+    "live_ev": 0.535,
+    "variance": 0.0115,
+    "visits": 20
+  },
+  "U|p0|rs0|vw0|br0|b4": {
+    "best_ev": 0.857,
+    "bid": 43,
+    "improvement": 0.151,
+    "live_bid": 12,
+    "live_ev": 0.706,
+    "variance": 0.0416,
+    "visits": 20
+  },
+  "U|p0|rs0|vw0|br0|b5": {
+    "best_ev": 0.738,
+    "bid": 6,
+    "improvement": 0.111,
+    "live_bid": 11,
+    "live_ev": 0.627,
+    "variance": 0.028,
+    "visits": 20
+  },
+  "U|p0|rs0|vw0|br1|b3": {
+    "best_ev": 0.867,
+    "bid": 24,
+    "improvement": 0.116,
+    "live_bid": 9,
+    "live_ev": 0.751,
+    "variance": 0.038,
+    "visits": 20
+  },
+  "U|p0|rs0|vw0|br1|b4": {
+    "best_ev": 0.935,
+    "bid": 1,
+    "improvement": 0.118,
+    "live_bid": 10,
+    "live_ev": 0.817,
+    "variance": 0.0143,
+    "visits": 20
+  },
+  "U|p0|rs0|vw0|br2|b4": {
+    "best_ev": 0.848,
+    "bid": 19,
+    "improvement": 0.123,
+    "live_bid": 14,
+    "live_ev": 0.725,
+    "variance": 0.0187,
+    "visits": 20
+  },
+  "U|p0|rs0|vw1|br1|b3": {
+    "best_ev": 0.844,
+    "bid": 8,
+    "improvement": 0.0,
+    "live_bid": 8,
+    "live_ev": 0.844,
+    "variance": 0.0322,
+    "visits": 20
+  },
+  "U|p0|rs0|vw1|br1|b4": {
+    "best_ev": 0.776,
+    "bid": 46,
+    "improvement": 0.102,
+    "live_bid": 12,
+    "live_ev": 0.674,
+    "variance": 0.0725,
+    "visits": 20
+  },
+  "U|p0|rs0|vw1|br2|b4": {
+    "best_ev": 0.883,
+    "bid": 17,
+    "improvement": 0.306,
+    "live_bid": 10,
+    "live_ev": 0.577,
+    "variance": 0.0289,
+    "visits": 20
+  },
+  "U|p0|rs0|vw2|br1|b4": {
+    "best_ev": 0.757,
+    "bid": 0,
+    "improvement": 0.088,
+    "live_bid": 10,
+    "live_ev": 0.669,
+    "variance": 0.0514,
+    "visits": 20
+  },
+  "U|p0|rs1|vw1|br1|b4": {
+    "best_ev": 0.69,
+    "bid": 0,
+    "improvement": 0.141,
+    "live_bid": 10,
+    "live_ev": 0.549,
+    "variance": 0.0705,
+    "visits": 20
+  },
+  "U|p0|rs1|vw1|br2|b4": {
+    "best_ev": 0.719,
+    "bid": 9,
+    "improvement": 0.133,
+    "live_bid": 10,
+    "live_ev": 0.586,
+    "variance": 0.0495,
+    "visits": 20
+  },
+  "U|p0|rs1|vw2|br1|b4": {
+    "best_ev": 0.823,
+    "bid": 15,
+    "improvement": 0.065,
+    "live_bid": 10,
+    "live_ev": 0.758,
+    "variance": 0.034,
+    "visits": 20
+  },
+  "U|p0|rs1|vw2|br2|b3": {
+    "best_ev": 0.728,
+    "bid": 10,
+    "improvement": 0.264,
+    "live_bid": 9,
+    "live_ev": 0.464,
+    "variance": 0.0777,
+    "visits": 20
+  },
+  "U|p1|rs0|vw0|br0|b3": {
+    "best_ev": 0.967,
+    "bid": 30,
+    "improvement": 0.066,
+    "live_bid": 10,
+    "live_ev": 0.901,
+    "variance": 0.0062,
+    "visits": 20
+  },
+  "U|p1|rs0|vw0|br0|b4": {
+    "best_ev": 0.449,
+    "bid": 30,
+    "improvement": 0.099,
+    "live_bid": 11,
+    "live_ev": 0.35,
+    "variance": 0.0395,
+    "visits": 20
+  },
+  "U|p1|rs0|vw0|br1|b2": {
+    "best_ev": 0.395,
+    "bid": 0,
+    "improvement": 0.1,
+    "live_bid": 16,
+    "live_ev": 0.295,
+    "variance": 0.0413,
+    "visits": 20
+  },
+  "U|p1|rs0|vw0|br1|b3": {
+    "best_ev": 0.407,
+    "bid": 0,
+    "improvement": 0.131,
+    "live_bid": 10,
+    "live_ev": 0.276,
+    "variance": 0.0257,
+    "visits": 20
+  },
+  "U|p1|rs0|vw0|br1|b4": {
+    "best_ev": 0.665,
+    "bid": 0,
+    "improvement": 0.06,
+    "live_bid": 11,
+    "live_ev": 0.605,
+    "variance": 0.0323,
+    "visits": 20
+  },
+  "U|p1|rs0|vw1|br1|b1": {
+    "best_ev": 0.43,
+    "bid": 8,
+    "improvement": 0.03,
+    "live_bid": 9,
+    "live_ev": 0.4,
+    "variance": 0.0225,
+    "visits": 20
+  },
+  "U|p1|rs0|vw1|br1|b2": {
+    "best_ev": 0.956,
+    "bid": 14,
+    "improvement": 0.022,
+    "live_bid": 10,
+    "live_ev": 0.934,
+    "variance": 0.0077,
+    "visits": 20
+  },
+  "U|p1|rs0|vw1|br1|b3": {
+    "best_ev": 0.707,
+    "bid": 14,
+    "improvement": 0.294,
+    "live_bid": 9,
+    "live_ev": 0.413,
+    "variance": 0.0866,
+    "visits": 20
+  },
+  "U|p1|rs0|vw1|br1|b4": {
+    "best_ev": 0.806,
+    "bid": 12,
+    "improvement": 0.049,
+    "live_bid": 11,
+    "live_ev": 0.757,
+    "variance": 0.0218,
+    "visits": 20
+  },
+  "U|p1|rs0|vw2|br1|b2": {
+    "best_ev": 1.0,
+    "bid": 9,
+    "improvement": 0.0,
+    "live_bid": 9,
+    "live_ev": 1.0,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "U|p1|rs1|vw0|br1|b1": {
+    "best_ev": 0.978,
+    "bid": 10,
+    "improvement": 0.094,
+    "live_bid": 5,
+    "live_ev": 0.884,
+    "variance": 0.0044,
+    "visits": 20
+  },
+  "U|p1|rs1|vw0|br1|b2": {
+    "best_ev": 0.72,
+    "bid": 9,
+    "improvement": 0.0,
+    "live_bid": 9,
+    "live_ev": 0.72,
+    "variance": 0.054,
+    "visits": 20
+  },
+  "U|p1|rs1|vw1|br1|b3": {
+    "best_ev": 0.989,
+    "bid": 16,
+    "improvement": 0.011,
+    "live_bid": 20,
+    "live_ev": 0.978,
+    "variance": 0.0023,
+    "visits": 20
+  },
+  "U|p1|rs1|vw1|br1|b4": {
+    "best_ev": 0.582,
+    "bid": 79,
+    "improvement": 0.082,
+    "live_bid": 10,
+    "live_ev": 0.5,
+    "variance": 0.0546,
+    "visits": 20
+  },
+  "U|p1|rs1|vw1|br2|b2": {
+    "best_ev": 0.934,
+    "bid": 17,
+    "improvement": 0.099,
+    "live_bid": 9,
+    "live_ev": 0.835,
+    "variance": 0.0102,
+    "visits": 20
+  },
+  "U|p1|rs1|vw1|br2|b3": {
+    "best_ev": 0.326,
+    "bid": 1,
+    "improvement": 0.049,
+    "live_bid": 10,
+    "live_ev": 0.277,
+    "variance": 0.0658,
+    "visits": 20
+  },
+  "U|p1|rs1|vw1|br2|b4": {
+    "best_ev": 0.618,
+    "bid": 6,
+    "improvement": 0.107,
+    "live_bid": 11,
+    "live_ev": 0.511,
+    "variance": 0.0575,
+    "visits": 20
+  },
+  "U|p1|rs1|vw2|br1|b3": {
+    "best_ev": 0.541,
+    "bid": 13,
+    "improvement": 0.087,
+    "live_bid": 10,
+    "live_ev": 0.454,
+    "variance": 0.1499,
+    "visits": 20
+  },
+  "U|p1|rs1|vw2|br2|b2": {
+    "best_ev": 0.791,
+    "bid": 9,
+    "improvement": 0.011,
+    "live_bid": 11,
+    "live_ev": 0.78,
+    "variance": 0.0023,
+    "visits": 20
+  },
+  "U|p1|rs1|vw2|br2|b3": {
+    "best_ev": 0.821,
+    "bid": 5,
+    "improvement": 0.113,
+    "live_bid": 10,
+    "live_ev": 0.708,
+    "variance": 0.0559,
+    "visits": 20
+  },
+  "U|p2|rs0|vw0|br0|b0": {
+    "best_ev": 0.58,
+    "bid": 2,
+    "improvement": 0.0,
+    "live_bid": 2,
+    "live_ev": 0.58,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "U|p2|rs0|vw0|br0|b2": {
+    "best_ev": 0.28,
+    "bid": 10,
+    "improvement": 0.0,
+    "live_bid": 10,
+    "live_ev": 0.28,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "U|p2|rs0|vw0|br1|b2": {
+    "best_ev": 1.0,
+    "bid": 11,
+    "improvement": 0.011,
+    "live_bid": 10,
+    "live_ev": 0.989,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "U|p2|rs0|vw0|br1|b3": {
+    "best_ev": 0.44,
+    "bid": 35,
+    "improvement": 0.045,
+    "live_bid": 30,
+    "live_ev": 0.395,
+    "variance": 0.0274,
+    "visits": 20
+  },
+  "U|p2|rs0|vw1|br1|b1": {
+    "best_ev": 0.78,
+    "bid": 9,
+    "improvement": 0.0,
+    "live_bid": 9,
+    "live_ev": 0.78,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "U|p2|rs0|vw1|br1|b3": {
+    "best_ev": 0.12,
+    "bid": 29,
+    "improvement": 0.12,
+    "live_bid": 11,
+    "live_ev": 0.0,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "V|p0|rs0|vw0|br1|b4": {
+    "best_ev": 0.709,
+    "bid": 15,
+    "improvement": 0.103,
+    "live_bid": 10,
+    "live_ev": 0.606,
+    "variance": 0.0351,
+    "visits": 20
+  },
+  "V|p0|rs0|vw1|br1|b4": {
+    "best_ev": 0.771,
+    "bid": 5,
+    "improvement": 0.08,
+    "live_bid": 10,
+    "live_ev": 0.691,
+    "variance": 0.0369,
+    "visits": 20
+  },
+  "V|p0|rs0|vw2|br1|b4": {
+    "best_ev": 0.645,
+    "bid": 0,
+    "improvement": 0.074,
+    "live_bid": 21,
+    "live_ev": 0.571,
+    "variance": 0.0769,
+    "visits": 20
+  },
+  "V|p0|rs1|vw1|br1|b4": {
+    "best_ev": 0.957,
+    "bid": 25,
+    "improvement": 0.032,
+    "live_bid": 9,
+    "live_ev": 0.925,
+    "variance": 0.0118,
+    "visits": 20
+  },
+  "V|p0|rs1|vw1|br2|b4": {
+    "best_ev": 0.857,
+    "bid": 26,
+    "improvement": 0.116,
+    "live_bid": 9,
+    "live_ev": 0.741,
+    "variance": 0.0416,
+    "visits": 20
+  },
+  "V|p0|rs1|vw2|br1|b3": {
+    "best_ev": 0.682,
+    "bid": 5,
+    "improvement": 0.148,
+    "live_bid": 10,
+    "live_ev": 0.534,
+    "variance": 0.0798,
+    "visits": 20
+  },
+  "V|p0|rs1|vw2|br1|b4": {
+    "best_ev": 0.866,
+    "bid": 5,
+    "improvement": 0.185,
+    "live_bid": 10,
+    "live_ev": 0.681,
+    "variance": 0.0628,
+    "visits": 20
+  },
+  "V|p1|rs0|vw0|br0|b3": {
+    "best_ev": 0.605,
+    "bid": 9,
+    "improvement": 0.025,
+    "live_bid": 10,
+    "live_ev": 0.58,
+    "variance": 0.0119,
+    "visits": 20
+  },
+  "V|p1|rs0|vw0|br0|b4": {
+    "best_ev": 0.309,
+    "bid": 15,
+    "improvement": 0.029,
+    "live_bid": 11,
+    "live_ev": 0.28,
+    "variance": 0.0152,
+    "visits": 20
+  },
+  "V|p1|rs0|vw0|br1|b2": {
+    "best_ev": 0.422,
+    "bid": 14,
+    "improvement": 0.065,
+    "live_bid": 9,
+    "live_ev": 0.357,
+    "variance": 0.0411,
+    "visits": 20
+  },
+  "V|p1|rs0|vw0|br1|b4": {
+    "best_ev": 0.641,
+    "bid": 9,
+    "improvement": 0.132,
+    "live_bid": 10,
+    "live_ev": 0.509,
+    "variance": 0.0721,
+    "visits": 20
+  },
+  "V|p1|rs0|vw1|br1|b2": {
+    "best_ev": 0.37,
+    "bid": 8,
+    "improvement": 0.176,
+    "live_bid": 9,
+    "live_ev": 0.194,
+    "variance": 0.0728,
+    "visits": 20
+  },
+  "V|p1|rs0|vw1|br1|b3": {
+    "best_ev": 0.901,
+    "bid": 5,
+    "improvement": 0.02,
+    "live_bid": 10,
+    "live_ev": 0.881,
+    "variance": 0.012,
+    "visits": 20
+  },
+  "V|p1|rs0|vw1|br1|b4": {
+    "best_ev": 0.626,
+    "bid": 1,
+    "improvement": 0.03,
+    "live_bid": 11,
+    "live_ev": 0.596,
+    "variance": 0.0192,
+    "visits": 20
+  },
+  "V|p1|rs1|vw0|br1|b2": {
+    "best_ev": 0.779,
+    "bid": 4,
+    "improvement": 0.032,
+    "live_bid": 9,
+    "live_ev": 0.747,
+    "variance": 0.0262,
+    "visits": 20
+  },
+  "V|p1|rs1|vw1|br2|b1": {
+    "best_ev": 0.859,
+    "bid": 21,
+    "improvement": 0.417,
+    "live_bid": 9,
+    "live_ev": 0.442,
+    "variance": 0.0195,
+    "visits": 20
+  },
+  "V|p2|rs0|vw0|br0|b0": {
+    "best_ev": 1.0,
+    "bid": 6,
+    "improvement": 0.0,
+    "live_bid": 6,
+    "live_ev": 1.0,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "V|p2|rs0|vw0|br0|b1": {
+    "best_ev": 0.12,
+    "bid": 24,
+    "improvement": 0.0,
+    "live_bid": 24,
+    "live_ev": 0.12,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "V|p2|rs0|vw0|br0|b2": {
+    "best_ev": 0.28,
+    "bid": 32,
+    "improvement": 0.0,
+    "live_bid": 32,
+    "live_ev": 0.28,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "V|p2|rs0|vw0|br1|b2": {
+    "best_ev": 0.69,
+    "bid": 1,
+    "improvement": 0.03,
+    "live_bid": 10,
+    "live_ev": 0.66,
+    "variance": 0.0099,
+    "visits": 20
+  },
+  "V|p2|rs0|vw1|br1|b0": {
+    "best_ev": 0.78,
+    "bid": 10,
+    "improvement": 0.0,
+    "live_bid": 10,
+    "live_ev": 0.78,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "V|p2|rs0|vw1|br1|b3": {
+    "best_ev": 0.102,
+    "bid": 53,
+    "improvement": 0.006,
+    "live_bid": 11,
+    "live_ev": 0.096,
+    "variance": 0.0018,
+    "visits": 20
+  },
+  "W|p0|rs0|vw0|br0|b5": {
+    "best_ev": 0.331,
+    "bid": 0,
+    "improvement": 0.027,
+    "live_bid": 11,
+    "live_ev": 0.304,
+    "variance": 0.0237,
+    "visits": 20
+  },
+  "W|p0|rs0|vw0|br1|b3": {
+    "best_ev": 0.522,
+    "bid": 37,
+    "improvement": 0.114,
+    "live_bid": 10,
+    "live_ev": 0.408,
+    "variance": 0.0377,
+    "visits": 20
+  },
+  "W|p0|rs0|vw0|br1|b4": {
+    "best_ev": 0.827,
+    "bid": 9,
+    "improvement": 0.016,
+    "live_bid": 10,
+    "live_ev": 0.811,
+    "variance": 0.0498,
+    "visits": 20
+  },
+  "W|p0|rs0|vw1|br1|b3": {
+    "best_ev": 0.787,
+    "bid": 10,
+    "improvement": 0.049,
+    "live_bid": 8,
+    "live_ev": 0.738,
+    "variance": 0.0309,
+    "visits": 20
+  },
+  "W|p0|rs0|vw1|br1|b4": {
+    "best_ev": 0.879,
+    "bid": 29,
+    "improvement": 0.178,
+    "live_bid": 10,
+    "live_ev": 0.701,
+    "variance": 0.0426,
+    "visits": 20
+  },
+  "W|p0|rs1|vw1|br1|b3": {
+    "best_ev": 0.978,
+    "bid": 20,
+    "improvement": 0.087,
+    "live_bid": 15,
+    "live_ev": 0.891,
+    "variance": 0.0044,
+    "visits": 20
+  },
+  "W|p0|rs1|vw1|br2|b3": {
+    "best_ev": 0.823,
+    "bid": 63,
+    "improvement": 0.136,
+    "live_bid": 17,
+    "live_ev": 0.687,
+    "variance": 0.034,
+    "visits": 20
+  },
+  "W|p0|rs1|vw2|br1|b4": {
+    "best_ev": 0.946,
+    "bid": 74,
+    "improvement": 0.193,
+    "live_bid": 9,
+    "live_ev": 0.753,
+    "variance": 0.0132,
+    "visits": 20
+  },
+  "W|p0|rs1|vw2|br2|b3": {
+    "best_ev": 0.691,
+    "bid": 21,
+    "improvement": 0.097,
+    "live_bid": 9,
+    "live_ev": 0.594,
+    "variance": 0.0585,
+    "visits": 20
+  },
+  "W|p1|rs0|vw0|br0|b3": {
+    "best_ev": 0.55,
+    "bid": 56,
+    "improvement": 0.272,
+    "live_bid": 10,
+    "live_ev": 0.278,
+    "variance": 0.0231,
+    "visits": 20
+  },
+  "W|p1|rs0|vw0|br0|b4": {
+    "best_ev": 0.518,
+    "bid": 10,
+    "improvement": 0.0,
+    "live_bid": 10,
+    "live_ev": 0.518,
+    "variance": 0.1035,
+    "visits": 20
+  },
+  "W|p1|rs0|vw0|br1|b4": {
+    "best_ev": 0.62,
+    "bid": 6,
+    "improvement": 0.059,
+    "live_bid": 11,
+    "live_ev": 0.561,
+    "variance": 0.1125,
+    "visits": 20
+  },
+  "W|p1|rs0|vw1|br1|b1": {
+    "best_ev": 0.505,
+    "bid": 4,
+    "improvement": 0.015,
+    "live_bid": 9,
+    "live_ev": 0.49,
+    "variance": 0.0169,
+    "visits": 20
+  },
+  "W|p1|rs0|vw1|br1|b2": {
+    "best_ev": 0.381,
+    "bid": 16,
+    "improvement": 0.068,
+    "live_bid": 9,
+    "live_ev": 0.313,
+    "variance": 0.0645,
+    "visits": 20
+  },
+  "W|p1|rs0|vw1|br1|b3": {
+    "best_ev": 0.79,
+    "bid": 34,
+    "improvement": 0.079,
+    "live_bid": 10,
+    "live_ev": 0.711,
+    "variance": 0.0285,
+    "visits": 20
+  },
+  "W|p1|rs0|vw1|br2|b1": {
+    "best_ev": 0.316,
+    "bid": 21,
+    "improvement": 0.036,
+    "live_bid": 9,
+    "live_ev": 0.28,
+    "variance": 0.0246,
+    "visits": 20
+  },
+  "W|p1|rs0|vw1|br2|b2": {
+    "best_ev": 0.946,
+    "bid": 18,
+    "improvement": 0.043,
+    "live_bid": 19,
+    "live_ev": 0.903,
+    "variance": 0.0132,
+    "visits": 20
+  },
+  "W|p1|rs1|vw1|br1|b1": {
+    "best_ev": 0.73,
+    "bid": 21,
+    "improvement": 0.45,
+    "live_bid": 9,
+    "live_ev": 0.28,
+    "variance": 0.0075,
+    "visits": 20
+  },
+  "W|p1|rs1|vw1|br2|b1": {
+    "best_ev": 0.66,
+    "bid": 21,
+    "improvement": 0.2,
+    "live_bid": 9,
+    "live_ev": 0.46,
+    "variance": 0.0977,
+    "visits": 20
+  },
+  "W|p1|rs1|vw1|br2|b2": {
+    "best_ev": 0.28,
+    "bid": 10,
+    "improvement": 0.0,
+    "live_bid": 10,
+    "live_ev": 0.28,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "W|p2|rs0|vw0|br0|b2": {
+    "best_ev": 0.535,
+    "bid": 39,
+    "improvement": 0.189,
+    "live_bid": 10,
+    "live_ev": 0.346,
+    "variance": 0.0415,
+    "visits": 20
+  },
+  "W|p2|rs0|vw0|br0|b3": {
+    "best_ev": 0.65,
+    "bid": 49,
+    "improvement": 0.1,
+    "live_bid": 11,
+    "live_ev": 0.55,
+    "variance": 0.0241,
+    "visits": 20
+  },
+  "W|p2|rs0|vw0|br1|b2": {
+    "best_ev": 0.211,
+    "bid": 23,
+    "improvement": 0.101,
+    "live_bid": 10,
+    "live_ev": 0.11,
+    "variance": 0.0475,
+    "visits": 20
+  },
+  "W|p2|rs0|vw1|br1|b0": {
+    "best_ev": 0.78,
+    "bid": 2,
+    "improvement": 0.0,
+    "live_bid": 2,
+    "live_ev": 0.78,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "W|p2|rs0|vw1|br1|b1": {
+    "best_ev": 0.78,
+    "bid": 20,
+    "improvement": 0.0,
+    "live_bid": 20,
+    "live_ev": 0.78,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "W|p2|rs1|vw1|br1|b0": {
+    "best_ev": 0.212,
+    "bid": 4,
+    "improvement": 0.046,
+    "live_bid": 9,
+    "live_ev": 0.166,
+    "variance": 0.0339,
+    "visits": 20
+  },
+  "X|p0|rs0|vw0|br0|b4": {
+    "best_ev": 0.844,
+    "bid": 0,
+    "improvement": 0.152,
+    "live_bid": 11,
+    "live_ev": 0.692,
+    "variance": 0.0612,
+    "visits": 20
+  },
+  "X|p0|rs0|vw1|br1|b4": {
+    "best_ev": 0.681,
+    "bid": 20,
+    "improvement": 0.212,
+    "live_bid": 10,
+    "live_ev": 0.469,
+    "variance": 0.0782,
+    "visits": 20
+  },
+  "X|p0|rs0|vw2|br1|b4": {
+    "best_ev": 0.869,
+    "bid": 18,
+    "improvement": 0.126,
+    "live_bid": 10,
+    "live_ev": 0.743,
+    "variance": 0.0159,
+    "visits": 20
+  },
+  "X|p0|rs1|vw1|br2|b4": {
+    "best_ev": 0.722,
+    "bid": 26,
+    "improvement": 0.21,
+    "live_bid": 10,
+    "live_ev": 0.512,
+    "variance": 0.0175,
+    "visits": 20
+  },
+  "X|p1|rs0|vw0|br0|b3": {
+    "best_ev": 0.879,
+    "bid": 29,
+    "improvement": 0.044,
+    "live_bid": 10,
+    "live_ev": 0.835,
+    "variance": 0.012,
+    "visits": 20
+  },
+  "X|p1|rs0|vw0|br0|b4": {
+    "best_ev": 0.967,
+    "bid": 1,
+    "improvement": 0.065,
+    "live_bid": 11,
+    "live_ev": 0.902,
+    "variance": 0.0062,
+    "visits": 20
+  },
+  "X|p1|rs0|vw0|br1|b3": {
+    "best_ev": 0.605,
+    "bid": 29,
+    "improvement": 0.22,
+    "live_bid": 10,
+    "live_ev": 0.385,
+    "variance": 0.0269,
+    "visits": 20
+  },
+  "X|p1|rs0|vw0|br1|b4": {
+    "best_ev": 0.825,
+    "bid": 18,
+    "improvement": 0.0,
+    "live_bid": 18,
+    "live_ev": 0.825,
+    "variance": 0.0411,
+    "visits": 20
+  },
+  "X|p1|rs0|vw1|br1|b2": {
+    "best_ev": 0.465,
+    "bid": 24,
+    "improvement": 0.14,
+    "live_bid": 19,
+    "live_ev": 0.325,
+    "variance": 0.0463,
+    "visits": 20
+  },
+  "X|p1|rs0|vw1|br1|b3": {
+    "best_ev": 0.534,
+    "bid": 51,
+    "improvement": 0.26,
+    "live_bid": 10,
+    "live_ev": 0.274,
+    "variance": 0.0961,
+    "visits": 20
+  },
+  "X|p1|rs0|vw1|br1|b4": {
+    "best_ev": 0.945,
+    "bid": 44,
+    "improvement": 0.032,
+    "live_bid": 13,
+    "live_ev": 0.913,
+    "variance": 0.0091,
+    "visits": 20
+  },
+  "X|p1|rs1|vw1|br1|b1": {
+    "best_ev": 0.978,
+    "bid": 20,
+    "improvement": 0.065,
+    "live_bid": 8,
+    "live_ev": 0.913,
+    "variance": 0.0044,
+    "visits": 20
+  },
+  "X|p1|rs1|vw1|br2|b3": {
+    "best_ev": 0.542,
+    "bid": 35,
+    "improvement": 0.235,
+    "live_bid": 10,
+    "live_ev": 0.307,
+    "variance": 0.0602,
+    "visits": 20
+  },
+  "X|p2|rs0|vw0|br0|b2": {
+    "best_ev": 0.12,
+    "bid": 30,
+    "improvement": 0.0,
+    "live_bid": 30,
+    "live_ev": 0.12,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "X|p2|rs0|vw0|br0|b3": {
+    "best_ev": 0.28,
+    "bid": 11,
+    "improvement": 0.0,
+    "live_bid": 11,
+    "live_ev": 0.28,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "X|p2|rs0|vw0|br1|b1": {
+    "best_ev": 0.78,
+    "bid": 14,
+    "improvement": 0.0,
+    "live_bid": 14,
+    "live_ev": 0.78,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "X|p2|rs0|vw1|br1|b0": {
+    "best_ev": 0.78,
+    "bid": 9,
+    "improvement": 0.0,
+    "live_bid": 9,
+    "live_ev": 0.78,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "Y|p0|rs0|vw0|br1|b4": {
+    "best_ev": 0.705,
+    "bid": 18,
+    "improvement": 0.02,
+    "live_bid": 13,
+    "live_ev": 0.685,
+    "variance": 0.0169,
+    "visits": 20
+  },
+  "Y|p0|rs0|vw1|br1|b4": {
+    "best_ev": 0.832,
+    "bid": 100,
+    "improvement": 0.015,
+    "live_bid": 11,
+    "live_ev": 0.817,
+    "variance": 0.0558,
+    "visits": 20
+  },
+  "Y|p0|rs0|vw1|br2|b4": {
+    "best_ev": 0.68,
+    "bid": 17,
+    "improvement": 0.185,
+    "live_bid": 11,
+    "live_ev": 0.495,
+    "variance": 0.0706,
+    "visits": 20
+  },
+  "Y|p0|rs0|vw2|br1|b4": {
+    "best_ev": 0.696,
+    "bid": 45,
+    "improvement": 0.003,
+    "live_bid": 11,
+    "live_ev": 0.693,
+    "variance": 0.0799,
+    "visits": 20
+  },
+  "Y|p0|rs1|vw1|br2|b3": {
+    "best_ev": 0.53,
+    "bid": 22,
+    "improvement": 0.105,
+    "live_bid": 10,
+    "live_ev": 0.425,
+    "variance": 0.06,
+    "visits": 20
+  },
+  "Y|p0|rs1|vw2|br1|b4": {
+    "best_ev": 0.835,
+    "bid": 10,
+    "improvement": 0.07,
+    "live_bid": 11,
+    "live_ev": 0.765,
+    "variance": 0.0397,
+    "visits": 20
+  },
+  "Y|p1|rs0|vw0|br0|b3": {
+    "best_ev": 0.835,
+    "bid": 1,
+    "improvement": 0.042,
+    "live_bid": 10,
+    "live_ev": 0.793,
+    "variance": 0.0091,
+    "visits": 20
+  },
+  "Y|p1|rs0|vw0|br0|b4": {
+    "best_ev": 0.537,
+    "bid": 19,
+    "improvement": 0.108,
+    "live_bid": 11,
+    "live_ev": 0.429,
+    "variance": 0.0497,
+    "visits": 20
+  },
+  "Y|p1|rs0|vw0|br0|b5": {
+    "best_ev": 0.673,
+    "bid": 6,
+    "improvement": 0.12,
+    "live_bid": 11,
+    "live_ev": 0.553,
+    "variance": 0.0238,
+    "visits": 20
+  },
+  "Y|p1|rs0|vw0|br1|b3": {
+    "best_ev": 0.702,
+    "bid": 11,
+    "improvement": 0.034,
+    "live_bid": 10,
+    "live_ev": 0.668,
+    "variance": 0.0338,
+    "visits": 20
+  },
+  "Y|p1|rs0|vw0|br1|b4": {
+    "best_ev": 0.652,
+    "bid": 1,
+    "improvement": 0.127,
+    "live_bid": 10,
+    "live_ev": 0.525,
+    "variance": 0.0485,
+    "visits": 20
+  },
+  "Y|p1|rs0|vw1|br1|b1": {
+    "best_ev": 0.505,
+    "bid": 21,
+    "improvement": 0.045,
+    "live_bid": 9,
+    "live_ev": 0.46,
+    "variance": 0.0169,
+    "visits": 20
+  },
+  "Y|p1|rs0|vw1|br1|b2": {
+    "best_ev": 0.263,
+    "bid": 30,
+    "improvement": 0.132,
+    "live_bid": 13,
+    "live_ev": 0.131,
+    "variance": 0.0093,
+    "visits": 20
+  },
+  "Y|p1|rs0|vw1|br1|b3": {
+    "best_ev": 0.523,
+    "bid": 18,
+    "improvement": 0.079,
+    "live_bid": 10,
+    "live_ev": 0.444,
+    "variance": 0.0742,
+    "visits": 20
+  },
+  "Y|p1|rs0|vw1|br1|b4": {
+    "best_ev": 0.676,
+    "bid": 36,
+    "improvement": 0.024,
+    "live_bid": 31,
+    "live_ev": 0.652,
+    "variance": 0.0661,
+    "visits": 20
+  },
+  "Y|p1|rs0|vw1|br2|b4": {
+    "best_ev": 0.532,
+    "bid": 1,
+    "improvement": 0.033,
+    "live_bid": 25,
+    "live_ev": 0.499,
+    "variance": 0.0408,
+    "visits": 20
+  },
+  "Y|p1|rs1|vw1|br1|b1": {
+    "best_ev": 0.46,
+    "bid": 18,
+    "improvement": 0.19,
+    "live_bid": 6,
+    "live_ev": 0.27,
+    "variance": 0.0216,
+    "visits": 20
+  },
+  "Y|p1|rs1|vw1|br1|b2": {
+    "best_ev": 0.409,
+    "bid": 12,
+    "improvement": 0.0,
+    "live_bid": 12,
+    "live_ev": 0.409,
+    "variance": 0.0769,
+    "visits": 20
+  },
+  "Y|p1|rs1|vw1|br1|b3": {
+    "best_ev": 0.59,
+    "bid": 69,
+    "improvement": 0.119,
+    "live_bid": 20,
+    "live_ev": 0.471,
+    "variance": 0.0775,
+    "visits": 20
+  },
+  "Y|p1|rs1|vw1|br2|b1": {
+    "best_ev": 0.53,
+    "bid": 9,
+    "improvement": 0.036,
+    "live_bid": 5,
+    "live_ev": 0.494,
+    "variance": 0.0325,
+    "visits": 20
+  },
+  "Y|p1|rs1|vw1|br2|b2": {
+    "best_ev": 1.0,
+    "bid": 21,
+    "improvement": 0.055,
+    "live_bid": 16,
+    "live_ev": 0.945,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "Y|p2|rs0|vw0|br0|b2": {
+    "best_ev": 0.415,
+    "bid": 23,
+    "improvement": 0.06,
+    "live_bid": 10,
+    "live_ev": 0.355,
+    "variance": 0.0223,
+    "visits": 20
+  },
+  "Y|p2|rs0|vw0|br1|b2": {
+    "best_ev": 0.68,
+    "bid": 29,
+    "improvement": 0.08,
+    "live_bid": 10,
+    "live_ev": 0.6,
+    "variance": 0.01,
+    "visits": 20
+  },
+  "Y|p2|rs0|vw1|br1|b2": {
+    "best_ev": 0.58,
+    "bid": 13,
+    "improvement": 0.0,
+    "live_bid": 13,
+    "live_ev": 0.58,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "Z|p0|rs0|vw0|br0|b5": {
+    "best_ev": 0.449,
+    "bid": 0,
+    "improvement": 0.08,
+    "live_bid": 10,
+    "live_ev": 0.369,
+    "variance": 0.0545,
+    "visits": 20
+  },
+  "Z|p0|rs0|vw1|br1|b4": {
+    "best_ev": 0.782,
+    "bid": 35,
+    "improvement": 0.323,
+    "live_bid": 10,
+    "live_ev": 0.459,
+    "variance": 0.0394,
+    "visits": 20
+  },
+  "Z|p0|rs1|vw2|br1|b4": {
+    "best_ev": 0.956,
+    "bid": 41,
+    "improvement": 0.28,
+    "live_bid": 11,
+    "live_ev": 0.676,
+    "variance": 0.0077,
+    "visits": 20
+  },
+  "Z|p1|rs0|vw0|br0|b3": {
+    "best_ev": 0.835,
+    "bid": 0,
+    "improvement": 0.032,
+    "live_bid": 10,
+    "live_ev": 0.803,
+    "variance": 0.0091,
+    "visits": 20
+  },
+  "Z|p1|rs0|vw0|br0|b4": {
+    "best_ev": 0.445,
+    "bid": 11,
+    "improvement": 0.144,
+    "live_bid": 10,
+    "live_ev": 0.301,
+    "variance": 0.0223,
+    "visits": 20
+  },
+  "Z|p1|rs0|vw0|br1|b1": {
+    "best_ev": 0.891,
+    "bid": 14,
+    "improvement": 0.189,
+    "live_bid": 9,
+    "live_ev": 0.702,
+    "variance": 0.0163,
+    "visits": 20
+  },
+  "Z|p1|rs0|vw0|br1|b3": {
+    "best_ev": 0.264,
+    "bid": 1,
+    "improvement": 0.101,
+    "live_bid": 23,
+    "live_ev": 0.163,
+    "variance": 0.0412,
+    "visits": 20
+  },
+  "Z|p1|rs0|vw0|br1|b4": {
+    "best_ev": 0.882,
+    "bid": 26,
+    "improvement": 0.178,
+    "live_bid": 21,
+    "live_ev": 0.704,
+    "variance": 0.0246,
+    "visits": 20
+  },
+  "Z|p1|rs0|vw1|br1|b2": {
+    "best_ev": 0.989,
+    "bid": 17,
+    "improvement": 0.022,
+    "live_bid": 18,
+    "live_ev": 0.967,
+    "variance": 0.0023,
+    "visits": 20
+  },
+  "Z|p1|rs0|vw1|br1|b4": {
+    "best_ev": 0.838,
+    "bid": 25,
+    "improvement": 0.06,
+    "live_bid": 10,
+    "live_ev": 0.778,
+    "variance": 0.022,
+    "visits": 20
+  },
+  "Z|p1|rs1|vw1|br1|b3": {
+    "best_ev": 0.54,
+    "bid": 37,
+    "improvement": 0.198,
+    "live_bid": 11,
+    "live_ev": 0.342,
+    "variance": 0.0354,
+    "visits": 20
+  },
+  "Z|p1|rs1|vw1|br2|b1": {
+    "best_ev": 0.871,
+    "bid": 14,
+    "improvement": 0.306,
+    "live_bid": 9,
+    "live_ev": 0.565,
+    "variance": 0.0243,
+    "visits": 20
+  },
+  "Z|p1|rs1|vw2|br1|b4": {
+    "best_ev": 0.882,
+    "bid": 28,
+    "improvement": 0.349,
+    "live_bid": 10,
+    "live_ev": 0.533,
+    "variance": 0.0246,
+    "visits": 20
+  },
+  "Z|p1|rs1|vw2|br2|b2": {
+    "best_ev": 1.0,
+    "bid": 16,
+    "improvement": 0.022,
+    "live_bid": 15,
+    "live_ev": 0.978,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "Z|p2|rs0|vw0|br0|b2": {
+    "best_ev": 0.28,
+    "bid": 39,
+    "improvement": 0.064,
+    "live_bid": 10,
+    "live_ev": 0.216,
+    "variance": 0.0,
+    "visits": 20
+  },
+  "Z|p2|rs1|vw2|br1|b1": {
+    "best_ev": 0.64,
+    "bid": 12,
+    "improvement": 0.01,
+    "live_bid": 13,
+    "live_ev": 0.63,
+    "variance": 0.0084,
+    "visits": 20
+  }
+}

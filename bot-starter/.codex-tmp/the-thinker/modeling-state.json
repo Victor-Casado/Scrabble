@@ -1,0 +1,1126 @@
+{
+  "version": 1,
+  "learner": {
+    "version": 1,
+    "matrix": {
+      "learn|other|consonant-starved|rich|low|Vickrey": {
+        "0": {
+          "count": 3,
+          "value": 0
+        }
+      },
+      "learn|vowel|consonant-starved|rich|low|Vickrey": {
+        "0": {
+          "count": 3,
+          "value": 0
+        }
+      },
+      "learn|other|consonant-starved|rich|high|Vickrey": {
+        "0": {
+          "count": 21,
+          "value": -8.129999999999999
+        }
+      },
+      "learn|s|s-hungry|rich|high|Vickrey": {
+        "0": {
+          "count": 10,
+          "value": -0.9999999999999999
+        }
+      },
+      "learn|premium|consonant-starved|rich|high|Vickrey": {
+        "0": {
+          "count": 11,
+          "value": -1.6949999999999998
+        }
+      },
+      "learn|common-consonant|consonant-starved|rich|high|Vickrey": {
+        "0": {
+          "count": 28,
+          "value": -7.619999999999999
+        }
+      },
+      "learn|vowel|consonant-starved|rich|high|Vickrey": {
+        "0": {
+          "count": 39,
+          "value": -12.460000000000003
+        }
+      },
+      "learn|q|vowel-starved|rich|high|Vickrey": {
+        "0": {
+          "count": 6,
+          "value": 0.6749999999999999
+        }
+      },
+      "learn|common-consonant|vowel-starved|rich|high|Vickrey": {
+        "0": {
+          "count": 26,
+          "value": -9.594999999999999
+        }
+      },
+      "learn|other|vowel-starved|rich|high|Vickrey": {
+        "0": {
+          "count": 15,
+          "value": -3.7249999999999996
+        }
+      },
+      "learn|vowel|vowel-starved|rich|high|Vickrey": {
+        "0": {
+          "count": 42,
+          "value": -13.204999999999998
+        }
+      },
+      "learn|other|balanced|healthy|high|Vickrey": {
+        "0": {
+          "count": 157,
+          "value": -33.249999999999986
+        }
+      },
+      "learn|vowel|balanced|healthy|high|Vickrey": {
+        "0": {
+          "count": 350,
+          "value": -98.13000000000027
+        }
+      },
+      "learn|other|large-rack|healthy|high|Vickrey": {
+        "0": {
+          "count": 131,
+          "value": -53.595000000000034
+        }
+      },
+      "learn|common-consonant|large-rack|healthy|high|Vickrey": {
+        "0": {
+          "count": 209,
+          "value": -95.59000000000006
+        }
+      },
+      "learn|vowel|large-rack|healthy|high|Vickrey": {
+        "0": {
+          "count": 250,
+          "value": -121.85000000000007
+        }
+      },
+      "learn|premium|large-rack|healthy|high|Vickrey": {
+        "0": {
+          "count": 25,
+          "value": -9.629999999999999
+        }
+      },
+      "learn|vowel|vowel-starved|healthy|high|Vickrey": {
+        "0": {
+          "count": 55,
+          "value": -11.235000000000005
+        }
+      },
+      "learn|common-consonant|balanced|healthy|high|Vickrey": {
+        "0": {
+          "count": 229,
+          "value": -48.66499999999999
+        }
+      },
+      "learn|premium|balanced|healthy|high|Vickrey": {
+        "0": {
+          "count": 26,
+          "value": -5.109999999999999
+        }
+      },
+      "learn|common-consonant|consonant-starved|healthy|high|Vickrey": {
+        "0": {
+          "count": 147,
+          "value": -47.490000000000045
+        }
+      },
+      "learn|vowel|large-rack|thin|high|Vickrey": {
+        "0": {
+          "count": 16,
+          "value": -7.449999999999999
+        },
+        "2": {
+          "count": 1,
+          "value": 0.515
+        },
+        "5": {
+          "count": 1,
+          "value": -0.7
+        },
+        "8": {
+          "count": 68,
+          "value": -35.36
+        }
+      },
+      "learn|common-consonant|large-rack|thin|high|Vickrey": {
+        "0": {
+          "count": 28,
+          "value": -11.139999999999999
+        },
+        "2": {
+          "count": 15,
+          "value": -9.465
+        }
+      },
+      "learn|other|large-rack|thin|high|Vickrey": {
+        "0": {
+          "count": 28,
+          "value": -15.355
+        }
+      },
+      "learn|vowel|vowel-starved|thin|high|Vickrey": {
+        "0": {
+          "count": 24,
+          "value": -4.265
+        }
+      },
+      "learn|other|vowel-starved|thin|high|Vickrey": {
+        "0": {
+          "count": 12,
+          "value": -0.5750000000000001
+        },
+        "2": {
+          "count": 1,
+          "value": 0.52
+        },
+        "5": {
+          "count": 1,
+          "value": 0.515
+        },
+        "8": {
+          "count": 3,
+          "value": -1.77
+        }
+      },
+      "learn|common-consonant|vowel-starved|thin|high|Vickrey": {
+        "0": {
+          "count": 16,
+          "value": -4.1
+        }
+      },
+      "learn|vowel|balanced|thin|high|Vickrey": {
+        "0": {
+          "count": 114,
+          "value": -45.34500000000001
+        }
+      },
+      "learn|common-consonant|balanced|thin|high|Vickrey": {
+        "0": {
+          "count": 61,
+          "value": -23.095000000000017
+        }
+      },
+      "learn|other|balanced|thin|high|Vickrey": {
+        "0": {
+          "count": 49,
+          "value": -16.625000000000004
+        },
+        "2": {
+          "count": 1,
+          "value": -0.665
+        }
+      },
+      "learn|premium|large-rack|broke|high|Vickrey": {
+        "0": {
+          "count": 15,
+          "value": -5.584999999999999
+        }
+      },
+      "learn|vowel|large-rack|broke|high|Vickrey": {
+        "0": {
+          "count": 28,
+          "value": -12.580000000000004
+        },
+        "2": {
+          "count": 66,
+          "value": -30.750000000000025
+        },
+        "5": {
+          "count": 1,
+          "value": -0.65
+        }
+      },
+      "learn|common-consonant|large-rack|broke|high|Vickrey": {
+        "0": {
+          "count": 81,
+          "value": -35.834999999999994
+        }
+      },
+      "learn|vowel|balanced|rich|high|Vickrey": {
+        "0": {
+          "count": 17,
+          "value": -7.089999999999999
+        },
+        "2": {
+          "count": 92,
+          "value": -19.225000000000005
+        }
+      },
+      "learn|q|balanced|rich|high|Vickrey": {
+        "0": {
+          "count": 4,
+          "value": -0.59
+        }
+      },
+      "learn|common-consonant|balanced|rich|high|Vickrey": {
+        "0": {
+          "count": 74,
+          "value": -19.449999999999992
+        }
+      },
+      "learn|other|balanced|rich|high|Vickrey": {
+        "0": {
+          "count": 35,
+          "value": -11.184999999999997
+        },
+        "2": {
+          "count": 6,
+          "value": -0.31000000000000016
+        },
+        "5": {
+          "count": 1,
+          "value": -0.55
+        },
+        "8": {
+          "count": 1,
+          "value": 0.54
+        }
+      },
+      "learn|premium|balanced|rich|high|Vickrey": {
+        "0": {
+          "count": 11,
+          "value": -2.55
+        }
+      },
+      "learn|vowel|consonant-starved|healthy|high|Vickrey": {
+        "0": {
+          "count": 218,
+          "value": -69.82000000000015
+        }
+      },
+      "learn|s|s-hungry|thin|high|Vickrey": {
+        "0": {
+          "count": 22,
+          "value": -7.715
+        }
+      },
+      "learn|premium|large-rack|thin|high|Vickrey": {
+        "0": {
+          "count": 8,
+          "value": -0.7399999999999999
+        }
+      },
+      "learn|other|large-rack|broke|high|Vickrey": {
+        "0": {
+          "count": 60,
+          "value": -29.550000000000008
+        }
+      },
+      "learn|s|s-hungry|healthy|high|Vickrey": {
+        "0": {
+          "count": 42,
+          "value": -14.62
+        }
+      },
+      "learn|other|consonant-starved|healthy|high|Vickrey": {
+        "0": {
+          "count": 117,
+          "value": -42.75000000000004
+        }
+      },
+      "learn|premium|consonant-starved|healthy|high|Vickrey": {
+        "0": {
+          "count": 18,
+          "value": -6.094999999999999
+        }
+      },
+      "learn|q|balanced|healthy|high|Vickrey": {
+        "0": {
+          "count": 11,
+          "value": -1.4500000000000002
+        },
+        "2": {
+          "count": 1,
+          "value": -0.725
+        }
+      },
+      "learn|premium|vowel-starved|healthy|high|Vickrey": {
+        "0": {
+          "count": 7,
+          "value": -0.4199999999999998
+        }
+      },
+      "learn|common-consonant|vowel-starved|healthy|high|Vickrey": {
+        "0": {
+          "count": 29,
+          "value": -8.45
+        }
+      },
+      "learn|other|vowel-starved|healthy|high|Vickrey": {
+        "0": {
+          "count": 23,
+          "value": -10.74
+        }
+      },
+      "learn|s|balanced|healthy|high|Vickrey": {
+        "0": {
+          "count": 20,
+          "value": -1.05
+        }
+      },
+      "learn|vowel|q-needs-u|healthy|high|Vickrey": {
+        "0": {
+          "count": 7,
+          "value": 2.24
+        }
+      },
+      "learn|other|consonant-starved|thin|high|Vickrey": {
+        "0": {
+          "count": 14,
+          "value": -4.6450000000000005
+        },
+        "2": {
+          "count": 31,
+          "value": -15.764999999999999
+        },
+        "5": {
+          "count": 1,
+          "value": 0.52
+        },
+        "8": {
+          "count": 1,
+          "value": -0.59
+        }
+      },
+      "learn|vowel|q-needs-u|rich|high|Vickrey": {
+        "0": {
+          "count": 4,
+          "value": 0.515
+        }
+      },
+      "learn|s|balanced|rich|high|Vickrey": {
+        "0": {
+          "count": 5,
+          "value": 1.15
+        }
+      },
+      "learn|vowel|consonant-starved|thin|high|Vickrey": {
+        "0": {
+          "count": 67,
+          "value": -29.075000000000003
+        }
+      },
+      "learn|premium|consonant-starved|thin|high|Vickrey": {
+        "0": {
+          "count": 9,
+          "value": -1.59
+        }
+      },
+      "learn|common-consonant|consonant-starved|thin|high|Vickrey": {
+        "0": {
+          "count": 46,
+          "value": -18.45999999999999
+        }
+      },
+      "learn|q|large-rack|healthy|high|Vickrey": {
+        "0": {
+          "count": 6,
+          "value": -2.0749999999999997
+        }
+      },
+      "learn|s|vowel-starved|healthy|high|Vickrey": {
+        "0": {
+          "count": 8,
+          "value": -3.46
+        }
+      },
+      "learn|premium|balanced|thin|high|Vickrey": {
+        "0": {
+          "count": 10,
+          "value": -3.3899999999999997
+        }
+      },
+      "learn|vowel|vowel-starved|broke|high|Vickrey": {
+        "0": {
+          "count": 7,
+          "value": -0.32000000000000006
+        }
+      },
+      "learn|s|consonant-starved|healthy|high|Vickrey": {
+        "0": {
+          "count": 14,
+          "value": -3.0199999999999996
+        }
+      },
+      "learn|q|consonant-starved|healthy|high|Vickrey": {
+        "0": {
+          "count": 12,
+          "value": -5.55
+        }
+      },
+      "learn|s|consonant-starved|rich|high|Vickrey": {
+        "0": {
+          "count": 6,
+          "value": -1.88
+        }
+      },
+      "learn|s|consonant-starved|thin|high|Vickrey": {
+        "0": {
+          "count": 14,
+          "value": -3.4450000000000003
+        }
+      },
+      "learn|vowel|balanced|broke|high|Vickrey": {
+        "0": {
+          "count": 26,
+          "value": -8.845000000000002
+        }
+      },
+      "learn|common-consonant|balanced|broke|high|Vickrey": {
+        "0": {
+          "count": 20,
+          "value": -9.225000000000003
+        }
+      },
+      "learn|q|balanced|thin|high|Vickrey": {
+        "0": {
+          "count": 5,
+          "value": -0.17500000000000004
+        }
+      },
+      "learn|q|consonant-starved|thin|high|Vickrey": {
+        "0": {
+          "count": 5,
+          "value": 1.0750000000000002
+        }
+      },
+      "learn|vowel|consonant-starved|broke|high|Vickrey": {
+        "0": {
+          "count": 7,
+          "value": -0.040000000000000036
+        },
+        "2": {
+          "count": 1,
+          "value": -0.77
+        }
+      },
+      "learn|common-consonant|consonant-starved|broke|high|Vickrey": {
+        "0": {
+          "count": 7,
+          "value": 0.8600000000000001
+        }
+      },
+      "learn|other|vowel-starved|broke|high|Vickrey": {
+        "0": {
+          "count": 6,
+          "value": 0.45499999999999996
+        }
+      },
+      "learn|premium|vowel-starved|rich|high|Vickrey": {
+        "0": {
+          "count": 4,
+          "value": 0.59
+        }
+      },
+      "learn|s|vowel-starved|thin|high|Vickrey": {
+        "0": {
+          "count": 4,
+          "value": 0.515
+        }
+      },
+      "learn|common-consonant|vowel-starved|broke|high|Vickrey": {
+        "0": {
+          "count": 5,
+          "value": 1.03
+        }
+      },
+      "learn|q|consonant-starved|rich|high|Vickrey": {
+        "0": {
+          "count": 4,
+          "value": -0.655
+        }
+      },
+      "learn|other|balanced|broke|high|Vickrey": {
+        "0": {
+          "count": 8,
+          "value": -2.94
+        }
+      },
+      "learn|s|balanced|broke|high|Vickrey": {
+        "0": {
+          "count": 4,
+          "value": -0.52
+        }
+      },
+      "learn|s|s-hungry|broke|high|Vickrey": {
+        "0": {
+          "count": 12,
+          "value": -6.470000000000001
+        }
+      },
+      "learn|other|consonant-starved|broke|high|Vickrey": {
+        "0": {
+          "count": 9,
+          "value": -2.7
+        }
+      },
+      "learn|q|vowel-starved|healthy|high|Vickrey": {
+        "0": {
+          "count": 5,
+          "value": -1.51
+        }
+      },
+      "learn|premium|balanced|broke|high|Vickrey": {
+        "0": {
+          "count": 4,
+          "value": -0.6950000000000001
+        }
+      },
+      "learn|s|balanced|thin|high|Vickrey": {
+        "0": {
+          "count": 5,
+          "value": -1.175
+        }
+      },
+      "learn|q|vowel-starved|thin|high|Vickrey": {
+        "0": {
+          "count": 4,
+          "value": -0.59
+        }
+      },
+      "learn|s|consonant-starved|broke|high|Vickrey": {
+        "0": {
+          "count": 4,
+          "value": 0.62
+        }
+      },
+      "learn|q|large-rack|broke|high|Vickrey": {
+        "0": {
+          "count": 6,
+          "value": -2.16
+        }
+      }
+    },
+    "updates": 50,
+    "warmupUpdates": 3,
+    "explorationRate": 0.12
+  },
+  "models": {
+    "version": 1,
+    "models": [
+      {
+        "id": "3",
+        "auctionsSeen": 67,
+        "auctionsWon": 0,
+        "averageBidEstimate": 0,
+        "vowelAggression": 0,
+        "consonantAggression": 0,
+        "sPreference": 0,
+        "averageWordLength": 3.7945861934808818,
+        "playFrequency": 0.029850746268656716,
+        "hoardingScore": 0,
+        "classification": "unknown",
+        "inferredRack": []
+      },
+      {
+        "id": "5",
+        "auctionsSeen": 134,
+        "auctionsWon": 0,
+        "averageBidEstimate": 0,
+        "vowelAggression": 0,
+        "consonantAggression": 0,
+        "sPreference": 0,
+        "averageWordLength": 4.344568878420777,
+        "playFrequency": 0,
+        "hoardingScore": 0,
+        "classification": "unknown",
+        "inferredRack": []
+      },
+      {
+        "id": "7",
+        "auctionsSeen": 67,
+        "auctionsWon": 14,
+        "averageBidEstimate": 12.785714285714286,
+        "vowelAggression": 0.8533333333333334,
+        "consonantAggression": 1,
+        "sPreference": 0,
+        "averageWordLength": 5.668727555783815,
+        "playFrequency": 0.3283582089552239,
+        "hoardingScore": 0,
+        "classification": "unknown",
+        "inferredRack": []
+      },
+      {
+        "id": "9",
+        "auctionsSeen": 0,
+        "auctionsWon": 0,
+        "averageBidEstimate": 0,
+        "vowelAggression": 0,
+        "consonantAggression": 0,
+        "sPreference": 0,
+        "averageWordLength": 3.6208546302758284,
+        "playFrequency": 1,
+        "hoardingScore": 0,
+        "classification": "unknown",
+        "inferredRack": []
+      },
+      {
+        "id": "11",
+        "auctionsSeen": 670,
+        "auctionsWon": 68,
+        "averageBidEstimate": 12.808823529411764,
+        "vowelAggression": 0.8840361462886167,
+        "consonantAggression": 1,
+        "sPreference": 0.22666666666666668,
+        "averageWordLength": 4.239489814609977,
+        "playFrequency": 0.10149253731343283,
+        "hoardingScore": 4.594029850746269,
+        "classification": "unknown",
+        "inferredRack": [
+          [
+            "R",
+            2
+          ],
+          [
+            "I",
+            1
+          ],
+          [
+            "A",
+            1
+          ],
+          [
+            "M",
+            1
+          ]
+        ]
+      },
+      {
+        "id": "12",
+        "auctionsSeen": 0,
+        "auctionsWon": 0,
+        "averageBidEstimate": 0,
+        "vowelAggression": 0,
+        "consonantAggression": 0,
+        "sPreference": 0,
+        "averageWordLength": 2.736741513023908,
+        "playFrequency": 1,
+        "hoardingScore": 0,
+        "classification": "unknown",
+        "inferredRack": []
+      },
+      {
+        "id": "8",
+        "auctionsSeen": 0,
+        "auctionsWon": 0,
+        "averageBidEstimate": 0,
+        "vowelAggression": 0,
+        "consonantAggression": 0,
+        "sPreference": 0,
+        "averageWordLength": 4.748512825092057,
+        "playFrequency": 1,
+        "hoardingScore": 0,
+        "classification": "unknown",
+        "inferredRack": []
+      },
+      {
+        "id": "13",
+        "auctionsSeen": 1550,
+        "auctionsWon": 299,
+        "averageBidEstimate": 12.130434782608699,
+        "vowelAggression": 1,
+        "consonantAggression": 0.9806904392921352,
+        "sPreference": 0.16280970594868516,
+        "averageWordLength": 6.09383460009685,
+        "playFrequency": 0.19741935483870968,
+        "hoardingScore": 2.2103225806451614,
+        "classification": "unknown",
+        "inferredRack": [
+          [
+            "X",
+            1
+          ],
+          [
+            "U",
+            1
+          ],
+          [
+            "K",
+            1
+          ]
+        ]
+      },
+      {
+        "id": "6",
+        "auctionsSeen": 76,
+        "auctionsWon": 0,
+        "averageBidEstimate": 0,
+        "vowelAggression": 0,
+        "consonantAggression": 0,
+        "sPreference": 0,
+        "averageWordLength": 4.677083333333333,
+        "playFrequency": 0,
+        "hoardingScore": 0,
+        "classification": "unknown",
+        "inferredRack": []
+      },
+      {
+        "id": "2",
+        "auctionsSeen": 0,
+        "auctionsWon": 0,
+        "averageBidEstimate": 0,
+        "vowelAggression": 0,
+        "consonantAggression": 0,
+        "sPreference": 0,
+        "averageWordLength": 3.8671875,
+        "playFrequency": 1,
+        "hoardingScore": 0,
+        "classification": "unknown",
+        "inferredRack": []
+      },
+      {
+        "id": "15",
+        "auctionsSeen": 335,
+        "auctionsWon": 69,
+        "averageBidEstimate": 9.637681159420287,
+        "vowelAggression": 1,
+        "consonantAggression": 0.9188698216696461,
+        "sPreference": 0,
+        "averageWordLength": 4.8758580206987245,
+        "playFrequency": 0.20597014925373133,
+        "hoardingScore": 6.176119402985075,
+        "classification": "unknown",
+        "inferredRack": [
+          [
+            "L",
+            1
+          ],
+          [
+            "Q",
+            1
+          ],
+          [
+            "P",
+            1
+          ],
+          [
+            "U",
+            1
+          ],
+          [
+            "W",
+            1
+          ],
+          [
+            "N",
+            1
+          ],
+          [
+            "I",
+            1
+          ]
+        ]
+      },
+      {
+        "id": "10",
+        "auctionsSeen": 2220,
+        "auctionsWon": 417,
+        "averageBidEstimate": 12.0167865707434,
+        "vowelAggression": 1,
+        "consonantAggression": 0.9852484038054131,
+        "sPreference": 0.6422531025309103,
+        "averageWordLength": 5.14820081054771,
+        "playFrequency": 0.18783783783783783,
+        "hoardingScore": 13.248648648648649,
+        "classification": "hoarder",
+        "inferredRack": [
+          [
+            "Q",
+            5
+          ],
+          [
+            "L",
+            1
+          ],
+          [
+            "P",
+            1
+          ],
+          [
+            "X",
+            1
+          ],
+          [
+            "G",
+            1
+          ],
+          [
+            "W",
+            1
+          ],
+          [
+            "V",
+            2
+          ],
+          [
+            "T",
+            1
+          ],
+          [
+            "A",
+            1
+          ]
+        ]
+      },
+      {
+        "id": "16",
+        "auctionsSeen": 0,
+        "auctionsWon": 0,
+        "averageBidEstimate": 0,
+        "vowelAggression": 0,
+        "consonantAggression": 0,
+        "sPreference": 0,
+        "averageWordLength": 4.424913515195253,
+        "playFrequency": 1,
+        "hoardingScore": 0,
+        "classification": "unknown",
+        "inferredRack": []
+      },
+      {
+        "id": "17",
+        "auctionsSeen": 0,
+        "auctionsWon": 0,
+        "averageBidEstimate": 0,
+        "vowelAggression": 0,
+        "consonantAggression": 0,
+        "sPreference": 0,
+        "averageWordLength": 6.043574724390292,
+        "playFrequency": 1,
+        "hoardingScore": 0,
+        "classification": "unknown",
+        "inferredRack": []
+      },
+      {
+        "id": "14",
+        "auctionsSeen": 603,
+        "auctionsWon": 43,
+        "averageBidEstimate": 15.55813953488372,
+        "vowelAggression": 0.8646085034449251,
+        "consonantAggression": 1,
+        "sPreference": 0.10555555555555556,
+        "averageWordLength": 3.410527323593195,
+        "playFrequency": 0.07131011608623548,
+        "hoardingScore": 5.714759535655058,
+        "classification": "aggressive",
+        "inferredRack": [
+          [
+            "S",
+            1
+          ],
+          [
+            "A",
+            1
+          ],
+          [
+            "E",
+            2
+          ],
+          [
+            "R",
+            1
+          ],
+          [
+            "G",
+            1
+          ]
+        ]
+      },
+      {
+        "id": "18",
+        "auctionsSeen": 2412,
+        "auctionsWon": 406,
+        "averageBidEstimate": 11.17980295566502,
+        "vowelAggression": 0.8984253192831516,
+        "consonantAggression": 1,
+        "sPreference": 0.02953501400560224,
+        "averageWordLength": 4.520452187904925,
+        "playFrequency": 0.16832504145936983,
+        "hoardingScore": 3.326699834162521,
+        "classification": "unknown",
+        "inferredRack": [
+          [
+            "W",
+            1
+          ],
+          [
+            "J",
+            1
+          ],
+          [
+            "P",
+            1
+          ],
+          [
+            "Q",
+            1
+          ]
+        ]
+      },
+      {
+        "id": "21",
+        "auctionsSeen": 2488,
+        "auctionsWon": 408,
+        "averageBidEstimate": 11.678921568627443,
+        "vowelAggression": 0.9602364126597087,
+        "consonantAggression": 1,
+        "sPreference": 0.17484846113886898,
+        "averageWordLength": 5.569984045989726,
+        "playFrequency": 0.16680064308681672,
+        "hoardingScore": 5.332797427652733,
+        "classification": "unknown",
+        "inferredRack": [
+          [
+            "Q",
+            2
+          ],
+          [
+            "V",
+            4
+          ]
+        ]
+      },
+      {
+        "id": "20",
+        "auctionsSeen": 1952,
+        "auctionsWon": 307,
+        "averageBidEstimate": 12.977198697068406,
+        "vowelAggression": 0.9460374693706821,
+        "consonantAggression": 1,
+        "sPreference": 0.08952147633204043,
+        "averageWordLength": 5.709205451464299,
+        "playFrequency": 0.15778688524590165,
+        "hoardingScore": 3.3688524590163933,
+        "classification": "unknown",
+        "inferredRack": [
+          [
+            "Y",
+            1
+          ],
+          [
+            "I",
+            1
+          ],
+          [
+            "L",
+            1
+          ],
+          [
+            "E",
+            1
+          ]
+        ]
+      },
+      {
+        "id": "22",
+        "auctionsSeen": 3359,
+        "auctionsWon": 669,
+        "averageBidEstimate": 11.602391629297461,
+        "vowelAggression": 1,
+        "consonantAggression": 0.9806063678266067,
+        "sPreference": 0.049825189277098454,
+        "averageWordLength": 5.923648305587583,
+        "playFrequency": 0.19946412622804405,
+        "hoardingScore": 2.2021434950878236,
+        "classification": "unknown",
+        "inferredRack": [
+          [
+            "V",
+            1
+          ],
+          [
+            "O",
+            1
+          ],
+          [
+            "G",
+            1
+          ]
+        ]
+      },
+      {
+        "id": "23",
+        "auctionsSeen": 871,
+        "auctionsWon": 83,
+        "averageBidEstimate": 12.16867469879518,
+        "vowelAggression": 1,
+        "consonantAggression": 0.8728343009867202,
+        "sPreference": 0.14640805249759037,
+        "averageWordLength": 5.368178515813896,
+        "playFrequency": 0.09644087256027555,
+        "hoardingScore": 0,
+        "classification": "unknown",
+        "inferredRack": []
+      },
+      {
+        "id": "4",
+        "auctionsSeen": 67,
+        "auctionsWon": 0,
+        "averageBidEstimate": 0,
+        "vowelAggression": 0,
+        "consonantAggression": 0,
+        "sPreference": 0,
+        "averageWordLength": 0,
+        "playFrequency": 0,
+        "hoardingScore": 0,
+        "classification": "unknown",
+        "inferredRack": []
+      },
+      {
+        "id": "25",
+        "auctionsSeen": 1608,
+        "auctionsWon": 259,
+        "averageBidEstimate": 11.764478764478765,
+        "vowelAggression": 0.8229192886943638,
+        "consonantAggression": 1,
+        "sPreference": 0.3141093309899133,
+        "averageWordLength": 4.949386396309766,
+        "playFrequency": 0.1722636815920398,
+        "hoardingScore": 0,
+        "classification": "unknown",
+        "inferredRack": []
+      },
+      {
+        "id": "26",
+        "auctionsSeen": 67,
+        "auctionsWon": 0,
+        "averageBidEstimate": 0,
+        "vowelAggression": 0,
+        "consonantAggression": 0,
+        "sPreference": 0,
+        "averageWordLength": 0,
+        "playFrequency": 0,
+        "hoardingScore": 0,
+        "classification": "unknown",
+        "inferredRack": []
+      },
+      {
+        "id": "27",
+        "auctionsSeen": 1608,
+        "auctionsWon": 317,
+        "averageBidEstimate": 11.987381703470035,
+        "vowelAggression": 1,
+        "consonantAggression": 0.9702777844007366,
+        "sPreference": 0.1084563758481096,
+        "averageWordLength": 6.816937303937155,
+        "playFrequency": 0.19838308457711443,
+        "hoardingScore": 1.2064676616915424,
+        "classification": "unknown",
+        "inferredRack": [
+          [
+            "K",
+            1
+          ],
+          [
+            "G",
+            1
+          ]
+        ]
+      }
+    ]
+  }
+}

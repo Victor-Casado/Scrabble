@@ -1,0 +1,94 @@
+
+> scrabblebot-bot-starter@0.1.0 start
+> tsx src/index.ts
+
+[bot] connecting to scrabblebot at https://maincloud.spacetimedb.com
+[bot] connected as c20020a46f9f4264ab3e74fdaea352eda4906484986ec36b882f26aaef7bc546
+[bot] subscription applied
+[bot] acting as bot 'lilM' (id 14)
+[bot] match 630 auction 42949 'T' → bot 17 paid 11
+[bot] match 630 auction 42950 'I' → bot 14 paid 19
+[bot] match 630 auction 42951 'N' → bot 13 paid 6
+[bot] match 630 auction 42952 'E' → bot 14 paid 21
+[bot] match 630 auction 42953 'T' → bot 17 paid 13
+[bot] match 630 auction 42954 'S' → bot 17 paid 15
+[bot] match 630 auction 42955 'U' → bot 12 paid 15
+[bot] match 630 auction 42956 'A' → bot 14 paid 15
+[bot] match 630 auction 42957 'A' → bot 14 paid 13
+[bot] match 630 auction 42958 'S' → bot 17 paid 17
+[bot] match 630 auction 42959 'E' → bot 12 paid 16
+[bot] match 630 auction 42960 'P' → bot 17 paid 17
+[bot] match 630 auction 42961 'O' → bot 17 paid 5
+[bot] match 630 auction 42962 'E' → bot 17 paid 12
+[bot] match 630 auction 42963 'V' → bot 13 paid 16
+[bot] match 630 auction 42964 'L' → bot 12 paid 15
+[bot] match 630 auction 42965 'D' → bot 12 paid 12
+[bot] match 630 auction 42966 'D' → bot 16 paid 12
+[bot] match 630 auction 42967 'H' → bot 14 paid 15
+[bot] match 630 auction 42968 'A' → bot 17 paid 4
+[bot] match 630 auction 42969 'E' → bot 16 paid 12
+[bot] match 630 auction 42970 'V' → bot 13 paid 8
+[bot] match 630 auction 42971 'E' → bot 17 paid 11
+[bot] match 630 auction 42972 'O' → bot 16 paid 9
+[bot] bid 1 on 'N' (match 630, auction 42974)
+[bot] match 630 auction 42973 'N' → bot 17 paid 11
+[bot] bid 1 on 'N' (match 630, auction 42975)
+[bot] match 630 auction 42974 'N' → bot 12 paid 6
+[bot] bid 1 on 'I' (match 630, auction 42976)
+[bot] match 630 auction 42975 'N' → bot 11 paid 5
+[bot] bid 1 on 'E' (match 630, auction 42977)
+[bot] match 630 auction 42976 'I' → bot 12 paid 5
+[bot] bid 2 on 'S' (match 630, auction 42978)
+[bot] match 630 auction 42977 'E' → bot 16 paid 10
+[bot] bid 1 on 'A' (match 630, auction 42979)
+[bot] match 630 auction 42978 'S' → bot 12 paid 13
+[bot] bid 1 on 'A' (match 630, auction 42980)
+[bot] match 630 auction 42979 'A' → bot 16 paid 9
+[bot] bid 1 on 'O' (match 630, auction 42981)
+[bot] match 630 auction 42980 'A' → bot 16 paid 9
+[bot] bid 2 on 'W' (match 630, auction 42982)
+[bot] match 630 auction 42981 'O' → bot 17 paid 6
+[bot] bid 1 on 'I' (match 630, auction 42983)
+[bot] match 630 auction 42982 'W' → bot 13 paid 11
+[bot] bid 1 on 'O' (match 630, auction 42984)
+[bot] match 630 auction 42983 'I' → bot 17 paid 4
+[bot] bid 2 on 'Y' (match 630, auction 42985)
+[bot] match 630 auction 42984 'O' → bot 12 paid 4
+[bot] bid 2 on 'G' (match 630, auction 42986)
+[bot] match 630 auction 42985 'Y' → bot 17 paid 11
+[bot] bid 2 on 'J' (match 630, auction 42987)
+[bot] match 630 auction 42986 'G' → bot 13 paid 4
+[bot] bid 1 on 'U' (match 630, auction 42988)
+[bot] match 630 auction 42987 'J' → bot 13 paid 13
+[bot] bid 1 on 'I' (match 630, auction 42989)
+[bot] match 630 auction 42988 'U' → bot 12 paid 5
+[bot] bid 1 on 'A' (match 630, auction 42990)
+[bot] match 630 auction 42989 'I' → bot 17 paid 4
+[bot] bid 1 on 'E' (match 630, auction 42991)
+[bot] match 630 auction 42990 'A' → bot 17 paid 5
+[bot] bid 2 on 'Z' (match 630, auction 42992)
+[bot] match 630 auction 42991 'E' → bot 12 paid 6
+[bot] bid 1 on 'I' (match 630, auction 42993)
+[bot] match 630 auction 42992 'Z' → bot 13 paid 10
+[bot] bid 1 on 'I' (match 630, auction 42994)
+[bot] match 630 auction 42993 'I' → bot 17 paid 4
+[bot] bid 1 on 'O' (match 630, auction 42995)
+[bot] match 630 auction 42994 'I' → bot 13 paid 5
+[bot] bid 2 on 'R' (match 630, auction 42996)
+[bot] match 630 auction 42995 'O' → bot 13 paid 5
+[bot] bid 1 on 'O' (match 630, auction 42997)
+[bot] match 630 auction 42996 'R' → bot 16 paid 5
+[bot] bid 2 on 'D' (match 630, auction 42998)
+[bot] match 630 auction 42997 'O' → bot 12 paid 4
+[bot] bid 1 on 'A' (match 630, auction 42999)
+[bot] match 630 auction 42998 'D' → bot 13 paid 7
+[bot] bid 1 on 'B' (match 630, auction 43000)
+[bot] match 630 auction 42999 'A' → bot 16 paid 5
+[bot] bid 2 on 'G' (match 630, auction 43001)
+[bot] match 630 auction 43000 'B' → bot 13 paid 7
+[bot] bid 2 on 'M' (match 630, auction 43002)
+[bot] match 630 auction 43001 'G' → bot 16 paid 7
+[bot] bid 2 on 'R' (match 630, auction 43003)
+[bot] match 630 auction 43002 'M' → bot 12 paid 8
+[bot] bid 1 on 'U' (match 630, auction 43004)
+[bot] match 630 auction 43003 'R' → bot 12 paid 4
