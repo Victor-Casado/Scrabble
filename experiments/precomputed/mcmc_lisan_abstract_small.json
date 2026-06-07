@@ -1,0 +1,482 @@
+{
+  "rs0|vw0|pw0|br0|q0u0|B|t2|b3|ob1|sg-2": {
+    "bid": 25,
+    "ev": 1.0,
+    "live_bid": 24,
+    "visits": 6
+  },
+  "rs0|vw0|pw0|br0|q0u0|D|t2|b4|ob1|sg-2": {
+    "bid": 15,
+    "ev": 1.0,
+    "live_bid": 10,
+    "visits": 6
+  },
+  "rs0|vw0|pw0|br0|q0u0|I|t0|b4|ob5|sg-2": {
+    "bid": 100,
+    "ev": 0.5,
+    "live_bid": 16,
+    "visits": 6
+  },
+  "rs0|vw0|pw0|br0|q0u0|K|t0|b4|ob4|sg0": {
+    "bid": 9,
+    "ev": 0.3333,
+    "live_bid": 10,
+    "visits": 6
+  },
+  "rs0|vw0|pw0|br0|q0u0|L|t0|b4|ob4|sg0": {
+    "bid": 9,
+    "ev": 0.3333,
+    "live_bid": 10,
+    "visits": 6
+  },
+  "rs0|vw0|pw0|br0|q0u0|S|t4|b3|ob1|sg3": {
+    "bid": 11,
+    "ev": 1.0,
+    "live_bid": 11,
+    "visits": 6
+  },
+  "rs0|vw0|pw0|br0|q0u0|T|t5|b4|ob1|sg3": {
+    "bid": 12,
+    "ev": 1.0,
+    "live_bid": 12,
+    "visits": 6
+  },
+  "rs0|vw0|pw0|br1|q0u0|E|t3|b3|ob1|sg0": {
+    "bid": 10,
+    "ev": 1.0,
+    "live_bid": 10,
+    "visits": 6
+  },
+  "rs0|vw0|pw0|br1|q0u0|E|t5|b4|ob1|sg3": {
+    "bid": 12,
+    "ev": 1.0,
+    "live_bid": 12,
+    "visits": 6
+  },
+  "rs0|vw0|pw0|br1|q0u0|I|t4|b3|ob1|sg3": {
+    "bid": 21,
+    "ev": 1.0,
+    "live_bid": 21,
+    "visits": 6
+  },
+  "rs0|vw0|pw0|br1|q0u0|N|t4|b3|ob1|sg3": {
+    "bid": 10,
+    "ev": 1.0,
+    "live_bid": 10,
+    "visits": 6
+  },
+  "rs0|vw0|pw0|br1|q0u0|V|t4|b3|ob1|sg3": {
+    "bid": 11,
+    "ev": 1.0,
+    "live_bid": 11,
+    "visits": 6
+  },
+  "rs0|vw1|pw0|br1|q0u0|E|t5|b3|ob0|sg3": {
+    "bid": 12,
+    "ev": 1.0,
+    "live_bid": 12,
+    "visits": 6
+  },
+  "rs0|vw1|pw0|br1|q0u0|E|t6|b4|ob1|sg3": {
+    "bid": 12,
+    "ev": 1.0,
+    "live_bid": 12,
+    "visits": 6
+  },
+  "rs0|vw1|pw0|br1|q0u0|I|t3|b3|ob1|sg3": {
+    "bid": 15,
+    "ev": 1.0,
+    "live_bid": 15,
+    "visits": 6
+  },
+  "rs0|vw1|pw0|br1|q0u0|S|t3|b3|ob1|sg3": {
+    "bid": 11,
+    "ev": 1.0,
+    "live_bid": 11,
+    "visits": 6
+  },
+  "rs0|vw1|pw0|br1|q0u0|T|t3|b3|ob1|sg2": {
+    "bid": 26,
+    "ev": 1.0,
+    "live_bid": 26,
+    "visits": 6
+  },
+  "rs0|vw1|pw0|br1|q0u0|Y|t3|b3|ob1|sg2": {
+    "bid": 12,
+    "ev": 1.0,
+    "live_bid": 12,
+    "visits": 6
+  },
+  "rs0|vw1|pw0|br1|q0u0|Z|t3|b3|ob1|sg0": {
+    "bid": 25,
+    "ev": 1.0,
+    "live_bid": 25,
+    "visits": 6
+  },
+  "rs0|vw1|pw0|br2|q0u0|I|t4|b2|ob1|sg3": {
+    "bid": 18,
+    "ev": 1.0,
+    "live_bid": 18,
+    "visits": 6
+  },
+  "rs0|vw1|pw1|br1|q1u0|E|t0|b4|ob4|sg0": {
+    "bid": 15,
+    "ev": 0.6667,
+    "live_bid": 14,
+    "visits": 6
+  },
+  "rs0|vw2|pw0|br0|q0u0|M|t6|b2|ob1|sg3": {
+    "bid": 41,
+    "ev": 1.0,
+    "live_bid": 41,
+    "visits": 6
+  },
+  "rs0|vw2|pw0|br1|q0u0|J|t5|b3|ob1|sg3": {
+    "bid": 18,
+    "ev": 1.0,
+    "live_bid": 18,
+    "visits": 6
+  },
+  "rs0|vw2|pw0|br1|q0u0|W|t6|b3|ob1|sg3": {
+    "bid": 34,
+    "ev": 1.0,
+    "live_bid": 34,
+    "visits": 6
+  },
+  "rs0|vw2|pw0|br1|q0u0|X|t4|b3|ob1|sg3": {
+    "bid": 20,
+    "ev": 1.0,
+    "live_bid": 20,
+    "visits": 6
+  },
+  "rs0|vw2|pw0|br2|q0u0|U|t6|b3|ob1|sg3": {
+    "bid": 12,
+    "ev": 1.0,
+    "live_bid": 12,
+    "visits": 6
+  },
+  "rs1|vw0|pw0|br1|q0u0|A|t2|b3|ob1|sg-2": {
+    "bid": 23,
+    "ev": 1.0,
+    "live_bid": 22,
+    "visits": 6
+  },
+  "rs1|vw0|pw0|br1|q0u0|E|t0|b4|ob5|sg-2": {
+    "bid": 48,
+    "ev": 0.5,
+    "live_bid": 17,
+    "visits": 6
+  },
+  "rs1|vw1|pw0|br2|q0u0|A|t3|b3|ob1|sg2": {
+    "bid": 22,
+    "ev": 1.0,
+    "live_bid": 22,
+    "visits": 6
+  },
+  "rs1|vw1|pw0|br2|q0u0|N|t0|b4|ob5|sg-2": {
+    "bid": 9,
+    "ev": 0.3333,
+    "live_bid": 9,
+    "visits": 6
+  },
+  "rs1|vw1|pw0|br2|q0u0|R|t3|b3|ob1|sg2": {
+    "bid": 10,
+    "ev": 1.0,
+    "live_bid": 10,
+    "visits": 6
+  },
+  "rs1|vw1|pw1|br1|q1u0|A|t0|b4|ob5|sg-2": {
+    "bid": 94,
+    "ev": 0.6667,
+    "live_bid": 16,
+    "visits": 6
+  },
+  "rs1|vw1|pw1|br3|q0u0|O|t3|b3|ob1|sg0": {
+    "bid": 10,
+    "ev": 1.0,
+    "live_bid": 10,
+    "visits": 6
+  },
+  "rs1|vw2|pw0|br1|q0u1|O|t5|b2|ob0|sg3": {
+    "bid": 10,
+    "ev": 1.0,
+    "live_bid": 10,
+    "visits": 6
+  },
+  "rs1|vw2|pw0|br2|q0u0|U|t4|b2|ob1|sg3": {
+    "bid": 10,
+    "ev": 1.0,
+    "live_bid": 10,
+    "visits": 6
+  },
+  "rs1|vw2|pw1|br2|q0u0|A|t4|b2|ob1|sg3": {
+    "bid": 18,
+    "ev": 1.0,
+    "live_bid": 18,
+    "visits": 6
+  },
+  "rs1|vw2|pw1|br2|q1u0|R|t0|b4|ob5|sg-2": {
+    "bid": 0,
+    "ev": 0.6667,
+    "live_bid": 9,
+    "visits": 6
+  },
+  "rs1|vw3|pw0|br1|q0u1|E|t5|b2|ob0|sg3": {
+    "bid": 11,
+    "ev": 1.0,
+    "live_bid": 11,
+    "visits": 6
+  },
+  "rs1|vw3|pw0|br2|q0u1|I|t6|b2|ob1|sg3": {
+    "bid": 11,
+    "ev": 1.0,
+    "live_bid": 11,
+    "visits": 6
+  },
+  "rs1|vw3|pw0|br2|q0u1|U|t4|b2|ob1|sg3": {
+    "bid": 10,
+    "ev": 1.0,
+    "live_bid": 10,
+    "visits": 6
+  },
+  "rs2|vw1|pw0|br2|q0u0|L|t2|b2|ob1|sg-2": {
+    "bid": 9,
+    "ev": 1.0,
+    "live_bid": 9,
+    "visits": 6
+  },
+  "rs2|vw1|pw0|br2|q0u0|O|t2|b2|ob1|sg-2": {
+    "bid": 17,
+    "ev": 1.0,
+    "live_bid": 17,
+    "visits": 6
+  },
+  "rs2|vw1|pw0|br3|q0u0|A|t0|b3|ob5|sg-2": {
+    "bid": 7,
+    "ev": 0.3333,
+    "live_bid": 12,
+    "visits": 6
+  },
+  "rs2|vw1|pw0|br3|q0u0|A|t1|b3|ob3|sg-2": {
+    "bid": 12,
+    "ev": 0.3333,
+    "live_bid": 12,
+    "visits": 6
+  },
+  "rs2|vw1|pw0|br3|q0u0|E|t1|b3|ob3|sg-3": {
+    "bid": 13,
+    "ev": 0.5,
+    "live_bid": 14,
+    "visits": 6
+  },
+  "rs2|vw1|pw0|br3|q0u0|E|t1|b3|ob4|sg-2": {
+    "bid": 15,
+    "ev": 0.3333,
+    "live_bid": 14,
+    "visits": 6
+  },
+  "rs2|vw1|pw0|br3|q0u0|L|t1|b3|ob2|sg-3": {
+    "bid": 21,
+    "ev": 0.6667,
+    "live_bid": 9,
+    "visits": 6
+  },
+  "rs2|vw1|pw0|br3|q0u0|T|t0|b3|ob4|sg-2": {
+    "bid": 0,
+    "ev": 0.5,
+    "live_bid": 9,
+    "visits": 6
+  },
+  "rs2|vw2|pw0|br3|q0u0|O|t3|b2|ob1|sg2": {
+    "bid": 10,
+    "ev": 1.0,
+    "live_bid": 10,
+    "visits": 6
+  },
+  "rs2|vw2|pw1|br2|q1u0|A|t0|b4|ob5|sg-2": {
+    "bid": 8,
+    "ev": 0.5,
+    "live_bid": 13,
+    "visits": 6
+  },
+  "rs2|vw2|pw1|br2|q1u0|N|t0|b3|ob4|sg-2": {
+    "bid": 4,
+    "ev": 0.5,
+    "live_bid": 9,
+    "visits": 6
+  },
+  "rs2|vw2|pw1|br2|q1u0|R|t0|b4|ob4|sg-2": {
+    "bid": 0,
+    "ev": 0.6667,
+    "live_bid": 9,
+    "visits": 6
+  },
+  "rs2|vw3|pw0|br2|q0u1|G|t5|b2|ob0|sg3": {
+    "bid": 23,
+    "ev": 1.0,
+    "live_bid": 23,
+    "visits": 6
+  },
+  "rs2|vw3|pw0|br3|q0u0|E|t3|b2|ob1|sg2": {
+    "bid": 9,
+    "ev": 1.0,
+    "live_bid": 9,
+    "visits": 6
+  },
+  "rs2|vw3|pw1|br3|q0u0|H|t3|b2|ob1|sg0": {
+    "bid": 16,
+    "ev": 1.0,
+    "live_bid": 16,
+    "visits": 6
+  },
+  "rs2|vw4|pw0|br2|q0u1|T|t6|b2|ob1|sg3": {
+    "bid": 28,
+    "ev": 1.0,
+    "live_bid": 28,
+    "visits": 6
+  },
+  "rs3|vw1|pw0|br3|q0u0|E|t2|b3|ob2|sg-3": {
+    "bid": 3,
+    "ev": 0.8333,
+    "live_bid": 3,
+    "visits": 6
+  },
+  "rs3|vw1|pw0|br3|q0u0|I|t2|b3|ob1|sg-3": {
+    "bid": 17,
+    "ev": 1.0,
+    "live_bid": 17,
+    "visits": 6
+  },
+  "rs3|vw1|pw0|br3|q0u0|I|t2|b3|ob2|sg-3": {
+    "bid": 4,
+    "ev": 1.0,
+    "live_bid": 3,
+    "visits": 6
+  },
+  "rs3|vw1|pw0|br3|q0u0|O|t1|b3|ob2|sg-3": {
+    "bid": 9,
+    "ev": 0.6667,
+    "live_bid": 10,
+    "visits": 6
+  },
+  "rs3|vw1|pw0|br3|q0u0|O|t2|b3|ob1|sg-3": {
+    "bid": 3,
+    "ev": 1.0,
+    "live_bid": 3,
+    "visits": 6
+  },
+  "rs3|vw1|pw0|br3|q0u0|R|t1|b3|ob2|sg-3": {
+    "bid": 8,
+    "ev": 1.0,
+    "live_bid": 9,
+    "visits": 6
+  },
+  "rs3|vw1|pw0|br3|q0u0|R|t2|b3|ob1|sg-3": {
+    "bid": 3,
+    "ev": 1.0,
+    "live_bid": 3,
+    "visits": 6
+  },
+  "rs3|vw2|pw1|br3|q1u0|E|t0|b3|ob4|sg-2": {
+    "bid": 13,
+    "ev": 0.5,
+    "live_bid": 12,
+    "visits": 6
+  },
+  "rs3|vw2|pw1|br3|q1u0|E|t1|b3|ob3|sg-3": {
+    "bid": 9,
+    "ev": 0.6667,
+    "live_bid": 4,
+    "visits": 6
+  },
+  "rs3|vw2|pw1|br3|q1u0|F|t1|b3|ob3|sg-3": {
+    "bid": 5,
+    "ev": 0.8333,
+    "live_bid": 4,
+    "visits": 6
+  },
+  "rs3|vw2|pw1|br3|q1u0|G|t1|b3|ob3|sg-3": {
+    "bid": 9,
+    "ev": 0.5,
+    "live_bid": 9,
+    "visits": 6
+  },
+  "rs3|vw2|pw1|br3|q1u0|I|t1|b3|ob3|sg-2": {
+    "bid": 1,
+    "ev": 0.6667,
+    "live_bid": 12,
+    "visits": 6
+  },
+  "rs3|vw2|pw1|br3|q1u0|I|t1|b3|ob3|sg-3": {
+    "bid": 12,
+    "ev": 0.5,
+    "live_bid": 12,
+    "visits": 6
+  },
+  "rs3|vw2|pw1|br3|q1u0|S|t1|b3|ob3|sg-2": {
+    "bid": 10,
+    "ev": 0.8333,
+    "live_bid": 10,
+    "visits": 6
+  },
+  "rs3|vw2|pw1|br3|q1u0|T|t1|b3|ob3|sg-3": {
+    "bid": 5,
+    "ev": 0.3333,
+    "live_bid": 4,
+    "visits": 6
+  },
+  "rs3|vw2|pw1|br3|q1u0|U|t1|b3|ob2|sg-3": {
+    "bid": 5,
+    "ev": 0.5,
+    "live_bid": 4,
+    "visits": 6
+  },
+  "rs3|vw2|pw1|br3|q1u0|W|t1|b3|ob4|sg-2": {
+    "bid": 11,
+    "ev": 0.6667,
+    "live_bid": 9,
+    "visits": 6
+  },
+  "rs3|vw3|pw0|br2|q0u1|C|t4|b0|ob1|sg3": {
+    "bid": 6,
+    "ev": 1.0,
+    "live_bid": 6,
+    "visits": 6
+  },
+  "rs3|vw3|pw0|br2|q0u1|V|t4|b0|ob1|sg3": {
+    "bid": 6,
+    "ev": 1.0,
+    "live_bid": 6,
+    "visits": 6
+  },
+  "rs3|vw3|pw0|br2|q0u1|W|t4|b1|ob1|sg3": {
+    "bid": 9,
+    "ev": 1.0,
+    "live_bid": 9,
+    "visits": 6
+  },
+  "rs3|vw3|pw0|br3|q0u0|T|t3|b2|ob1|sg2": {
+    "bid": 9,
+    "ev": 1.0,
+    "live_bid": 9,
+    "visits": 6
+  },
+  "rs3|vw4|pw0|br2|q0u1|A|t5|b0|ob0|sg3": {
+    "bid": 2,
+    "ev": 1.0,
+    "live_bid": 2,
+    "visits": 6
+  },
+  "rs3|vw4|pw0|br2|q0u1|B|t5|b0|ob0|sg3": {
+    "bid": 2,
+    "ev": 1.0,
+    "live_bid": 2,
+    "visits": 6
+  },
+  "rs3|vw4|pw0|br2|q0u1|M|t5|b0|ob0|sg3": {
+    "bid": 2,
+    "ev": 1.0,
+    "live_bid": 2,
+    "visits": 6
+  }
+}
