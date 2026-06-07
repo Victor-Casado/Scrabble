@@ -1,0 +1,87 @@
+{
+  "games": 40,
+  "seed": 20260607,
+  "caps": [
+    1,
+    2,
+    4,
+    8,
+    12
+  ],
+  "opponents": [
+    "hoarder",
+    "low-bankroll-saver"
+  ],
+  "results": {
+    "base": {
+      "games": 40,
+      "top1": 0.35,
+      "top2_survive": 0.625,
+      "last": 0.375,
+      "avg_rank": 2.025,
+      "avg_score": 147.7,
+      "avg_score_delta": -41.15,
+      "avg_balance": 11.9
+    },
+    "uncapped": {
+      "games": 40,
+      "top1": 0.4,
+      "top2_survive": 0.725,
+      "last": 0.275,
+      "avg_rank": 1.875,
+      "avg_score": 152.575,
+      "avg_score_delta": -23.95,
+      "avg_balance": 14.875
+    },
+    "cap-1": {
+      "games": 40,
+      "top1": 0.175,
+      "top2_survive": 0.575,
+      "last": 0.425,
+      "avg_rank": 2.25,
+      "avg_score": 136.775,
+      "avg_score_delta": -67.025,
+      "avg_balance": 11.475
+    },
+    "cap-2": {
+      "games": 40,
+      "top1": 0.325,
+      "top2_survive": 0.625,
+      "last": 0.375,
+      "avg_rank": 2.05,
+      "avg_score": 143.625,
+      "avg_score_delta": -36.175,
+      "avg_balance": 12.225
+    },
+    "cap-4": {
+      "games": 40,
+      "top1": 0.225,
+      "top2_survive": 0.575,
+      "last": 0.425,
+      "avg_rank": 2.2,
+      "avg_score": 138.8,
+      "avg_score_delta": -51.45,
+      "avg_balance": 12.25
+    },
+    "cap-8": {
+      "games": 40,
+      "top1": 0.25,
+      "top2_survive": 0.65,
+      "last": 0.35,
+      "avg_rank": 2.1,
+      "avg_score": 147.55,
+      "avg_score_delta": -38.025,
+      "avg_balance": 14.475
+    },
+    "cap-12": {
+      "games": 40,
+      "top1": 0.375,
+      "top2_survive": 0.65,
+      "last": 0.35,
+      "avg_rank": 1.975,
+      "avg_score": 148.725,
+      "avg_score_delta": -28.075,
+      "avg_balance": 15.225
+    }
+  }
+}

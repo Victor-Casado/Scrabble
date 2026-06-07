@@ -1,0 +1,67 @@
+{
+  "games": 2,
+  "seed": 20260607,
+  "players": 2,
+  "caps": [
+    2,
+    4,
+    8
+  ],
+  "fields": {
+    "hoarder_mixed": [
+      "hoarder",
+      "low-bankroll-saver",
+      "exploit-lisan",
+      "q-averse",
+      "aggressive"
+    ]
+  },
+  "results": {
+    "hoarder_mixed": {
+      "base": {
+        "games": 2,
+        "players": 2,
+        "top1": 0.5,
+        "survive_not_last": 0.5,
+        "last": 0.5,
+        "avg_rank": 1.5,
+        "avg_score": 188.5,
+        "avg_score_delta": -28.5,
+        "avg_balance": 12.5
+      },
+      "add-cap-2": {
+        "games": 2,
+        "players": 2,
+        "top1": 0.0,
+        "survive_not_last": 0.0,
+        "last": 1.0,
+        "avg_rank": 2.0,
+        "avg_score": 168.5,
+        "avg_score_delta": -129.0,
+        "avg_balance": 5.0
+      },
+      "add-cap-4": {
+        "games": 2,
+        "players": 2,
+        "top1": 1.0,
+        "survive_not_last": 1.0,
+        "last": 0.0,
+        "avg_rank": 1.0,
+        "avg_score": 310.5,
+        "avg_score_delta": 185.5,
+        "avg_balance": 47.5
+      },
+      "add-cap-8": {
+        "games": 2,
+        "players": 2,
+        "top1": 1.0,
+        "survive_not_last": 1.0,
+        "last": 0.0,
+        "avg_rank": 1.0,
+        "avg_score": 242.5,
+        "avg_score_delta": 50.5,
+        "avg_balance": 65.0
+      }
+    }
+  }
+}

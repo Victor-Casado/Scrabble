@@ -1,0 +1,173 @@
+{
+  "games": 30,
+  "seed": 20260607,
+  "players": 2,
+  "caps": [
+    2,
+    4,
+    8
+  ],
+  "fields": {
+    "hoarder_mixed": [
+      "hoarder",
+      "low-bankroll-saver",
+      "exploit-lisan",
+      "q-averse",
+      "aggressive"
+    ],
+    "strong_mixed": [
+      "hoarder",
+      "word-ev-max",
+      "exploit-lisan",
+      "low-bankroll-saver",
+      "q-averse"
+    ],
+    "lisan_like": [
+      "base-lisan",
+      "exploit-lisan",
+      "q-averse",
+      "low-bankroll-saver",
+      "random-noisy"
+    ]
+  },
+  "results": {
+    "hoarder_mixed": {
+      "base": {
+        "games": 30,
+        "players": 2,
+        "top1": 0.5666666666666667,
+        "survive_not_last": 0.5666666666666667,
+        "last": 0.43333333333333335,
+        "avg_rank": 1.4333333333333333,
+        "avg_score": 226.33333333333334,
+        "avg_score_delta": 4.333333333333333,
+        "avg_balance": 24.833333333333332
+      },
+      "add-cap-2": {
+        "games": 30,
+        "players": 2,
+        "top1": 0.26666666666666666,
+        "survive_not_last": 0.26666666666666666,
+        "last": 0.7333333333333333,
+        "avg_rank": 1.7333333333333334,
+        "avg_score": 171.53333333333333,
+        "avg_score_delta": -120.66666666666667,
+        "avg_balance": 20.066666666666666
+      },
+      "add-cap-4": {
+        "games": 30,
+        "players": 2,
+        "top1": 0.13333333333333333,
+        "survive_not_last": 0.13333333333333333,
+        "last": 0.8666666666666667,
+        "avg_rank": 1.8666666666666667,
+        "avg_score": 159.86666666666667,
+        "avg_score_delta": -144.33333333333334,
+        "avg_balance": 21.2
+      },
+      "add-cap-8": {
+        "games": 30,
+        "players": 2,
+        "top1": 0.36666666666666664,
+        "survive_not_last": 0.36666666666666664,
+        "last": 0.6333333333333333,
+        "avg_rank": 1.6333333333333333,
+        "avg_score": 181.26666666666668,
+        "avg_score_delta": -89.33333333333333,
+        "avg_balance": 16.933333333333334
+      }
+    },
+    "strong_mixed": {
+      "base": {
+        "games": 30,
+        "players": 2,
+        "top1": 0.6333333333333333,
+        "survive_not_last": 0.6333333333333333,
+        "last": 0.36666666666666664,
+        "avg_rank": 1.3666666666666667,
+        "avg_score": 255.73333333333332,
+        "avg_score_delta": 52.9,
+        "avg_balance": 19.8
+      },
+      "add-cap-2": {
+        "games": 30,
+        "players": 2,
+        "top1": 0.3,
+        "survive_not_last": 0.3,
+        "last": 0.7,
+        "avg_rank": 1.7,
+        "avg_score": 177.03333333333333,
+        "avg_score_delta": -110.43333333333334,
+        "avg_balance": 14.733333333333333
+      },
+      "add-cap-4": {
+        "games": 30,
+        "players": 2,
+        "top1": 0.36666666666666664,
+        "survive_not_last": 0.36666666666666664,
+        "last": 0.6333333333333333,
+        "avg_rank": 1.6333333333333333,
+        "avg_score": 199.43333333333334,
+        "avg_score_delta": -57.0,
+        "avg_balance": 13.866666666666667
+      },
+      "add-cap-8": {
+        "games": 30,
+        "players": 2,
+        "top1": 0.26666666666666666,
+        "survive_not_last": 0.26666666666666666,
+        "last": 0.7333333333333333,
+        "avg_rank": 1.7333333333333334,
+        "avg_score": 167.96666666666667,
+        "avg_score_delta": -121.46666666666667,
+        "avg_balance": 17.366666666666667
+      }
+    },
+    "lisan_like": {
+      "base": {
+        "games": 30,
+        "players": 2,
+        "top1": 0.5666666666666667,
+        "survive_not_last": 0.5666666666666667,
+        "last": 0.43333333333333335,
+        "avg_rank": 1.4333333333333333,
+        "avg_score": 251.6,
+        "avg_score_delta": 30.266666666666666,
+        "avg_balance": 35.2
+      },
+      "add-cap-2": {
+        "games": 30,
+        "players": 2,
+        "top1": 0.23333333333333334,
+        "survive_not_last": 0.23333333333333334,
+        "last": 0.7666666666666667,
+        "avg_rank": 1.7666666666666666,
+        "avg_score": 163.23333333333332,
+        "avg_score_delta": -134.6,
+        "avg_balance": 20.766666666666666
+      },
+      "add-cap-4": {
+        "games": 30,
+        "players": 2,
+        "top1": 0.1,
+        "survive_not_last": 0.1,
+        "last": 0.9,
+        "avg_rank": 1.9,
+        "avg_score": 147.23333333333332,
+        "avg_score_delta": -173.83333333333334,
+        "avg_balance": 19.1
+      },
+      "add-cap-8": {
+        "games": 30,
+        "players": 2,
+        "top1": 0.13333333333333333,
+        "survive_not_last": 0.13333333333333333,
+        "last": 0.8666666666666667,
+        "avg_rank": 1.8666666666666667,
+        "avg_score": 149.53333333333333,
+        "avg_score_delta": -174.26666666666668,
+        "avg_balance": 16.9
+      }
+    }
+  }
+}

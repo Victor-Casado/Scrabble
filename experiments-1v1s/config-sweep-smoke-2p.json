@@ -1,0 +1,132 @@
+{
+  "games": 2,
+  "seed": 20260607,
+  "players": 2,
+  "fields": {
+    "hoarder_mixed": [
+      "hoarder",
+      "low-bankroll-saver",
+      "exploit-lisan",
+      "q-averse",
+      "aggressive"
+    ]
+  },
+  "results": {
+    "hoarder_mixed": {
+      "base": {
+        "games": 2,
+        "top1": 0.5,
+        "survive_not_last": 0.5,
+        "last": 0.5,
+        "avg_rank": 1.5,
+        "avg_score": 188.5,
+        "avg_score_delta": -28.5,
+        "avg_balance": 12.5
+      },
+      "professor-1v1": {
+        "games": 2,
+        "top1": 0.5,
+        "survive_not_last": 0.5,
+        "last": 0.5,
+        "avg_rank": 1.5,
+        "avg_score": 170.0,
+        "avg_score_delta": -120.5,
+        "avg_balance": 27.5
+      },
+      "professor-six": {
+        "games": 2,
+        "top1": 0.0,
+        "survive_not_last": 0.0,
+        "last": 1.0,
+        "avg_rank": 2.0,
+        "avg_score": 172.5,
+        "avg_score_delta": -105.5,
+        "avg_balance": 7.5
+      },
+      "floor-cap-8": {
+        "games": 2,
+        "top1": 1.0,
+        "survive_not_last": 1.0,
+        "last": 0.0,
+        "avg_rank": 1.0,
+        "avg_score": 305.0,
+        "avg_score_delta": 181.0,
+        "avg_balance": 14.5
+      },
+      "sum-target-cap-8": {
+        "games": 2,
+        "top1": 0.5,
+        "survive_not_last": 0.5,
+        "last": 0.5,
+        "avg_rank": 1.5,
+        "avg_score": 251.0,
+        "avg_score_delta": 14.0,
+        "avg_balance": 8.5
+      }
+    }
+  },
+  "rankings": {
+    "hoarder_mixed": [
+      {
+        "policy": "floor-cap-8",
+        "score": 1.0,
+        "games": 2,
+        "top1": 1.0,
+        "survive_not_last": 1.0,
+        "last": 0.0,
+        "avg_rank": 1.0,
+        "avg_score": 305.0,
+        "avg_score_delta": 181.0,
+        "avg_balance": 14.5
+      },
+      {
+        "policy": "base",
+        "score": 0.5,
+        "games": 2,
+        "top1": 0.5,
+        "survive_not_last": 0.5,
+        "last": 0.5,
+        "avg_rank": 1.5,
+        "avg_score": 188.5,
+        "avg_score_delta": -28.5,
+        "avg_balance": 12.5
+      },
+      {
+        "policy": "professor-1v1",
+        "score": 0.5,
+        "games": 2,
+        "top1": 0.5,
+        "survive_not_last": 0.5,
+        "last": 0.5,
+        "avg_rank": 1.5,
+        "avg_score": 170.0,
+        "avg_score_delta": -120.5,
+        "avg_balance": 27.5
+      },
+      {
+        "policy": "sum-target-cap-8",
+        "score": 0.5,
+        "games": 2,
+        "top1": 0.5,
+        "survive_not_last": 0.5,
+        "last": 0.5,
+        "avg_rank": 1.5,
+        "avg_score": 251.0,
+        "avg_score_delta": 14.0,
+        "avg_balance": 8.5
+      },
+      {
+        "policy": "professor-six",
+        "score": 0.0,
+        "games": 2,
+        "top1": 0.0,
+        "survive_not_last": 0.0,
+        "last": 1.0,
+        "avg_rank": 2.0,
+        "avg_score": 172.5,
+        "avg_score_delta": -105.5,
+        "avg_balance": 7.5
+      }
+    ]
+  }
+}
